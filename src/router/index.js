@@ -44,6 +44,102 @@ const router = new VueRouter({
           component: () =>
             import(/* webpackChunkName: "tema3" */ '../views/Tema3.vue'),
         },
+        {
+          path: 'tema4',
+          name: 'tema4',
+          component: () =>
+            import(/* webpackChunkName: "tema4" */ '../views/Tema4.vue'),
+        },
+        {
+          path: 'tema5',
+          name: 'tema5',
+          component: () =>
+            import(/* webpackChunkName: "tema5" */ '../views/Tema5.vue'),
+        },
+        {
+          path: 'tema6',
+          name: 'tema6',
+          component: () =>
+            import(/* webpackChunkName: "tema6" */ '../views/Tema6.vue'),
+        },
+        {
+          path: 'tema7',
+          name: 'tema7',
+          component: () =>
+            import(/* webpackChunkName: "tema7" */ '../views/Tema7.vue'),
+        },
+        {
+          path: 'tema8',
+          name: 'tema8',
+          component: () =>
+            import(/* webpackChunkName: "tema8" */ '../views/Tema8.vue'),
+        },
+        {
+          path: 'tema9',
+          name: 'tema9',
+          component: () =>
+            import(/* webpackChunkName: "tema9" */ '../views/Tema9.vue'),
+        },
+        {
+          path: 'tema10',
+          name: 'tema10',
+          component: () =>
+            import(/* webpackChunkName: "tema10" */ '../views/Tema10.vue'),
+        },
+        {
+          path: 'tema11',
+          name: 'tema11',
+          component: () =>
+            import(/* webpackChunkName: "tema11" */ '../views/Tema11.vue'),
+        },
+        {
+          path: 'tema12',
+          name: 'tema12',
+          component: () =>
+            import(/* webpackChunkName: "tema12" */ '../views/Tema12.vue'),
+        },
+        {
+          path: 'tema13',
+          name: 'tema13',
+          component: () =>
+            import(/* webpackChunkName: "tema13" */ '../views/Tema13.vue'),
+        },
+        {
+          path: 'tema14',
+          name: 'tema14',
+          component: () =>
+            import(/* webpackChunkName: "tema14" */ '../views/Tema14.vue'),
+        },
+        {
+          path: 'tema15',
+          name: 'tema15',
+          component: () =>
+            import(/* webpackChunkName: "tema15" */ '../views/Tema15.vue'),
+        },
+        {
+          path: 'tema16',
+          name: 'tema16',
+          component: () =>
+            import(/* webpackChunkName: "tema16" */ '../views/Tema16.vue'),
+        },
+        {
+          path: 'tema17',
+          name: 'tema17',
+          component: () =>
+            import(/* webpackChunkName: "tema17" */ '../views/Tema17.vue'),
+        },
+        {
+          path: 'tema18',
+          name: 'tema18',
+          component: () =>
+            import(/* webpackChunkName: "tema18" */ '../views/Tema18.vue'),
+        },
+        {
+          path: 'tema19',
+          name: 'tema19',
+          component: () =>
+            import(/* webpackChunkName: "tema19" */ '../views/Tema19.vue'),
+        },
       ],
     },
     {
