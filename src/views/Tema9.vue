@@ -31,7 +31,7 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 9.1 Normativa
+            h4 Normativa
             p La (Resolución 1111, 2017) establece  los “Estándares mínimos del Sistema de Gestión y SST”, la cual se considera una normativa rigurosa expedida por el Ministerio de Trabajo para ser aplicada en todas las empresas avícolas del país, desde los pequeños productores que cuentan con menos de 10 trabajadores hasta las grandes empresas de la cadena productiva avícola.
 
           .col-md-6
@@ -40,9 +40,9 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 9.2 Aplicación
+            h4 Aplicación
             p Las granjas avícolas deben identificar peligros y estimar los riesgos de sus trabajadores y se deben clasificar según los parámetros técnicos y normativos, adicionalmente deben analizarlos de forma sistemática para poder implementar los procedimientos necesarios de prevención. El accidente laboral en las granjas avícolas debe tener un procedimiento de atención y es necesario investigarlos para tipificarlos y asegurar la aplicación de los protocolos. 
-            p Por tanto, las granjas avícolas deben incluir procedimientos para preservar la salud definida por la OMS, tales, como: ¨El estado de bienestar físico, mental y social completo, y no meramente la ausencia de daño o enfermedad”
+            p Por tanto, las granjas avícolas deben incluir procedimientos para preservar la salud definida por la OMS, tales, como: ¨El estado de bienestar físico, mental y social completo, y no meramente la ausencia de daño o enfermedad”.
 
           .col-md-6
             figure
@@ -50,18 +50,47 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 9.3 Elementos de protección
+            h4 Elementos de protección
             p Los elementos de protección personal, las medidas de protección y las prácticas higiénicas son muy importante, porque: Ayudan a disminuir los factores de riesgo físico, biológico y químico que pueden generar accidentes de trabajo y por ende incapacidades laborales.
-            p Con el propósito de preservar la salud y seguridad de los operarios según (Anzola et al., 2008)  deben existir: 
+            p Con el propósito de preservar la salud y seguridad de los operarios según (Anzola et al., 2008) deben existir: “equipos e implementos de seguridad en correcto funcionamiento y ubicados en lugar visible y de fácil acceso (extintores, campanas extractoras de aire, barandas, etc.). Los operarios dispondrán de adecuada dotación y usar los elementos de protección personal requeridos, tales como: 
           
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema9/img-50-1.png', alt='Texto que describa la imagen')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4 Elementos de protección
+            ul.lista-ul.mb-3
+              li 
+                i.lista-ul__vineta
+                | Casco
+              li 
+                i.lista-ul__vineta
+                | Caretas de acetato
+              li  
+                i.lista-ul__vineta
+                | Gafas de seguridad
+              li  
+                i.lista-ul__vineta
+                | Protectores auditivos
+              li  
+                i.lista-ul__vineta
+                | Respiradores mecánicos o de filtro químico
+              li  
+                i.lista-ul__vineta
+                | Zapatos de seguridad, entre otros
+            p ¨La empresa debe disponer de un botiquín dotado con los elementos mínimos requeridos para el control de afecciones, como heridas y traumatismos menores. Debe conformarse y entrenarse un equipo de personas en labores de primeros auxilios¨.
+
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema9/img-51.png', alt='Texto que describa la imagen')
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 9.4 Elementos de protección
-            p “equipos e implementos de seguridad en correcto funcionamiento y ubicados en lugar visible y de fácil acceso (extintores, campanas extractoras de aire, barandas, etc.). Los operarios dispondrán de adecuada dotación y usar los elementos de protección personal requeridos, cuando así sea necesario, tales como overoles, gafas, cascos, guantes de protección, botas.. etc.¨
+            h4 Elementos de protección
+            p ¨Deben existir equipos e implementos de seguridad en perfecto estado de funcionamiento y bien ubicados (extintores, camillas, etc.). 
+            p Los extintores deben estar ubicados en los sitios de mayor riesgo y que sean de fácil acceso a ellos¨ (p.45).
 
           .col-md-6
             figure
@@ -69,10 +98,33 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 9.5 Elementos de protección
-            p ¨La empresa debe disponer de un botiquín dotado con los elementos mínimos requeridos para el control de afecciones, como heridas y traumatismos menores. 
-            p Debe conformarse y entrenarse un equipo de personas en labores de primeros auxilios¨. ¨Deben existir equipos e implementos de seguridad en perfecto estado de funcionamiento y bien ubicados (extintores, camillas, etc.). 
-            p Los extintores deben estar ubicados en los sitios de mayor riesgo y que sean de fácil acceso a ellos¨ (p.45).
+            h4 Medidas de protección 
+            p Las medidas de protección en las granjas avícolas según (Anzola et al., 2008) se relacionan con el uso de:
+            ul.lista-ul.mb-5
+              li 
+                i.lista-ul__vineta
+                | Uniformes color claro, limpio y calzado cerrado de material resistente e impermeable
+              li 
+                i.lista-ul__vineta
+                | El uso de guantes en buen estado, limpios y desinfectados.
+              li  
+                i.lista-ul__vineta
+                | El reporte y seguimiento de las novedades clínicas del personal.
+              li 
+                i.lista-ul__vineta
+                | La capacitación en manipulación de alimentos como, por ejemplo: el manejo de los huevos.
+              li  
+                i.lista-ul__vineta
+                | Uso de gorro para cubrir el cabello, tapabocas y protectores de barba.
+              li 
+                i.lista-ul__vineta
+                | Los uniformes a la salida no deben ser expuestos a superficies contaminadas como andenes, pastos o el mismo suelo.
+              li 
+                i.lista-ul__vineta
+                |  Los visitantes deben también usar elementos de protección y hacer registro.
+              li 
+                i.lista-ul__vineta
+                |  Los uniformes deben ser lavados y desinfectados dentro de la granja para evitar contaminación cruzada.
 
           .col-md-6
             figure
@@ -80,31 +132,43 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 9.6 Elementos de protección  
-            p Estos disminuyen el contacto con peligros de las personas pero no los elimina, por tanto son solo usados para controlar los riesgos; se crean para las partes del cuerpo que pueden resultar lesionadas al ejecutar una tarea, en este caso en la granja avícola, a continuación, se muestran algunos ejemplos: 
+            h4 Técnicas de higiene
+            p Según (Anzola et al., 2008) las prácticas higiénicas en las granjas avícolas son:
             ul.lista-ul.mb-5
               li 
                 i.lista-ul__vineta
-                | Casco
+                | Mantener manos limpias
               li 
                 i.lista-ul__vineta
-                | Caretas de acetato 
+                | No tener joyas puestas  
               li  
                 i.lista-ul__vineta
-                | Gafas de seguridad
+                | Tener uñas cortas y sin esmalte
               li 
                 i.lista-ul__vineta
-                | Protectores auditivos
+                | Hacer un control periódico de condición de salud del personal
               li  
                 i.lista-ul__vineta
-                | Respiradores mecánicos o de filtro químico
+                | Evitar fumar
               li 
                 i.lista-ul__vineta
-                | Zapatos de seguridad, entre otros.
+                | Evitar el consumo de alimentos y bebidas
+              li 
+                i.lista-ul__vineta
+                |  Evitar toser
+              li 
+                i.lista-ul__vineta
+                |  Evitar estornudar
+              li 
+                i.lista-ul__vineta
+                |  Evitar escupir
+              li 
+                i.lista-ul__vineta
+                |  Cumplir con los protocolos de lavado de manos cada vez que sea necesario
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema9/img-54.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema9/img-55.png', alt='Texto que describa la imagen')
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 9.4 Medidas de protección 
@@ -142,42 +206,26 @@
 
     p.mb-5 Según (Anzola et al., 2008) las prácticas higiénicas en las granjas avícolas son:
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema9/img-55.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        ul.lista-ul.mb-5
-          li 
-            i.lista-ul__vineta
-            | Mantener manos limpias.
-          li 
-            i.lista-ul__vineta
-            | Sin joyas
-          li  
-            i.lista-ul__vineta
-            | Con uñas cortas y sin esmalte.
-          li 
-            i.lista-ul__vineta
-            | Hacer control de condición de salud del personal. 
-          li  
-            i.lista-ul__vineta
-            |  Evitar fumar, consumir alimentos y bebidas. 
-          li 
-            i.lista-ul__vineta
-            | Toser 
-          li  
-            i.lista-ul__vineta
-            | Evitar prácticas antihigiénicas, tales como:
-            li 
-              i.lista-ul__vineta
-              | Estornudar
-            li 
-              i.lista-ul__vineta
-              | Escupir etc. 
-          li 
-            i.lista-ul__vineta
-            | Cumplir con los protocolos de lavado de manos cada vez que sea necesario.
+    figure.mb-5(data-aos="fade-down")
+      img(src='@/assets/curso/temas/tema9/imagen-1.svg', alt='Texto que describa la imagen')
+
+    .row.align-items-center.mb-5(data-aos="fade-down-left")
+      .col-md-5.mb-2
+        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+          img(src='@/assets/curso/temas/tema9/imagen.svg', alt='')
+      .col-md-7.mb-4.mb-md-0.movil.m-auto
+        a.anexo.mb-5(href=("http://www.mintrabajo.gov.co/documents/20147/647970/Resolución+1111-+estándares+minimos-marzo+27.pdf") target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Seguridad y salud en el trabajo en granjas avícolas Resolución 1111
+
+        a.anexo.mb-3(href=("https://www.mintrabajo.gov.co/documents/20147/0/DUR+Sector+Trabajo+Actualizado+a+15+de+abril++de+2016.pdf/a32b1dcf-7a4e-8a37-ac16-c121928719c8") target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Decreto 1072, 2015 
+    
 
     .col-xl-10.mx-auto.mb-5
       .tarjeta.color-primario.p-3.mb-5

@@ -18,7 +18,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 18.1 Protocolo de recolección 
 
-    p El protocolo de recolección de aves muertas tiene el siguiente proceso inicia cuando el operario hace un recorrido diario por los galpones de la granja para verificar la mortalidad, si existen aves muerta desarrollar los siguientes pasos para compostar adecuadamente: 
+    p El protocolo de recolección de aves muertas, inicia cuando el operario hace un recorrido diario por los galpones de la granja para verificar la mortalidad, si existen aves muertas, se deben desarrollar los siguientes pasos para compostar adecuadamente:
 
     .row.mb-5
       .col-md.mb-5.mb-sm-0

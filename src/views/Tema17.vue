@@ -39,7 +39,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema17/img-78.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 ELa sanitización del material está directamente relacionada con la temperatura para garantizar el proceso de eliminación de patógenos, se debe dar cumplimiento a dos aspectos fundamentales: 
+        p.mb-0 La sanitización del material está directamente relacionada con la temperatura para garantizar el proceso de eliminación de patógenos, se debe dar cumplimiento a dos aspectos fundamentales: 
         ul.lista-ul.mb-5
           li 
             i.lista-ul__vineta

@@ -13,7 +13,7 @@
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 12. Insumos pecuarios
+            h4 Insumos pecuarios
             p Las empresas avícolas deben hacer compras de algunos insumos pecuarios que se utilizan en la gestión de una empresa avícola. 
 
           .col-md-6
@@ -22,7 +22,7 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 12. 1 Tipos 
+            h4 Tipos 
             p Los tipos de insumos pecuarios son reconocidos por  (Anzola et al., 2008) como: 
             p “Producto químico, biológico o de origen biotecnológico utilizado para promover la producción avícola. 
             p Se incluyen en esta definición las aves con destino a la reproducción, comerciales de primera generación y los huevos fértiles para incubación” (p.10). 
@@ -101,7 +101,7 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 12.2 Usos 
+            h4 Usos 
             p En las siguientes resoluciones se puede revisar el uso de insumos en granjas avícolas. 
             ul.lista-ul.mb-5
               li 
@@ -156,6 +156,17 @@
             figure
               img(src='@/assets/curso/temas/tema12/img-64.png', alt='Texto que describa la imagen')
 
+    .row.align-items-center.mb-4(data-aos="fade-down-left")
+      .col-md-6.mb-4
+        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+          img(src='@/assets/curso/temas/tema12/imagen.svg', alt='')
+      .col-md-6.mb-4.mb-md-0.movil.m-auto
+        a.anexo.mb-5(href=("https://www.ica.gov.co/getattachment/e43634ab-bc8f-4979-ab3b-8e3f6a8fefee/789.aspx") target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p resolución 789, 2007
+
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 12.1 Ingreso de insumos pecuarios
 
@@ -188,13 +199,24 @@
         i.lista-ul__vineta
         | Ejecutar procesos de limpieza y desinfección de instalaciones, equipos, utensilios e insumos.
 
+    .row.align-items-center.mb-4(data-aos="fade-down-left")
+      .col-md-6.mb-4
+        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+          img(src='@/assets/curso/temas/tema12/imagen-1.svg', alt='')
+      .col-md-6.mb-4.mb-md-0.movil.m-auto
+        a.anexo.mb-5(href=("https://fenavi.org/wp-content/uploads/2020/05/RESOLUCION-773-DE-13-DE-MAYO-DE-2020.pdf") target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p resolución 773, 2020
+
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 12.3 Procedimiento técnico
 
-    p.mb-5 Los insumos pecuarios ya sean químico y biológico deben tener procedimientos técnicos descritos en la ficha técnica que en la hoja de seguridad y deben cumplir con las condiciones de manejo que se describen en los documentos de una empresa especializada en el tema, los cuales encuentra en la sección de materiales complementarios con los nombres: hoja de seguridad y ficha técnica.
+    p.mb-5 Los insumos pecuarios ya sean químicos y/o biológicos, deben tener procedimientos técnicos descritos en la ficha técnica y hoja de seguridad. Es importante que la empresa avícola acate todos los requerimientos que da el proveedor de estos insumos, con el fin de evitar su mal uso, despilfarro o algún accidente por contacto.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 12.4 Normativa sanitaria de Insumos pecuarios
+      h2#t_1_1 12.4 Normativa sanitaria de insumos pecuarios
 
     p En las granjas avícolas bioseguras los insumos pecuarios son requeridos para los procesos de producción avícola y están regulados por diferentes normas así:  
 
@@ -208,10 +230,34 @@
     
     p Para ampliar la información es indispensable revisar los capítulos II artículo 5 al 7 y capitulo III artículos 8 al 10, en donde hace referencia a la responsabilidad del manejo y de insumos, sustancias químicas y biológicas, y generación de residuos de los mismos insumos; en donde podemos encontrar todas las disposiciones y especificaciones sobre el correcto uso, almacenamiento y disposición final de los insumos pecuarios que se utilizan en la industria avícola.
     
-    ul.lista-ul
+    ul.lista-ul.mb-5
       li 
         i.lista-ul__vineta
-        | <strong>Límites Máximos para residuos de medicamentos veterinarios:</strong> la  Resolución 1382 de 2013, tiene por objeto establecer “los Límites Máximos para Residuos de Medicamentos Veterinarios en los alimentos de origen animal, destinados al consumo humano, con el fin de proteger la salud de la población”; estos procedimientos hacen que las granjas avícolas bioseguras reconozcan parámetros técnicos y procedimientos administrativos de inspección, vigilancia, control, medidas de seguridad y sanciones a tener en cuenta
+        | <strong>Límites máximos para residuos de medicamentos veterinarios:</strong> la  Resolución 1382 de 2013, tiene por objeto establecer “los Límites Máximos para Residuos de Medicamentos Veterinarios en los alimentos de origen animal, destinados al consumo humano, con el fin de proteger la salud de la población”; estos procedimientos hacen que las granjas avícolas bioseguras reconozcan parámetros técnicos y procedimientos administrativos de inspección, vigilancia, control, medidas de seguridad y sanciones a tener en cuenta.
+
+    .row.align-items-center.mb-4(data-aos="fade-down-left")
+      .col-md-6.mb-4
+        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+          img(src='@/assets/curso/temas/tema12/imagen-2.svg', alt='')
+      .col-md-6.mb-4.mb-md-0.movil.mt-0
+        a.anexo.mb-5(href=("https://www.ica.gov.co/getattachment/043131ae-1652-49c9-959d-96ab4e371707/1996R1056.aspx") target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Resolución 1056,1996
+
+        a.anexo.mb-3(href=("https://fenavi.org/wp-content/uploads/2019/02/Resolucion-1382-de-2013.pdf") target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Resolución 1382, 2013
+
+
+
+
+
+
+
 
 
 

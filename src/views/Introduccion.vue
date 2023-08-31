@@ -9,10 +9,10 @@
           i.fas.fa-info
       h1 Introducción
 
-    p Describe la importancia de la bioseguridad y su papel fundamental en la producción en dichas empresas, esto solo si se tiene en cuenta la normatividad vigente, tales como: leyes, decretos y resoluciones de las diferentes entidades relacionadas con el sector pecuario y avícola.
-    p.mb-5 Adicionalmente también se exponen los conceptos y aspectos básicos a tener en cuenta cuando se hace gestión de una empresa avícola, tales como: 
+    p(data-aos="fade-right") Describe la importancia de la bioseguridad y su papel fundamental en la producción en dichas empresas, esto solo si se tiene en cuenta la normatividad vigente, tales como: leyes, decretos y resoluciones de las diferentes entidades relacionadas con el sector pecuario y avícola.
+    p.mb-5(data-aos="fade-right") Adicionalmente también se exponen los conceptos y aspectos básicos a tener en cuenta cuando se hace gestión de una empresa avícola, tales como: 
 
-    .col-xl-8.mx-auto
+    .col-xl-8.mx-auto.mb-5(data-aos="fade-right")
       .tarjeta.color-acento-contenido.p-5
         .row.justify-content-around.align-items-center
           .col
@@ -40,7 +40,11 @@
                   li 
                     i.fas.fa-check
                     | Alojamiento de aves.
-
+    
+    figure.mt-5.mb-5(data-aos="fade-right")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/iGo5eRtorT8" title="Conceptos y normatividad de bioseguridad en granjas avícolas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+    
     
 </template>
 

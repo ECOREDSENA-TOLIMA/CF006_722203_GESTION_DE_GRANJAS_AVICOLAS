@@ -87,7 +87,7 @@
         | De las intervenciones dolorosas del manejo.
       li  
         i.lista-ul__vineta
-        | Del sacrificio humanitario e eutanasia y
+        | Del sacrificio humanitario e eutanasia.
       li  
         i.lista-ul__vineta
         | De los planes de contingencia y emergencia.
@@ -103,7 +103,7 @@
         | Granjas de material genético (abuelas, reproductoras).
       li 
         i.lista-ul__vineta
-        | Granjas comerciales (ponedoras de huevo de mesa, y de pollo de engorde) e
+        | Granjas comerciales (ponedoras de huevo de mesa, y de pollo de engorde).
       li  
         i.lista-ul__vineta
         | Incubadoras y plantas de beneficio de aves (2014).
@@ -113,7 +113,7 @@
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 2.
-        span <em>Componentes del Sistema de Gestión avícola</em>
+        span <em>Componentes del sistema de gestión agrícola</em>
       img.d-md-block(src="@/assets/curso/temas/tema1/img-3.svg" data-aos="fade-left")
 
 

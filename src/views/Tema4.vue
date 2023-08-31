@@ -11,8 +11,16 @@
 
     p.mb-5 Por otro lado, según el decreto 2113, (2017) son “todas aquellas medidas sanitarias, procedimientos técnicos y normas de manejo que se aplican de forma permanente, con el propósito de prevenir la entrada y salida de agentes infecto contagiosos en la unidad de producción primaria” (p.1).
 
-    .col-xl-10.mx-auto.mb-5
-      img.d-md-block(src="@/assets/curso/temas/tema4/img-15.svg" data-aos="fade-left")
+    .row.align-items-center.mb-4(data-aos="fade-right")
+      .col-md-6.mb-4
+        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+          img(src="@/assets/curso/temas/tema4/img-15.svg" data-aos="zoom-in-up" alt="")
+      .col-md-6.mb-4.mb-md-0.movil.m-auto
+        a.anexo.mb-5(href=("https://www.minagricultura.gov.co/Normatividad/Decretos/Decreto%20No.%202113%20de%202017.pdf") target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Anexo. Decreto 2117 de 2017
     
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 4.1 Programa 

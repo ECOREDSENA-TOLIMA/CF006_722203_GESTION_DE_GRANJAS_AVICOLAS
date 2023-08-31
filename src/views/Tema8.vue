@@ -5,13 +5,13 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 8
-      h1 Procedimientos operativos estandarizados de saneamiento (POES)
+      h1 Procedimientos Operativos Estandarizados de Saneamiento (POES)
 
-    p El Procedimiento operativo estandarizado de saneamiento (POES), es definido por la Resolución 3652 de 2014 como:
-    p “la descripción operativa y detallada de una actividad o proceso, en la cual se precisa la forma como se llevará a cabo el procedimiento, el responsable de su ejecución y la periodicidad con que debe realizarse, adicionalmente menciona los elementos, herramientas o productos que se van a utilizar. Por lo anterior, debe contar con un registro físico y sistemático que recopila, consigna y conserva de forma segura los datos en formatos que faciliten su consulta y verificación” (p.7).  
-    p Cada granja avícola para certificarse como biosegura debe diseñar e implementar los POES de acuerdo a sus requerimientos:
+    p(data-aos="fade-right") El Procedimiento operativo estandarizado de saneamiento (POES), es definido por la Resolución 3652 de 2014 como:
+    p(data-aos="fade-down") “la descripción operativa y detallada de una actividad o proceso, en la cual se precisa la forma como se llevará a cabo el procedimiento, el responsable de su ejecución y la periodicidad con que debe realizarse, adicionalmente menciona los elementos, herramientas o productos que se van a utilizar. Por lo anterior, debe contar con un registro físico y sistemático que recopila, consigna y conserva de forma segura los datos en formatos que faciliten su consulta y verificación” (p.7).  
+    p(data-aos="fade-right") Cada granja avícola para certificarse como biosegura debe diseñar e implementar los POES de acuerdo a sus requerimientos:
 
-    ul.lista-ul.mb-5
+    ul.lista-ul.mb-5(data-aos="fade-down")
       li 
         i.lista-ul__vineta
         | Instalaciones
@@ -32,31 +32,13 @@
         | Recursos 
       li
         i.lista-ul__vineta 
-        | Formatos necesarios.
+        | Formatos necesarios
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 8.1 Objetivo 
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema8/img-46.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 El objetivo  de los POES según  Anzola (2008) es documentar, implementar, mantener métodos y por lo tanto sus procedimientos para lograr:
-        br
-        ul.lista-ul.mb-5
-          li 
-            i.lista-ul__vineta
-            | La estandarización
-          li 
-            i.lista-ul__vineta
-            | El monitoreo y  
-          li  
-            i.lista-ul__vineta
-            | La aplicación de acciones y
-          li 
-            i.lista-ul__vineta
-            | Establecer acciones de mejora en cada uno de los procesos de la granja.
+    figure.mb-5(data-aos="fade-right")
+      img(src='@/assets/curso/temas/tema8/imagen.svg', alt='Texto que describa la imagen')
         
     p Las granjas avícolas bioseguras en sus procedimientos operativos estandarizados de sanitización (POES) según la Resolución 3652 de 2014 requieren cumplir con:
 
@@ -69,25 +51,43 @@
         | Requisitos de bioseguridad   
       li  
         i.lista-ul__vineta
-        | De Infraestructura
+        | De infraestructura
       li 
         i.lista-ul__vineta
-        | De pautas procedimentales y
+        | De pautas procedimentales
       li 
         i.lista-ul__vineta 
-        | De registro utilizando parámetros técnicos y formatos. 
+        | De registro utilizando parámetros técnicos y formatos
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 8.2 Ventajas
 
-    p.mb-5 Las ventajas de los POES es que la granja avícola cuenta con documentación disponibles para procesos de reinducción e inducción y desarrollo de las actividades de la granja, por otra parte estos son dinámicos y pueden ser actualizados de acuerdo a los cambios en la normatividad,  por lo que es necesario asegurar el registro y documentación de la información con el fin de garantizar que los procesos se desarrollen de acuerdo a los protocolos ya que se pueden ver  las listadas las acciones y tareas a desarrollar en la granja avícola.  
+    p.mb-5 Las ventajas de los POES es que la granja avícola cuenta con documentación disponibles para procesos de reinducción e inducción y desarrollo de las actividades de la granja, por otra parte estos son dinámicos y pueden ser actualizados de acuerdo a los cambios en la normatividad,  por lo que es necesario asegurar el registro y documentación de la información, con el fin de garantizar que los procesos se desarrollen de acuerdo a los protocolos, ya que se pueden ver  las listadas las acciones y tareas a desarrollar en la granja avícola.  
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 8.3 Parámetros de verificación de los POES
 
     p Las granjas avícolas deberán cumplir a cabalidad con lo establecido en los Procedimientos Operativos Estandarizados (POE), los cuales son definidos por la Resolución 3651 de 2014 para granjas avícolas bioseguras de postura y/o levante.
-    p Por otro lado, debe cumplir con las siguientes resoluciones:
-    p.mb-5 A continuación, se mencionan los parámetros a tener en cuenta:       
+    p.mb-5 Por otro lado, debe cumplir con las siguientes resoluciones: 
+
+    .row.align-items-center.mb-5(data-aos="fade-down-left")
+      .col-md-5.mb-2
+        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+          img(src='@/assets/curso/temas/tema8/imagen-1.svg', alt='')
+      .col-md-7.mb-4.mb-md-0.movil.mt-0
+        a.anexo.mb-5(href=("https://www.ica.gov.co/getattachment/124802ad-c49c-470d-809e-a9ce5ad3db76/2014R3652.aspx") target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Resolución 3652, 2014
+
+        a.anexo.mb-3(href=("https://fenavi.org/wp-content/uploads/2018/04/RESOLUCION-3650-DE-2014-1.pdf") target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Resolución 3650, 2014     
+    
+    p A continuación, se mencionan los parámetros a tener en cuenta: 
 
     ul.lista-ul.mb-5
       li 
@@ -113,7 +113,7 @@
         | Programa sanitario.   
       li  
         i.lista-ul__vineta
-        | Capacitación
+        | Capacitación.
       li 
         i.lista-ul__vineta
         | Mantenimiento preventivo y/o correctivo de instalaciones y equipos.
@@ -163,77 +163,64 @@
         i.lista-ul__vineta
         | Observaciones
 
-    p - Información Específica del Formato de Control por POE 
+    p - Información específica del formato de control por POE: 
     
     ul.lista-ul.mb-5
       li 
         i.lista-ul__vineta
-        | Formato de ingreso de personas y vehículos a la GAB de postura y/o levante
+        | Formato de ingreso de personas y vehículos a la GAB de postura y/o levante.
       li 
         i.lista-ul__vineta
-        | Formato de tratamiento de agua   
+        | Formato de tratamiento de agua.
       li  
         i.lista-ul__vineta
-        | Formato de control integrado de plagas
+        | Formato de control integrado de plagas.
       li 
         i.lista-ul__vineta
-        | Formato de mortalidad de las aves
+        | Formato de mortalidad de las aves.
       li 
         i.lista-ul__vineta 
-        | Formato de manejo y disposición de la mortalidad en la GAB de postura y/o levante 
+        | Formato de manejo y disposición de la mortalidad en la GAB de postura y/o levante.
       li 
         i.lista-ul__vineta
-        | Formato de tratamiento térmico de la gallinaza
+        | Formato de tratamiento térmico de la gallinaza.
       li 
         i.lista-ul__vineta 
-        | Formato de vacunación  
+        | Formato de vacunación.
       li 
         i.lista-ul__vineta
-        | Formato del uso de medicamentos veterinarios
+        | Formato del uso de medicamentos veterinarios.
       li 
         i.lista-ul__vineta 
-        | Formato de capacitación  
+        | Formato de capacitación.  
       li 
         i.lista-ul__vineta
-        | Formato de mantenimiento
+        | Formato de mantenimiento.
       li 
         i.lista-ul__vineta 
-        | Formato de trazabilidad del huevo para consumo humano  
+        | Formato de trazabilidad del huevo para consumo humano.  
       li 
         i.lista-ul__vineta
-        | Formato de calibración de equipos
+        | Formato de calibración de equipos.
 
     p Es necesario tener en cuenta que dependiendo de la importancia de los formatos su diligenciamiento puede ser:
 
     ul.lista-ul.mb-5
       li 
         i.lista-ul__vineta
-        | Formato de ingreso de personas y vehículos a la GAB de postura y/o levante
+        | Diario.
       li 
         i.lista-ul__vineta
-        | Formato de tratamiento de agua   
+        | Semanal.   
       li  
         i.lista-ul__vineta
-        | Formato de control integrado de plagas
+        | Mensual.
 
-    p Es necesario tener en cuenta que dependiendo de la importancia de los formatos su diligenciamiento puede ser:
-
-    ul.lista-ul.mb-5
-      li 
-        i.lista-ul__vineta
-        | Diario
-      li 
-        i.lista-ul__vineta
-        | Semanal   
-      li  
-        i.lista-ul__vineta
-        | Mensual 
-
-    p Lo anterior, con el fin de tener la evidencia para la validación adecuada de los procesos que se desarrollan en la granja avícola. Pueden consultar el anexo que es un formato de las actividades de limpieza y desinfección definida en los procedimientos de sanitización, como un ejemplo del formato POE.
+    p.mb-5 Lo anterior, con el fin de tener la evidencia para la validación adecuada de los procesos que se desarrollan en la granja avícola. Pueden consultar el anexo que es un formato de las actividades de limpieza y desinfección definida en los procedimientos de sanitización, como un ejemplo del formato POE.
 
     .row.justify-content-center
       .col-lg-6
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Ejemplo_Formato_POE.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

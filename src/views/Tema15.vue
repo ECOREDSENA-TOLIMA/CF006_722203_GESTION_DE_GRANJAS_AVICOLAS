@@ -96,27 +96,23 @@
             i.lista-ul__vineta
             | No corrosivo y 100% biodegradable.
       .row(titulo="Métodos").p-0
-        p Las operaciones de limpieza y desinfección en una granja avícola utilizan métodos de limpieza por:
-        p <strong>Arrastre mecánico.</strong>
+        p.mb-5 Las operaciones de limpieza y desinfección en una granja avícola utilizan métodos de limpieza por:
+        p <strong>Arrastre mecánico</strong>
         p La eliminación de los microorganismos junto con grasas naturales, suciedad y células descamativas, se hace por medio del uso de agua, jabón y fricción.
-        p <strong>Sustancias químicas.</strong>
+        p <strong>Sustancias químicas</strong>
         p Se usan antisépticos y desinfectantes.
         p <strong>Esterilización</strong>
         p.mb-5 Se usan medios físicos o químicos.
-        p Los tipos de limpieza pueden ser: 
-        p.mb-5 <strong>Limpieza en seco:</strong>
-        p Se realiza la remoción de los residuos por medio del uso de cepillos o un método físico, en equipos y superficies. 
-        p <strong>Limpieza húmeda:</strong>
-        p Se emplea una solución limpiadora compuesta por agua y un detergente normalmente.
-        p <strong>Limpieza manual:</strong>
-        p Se hace con acción mecánica fuerte, con el frotado o fregado con cepillo u otro elemento.
-        p <strong>Limpieza en el sitio:</strong>
-        p Utiliza una solución de limpieza aplicada a las superficies internas de los equipos, tanques y circuitos, por recirculación.
+        p.mb-5 Los tipos de limpieza pueden ser: 
+        p <strong>Limpieza en seco:</strong> se realiza la remoción de los residuos por medio del uso de cepillos o un método físico, en equipos y superficies. 
+        p <strong>Limpieza húmeda:</strong> se emplea una solución limpiadora compuesta por agua y un detergente normalmente.
+        p <strong>Limpieza manual:</strong> se hace con acción mecánica fuerte, con el frotado o fregado con cepillo u otro elemento.
+        p <strong>Limpieza en el sitio:</strong> utiliza una solución de limpieza aplicada a las superficies internas de los equipos, tanques y circuitos, por recirculación.
       .row(titulo="Frecuencia").p-0
         p La frecuencia de los procesos de limpieza y desinfección en una granja avícola puede variar dependiendo del tipo de utensilio, equipo o instalación y se clasifican generalmente en los siguientes intervalos:
-        p <strong>Diarias:</strong> Algunos utensilios y equipos requieren ser limpiados y desinfectados a diario debido a su constante uso y exposición.
-        p <strong>Semanales:</strong> Otros utensilios, equipos o áreas pueden requerir limpieza y desinfección semanalmente, considerando la frecuencia y nivel de contaminación a los que están expuestos.
-        p <strong>Mensuales:</strong> Algunas instalaciones o áreas menos expuestas o de menor uso pueden requerir limpieza y desinfección mensualmente.
+        p <strong>Diarias:</strong> algunos utensilios y equipos requieren ser limpiados y desinfectados a diario debido a su constante uso y exposición.
+        p <strong>Semanales:</strong> otros utensilios, equipos o áreas pueden requerir limpieza y desinfección semanalmente, considerando la frecuencia y nivel de contaminación a los que están expuestos.
+        p <strong>Mensuales:</strong> algunas instalaciones o áreas menos expuestas o de menor uso pueden requerir limpieza y desinfección mensualmente.
         p Es importante tener en cuenta estas frecuencias para mantener la higiene y la bioseguridad en la granja avícola.
       .row(titulo="Fichas técnicas").p-0
         p En relación a las fichas técnicas, los productos de limpieza y desinfección deben contar con información detallada que se encuentra en estos documentos. Según FENAVI (2011), las fichas técnicas proporcionan información como el nombre comercial del producto, número de registro (ICA u otros), laboratorio productor y distribuidor, composición, presentación, indicaciones de uso, dosis, clasificación toxicológica y condiciones de almacenamiento. En el caso de medicamentos o biológicos, también se incluyen contraindicaciones y períodos de resguardo (p.10). Es importante que los empleados conozcan estas fichas técnicas para garantizar su seguridad.
@@ -290,22 +286,16 @@
             figure
               img(src='@/assets/curso/temas/tema15/img-73.png', alt='Texto que describa la imagen')
 
-    .col-xl-5.mx-auto
-      .tarjeta.color-acento-botones2.p-3.mb-5
-        .row.justify-content-around.align-items-center
-          .col
-            .row.justify-content-between.align-items-center
-              .col.mb-3.mb-sm-0
-                h3 Desinfectante y detergentes
-                h3 Para profundizar en los temas sobre el uso de desinfectantes y detergentes en el mercado y su conceptualización puede revisar la Resolución 223 de 2021.
-
-    .row.justify-content-center
-      .col-lg-4
-        a.anexo.mb-4(:href="('https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%20223%20%20de%202021.pdf')" target="_blank")
+    .row.align-items-center.mb-4(data-aos="fade-down-left")
+      .col-md-6.mb-0
+        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+          img(src='@/assets/curso/temas/tema15/imagen.svg', alt='')
+      .col-md-6.mb-4.mb-md-3.m-auto.movil.m-auto
+        a.anexo.mb-5(href=("https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%20223%20%20de%202021.pdf") target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p <strong>Anexo.</strong> Resolución 223 de 2021.
+            p Anexo. Resolución 223 de 2021.
 
 
 

@@ -12,7 +12,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 13.1 Protocolos 
 
-    p En los protocolos de ingreso de animales a una granja avícola se deben cumplir según la Resolución 0253 de 2020 con las condiciones generales de:
+    p En los protocolos de ingreso de animales a una granja avícola, se deben cumplir según la Resolución 0253 de 2020 con las condiciones generales de:
 
     ul.lista-ul.mb-5
       li 
@@ -46,7 +46,7 @@
         i.lista-ul__vineta
         | De los planes de emergencia y contingencia relacionados con el bienestar animal.
 
-    p.mb-5 En los protocolos también se debe tener en cuenta las provisiones de confort animal que según FENAVI (2019c) los cuales son: genética, ambiente, manejo, salud, comportamiento, alimentación y microclima y se muestran en la siguiente figura: 
+    p.mb-5 En los protocolos también se deben tener en cuenta las provisiones de confort animal, que según FENAVI (2019c), deben ser la genética, el ambiente, el manejo, la salud, el comportamiento, la alimentación y el microclima, como se muestra en la siguiente figura:
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
@@ -54,7 +54,7 @@
         span <em>Provisiones de confort animal</em>
       img.d-md-block(src="@/assets/curso/temas/tema13/img-65.svg" data-aos="fade-left")
 
-    p En los protocolos de ingreso de animales a una granja avícola se deben cumplir según la Resolución 0253 de 2020 con las condiciones generales de:
+    p De igual forma se deben incluir en los protocolos, los aspectos mínimos para suministrar a las aves un estado de confort desde el ingreso, hasta el momento del sacrificio o descarte de los animales, como se muestra a continuación:
 
     ul.lista-ul.mb-5
       li 
@@ -65,16 +65,16 @@
         | La temperatura 
       li 
         i.lista-ul__vineta
-        | El espacio influye en el confort o bienestar de las aves permitiendo que realicen sus procesos fisiológicos de manera adecuada y que se refleje en los índices productivos.
+        | El espacio influye en el confort o bienestar de las aves, permitiendo que realicen sus procesos fisiológicos de manera adecuada y que se refleje en los índices productivos.
       li 
         i.lista-ul__vineta
-        | El suministro del agua se debe cumplir con condiciones de sanidad e inocuidad para contribuir a su nutrición y sanidad evitando la presencia de patógenos que afecten la salud de las aves.
+        | El suministro del agua debe cumplir con las condiciones de sanidad e inocuidad, para contribuir a su nutrición y evitar la presencia de patógenos que afecten la salud de las aves.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 13.2 Principios de bienestar animal 
 
     p El bienestar animal es definido por la Resolución 0253 de 2020 como: “el estado físico y mental de un animal en relación a las condiciones en que vive y muere”, a su vez la Federación Nacional de Avicultores (FENAVI, 2019c) considera que  el “confort o bienestar animal puede entenderse como el modo en que un animal afronta las condiciones de su entorno, considerándose estar en buenas condiciones de bienestar si está sano, cómodo, bien alimentado, en seguridad y si no padece sensaciones desagradable de dolor, miedo o desasosiego”(p.10).
-    p El bienestar animal en la avicultura es de gran importancia ya que la finalidad de este es ofrecer unas condiciones dignas y adecuadas en el desarrollo de la producción de aves respetando las condiciones y libertades que exigen para obtener así productos de calidad.
+    p El bienestar animal en la avicultura es de gran importancia, ya que la finalidad de este es ofrecer unas condiciones dignas y adecuadas en el desarrollo de la producción de aves respetando las condiciones y libertades que exigen para obtener así productos de calidad.
     p.mb-5 A continuación, se mencionan las libertades de bienestar animal y provisiones de confort:
 
     .col-xl-10.mx-auto.mb-5
@@ -122,19 +122,12 @@
         i.lista-ul__vineta
         | <strong>Condiciones de bienestar animal:</strong> en esta norma la Resolución 0253 de 2020 adopta el “manual de condiciones de bienestar animal propia de cada una de las especies de producción de sector agropecuaria, bovinas, bufalinas, aves de corral y animales acuáticos”. (p. 1), para ser aplicadas en las diferentes producciones pecuarias del país y especialmente en aves de corral de granjas avícolas bioseguras. 
 
-    .col-xl-5.mx-auto
-      .tarjeta.color-acento-botones2.p-3.mb-5
-        .row.justify-content-around.align-items-center
-          .col
-            .row.justify-content-between.align-items-center
-              .col.mb-3.mb-sm-0
-                p Condiciones de bienestar animal 
-                p Resolución 0253 (2020)
-                p Para acceder a la información sobre las condiciones de bienestar animal puede descargar el siguiente documento.
-      
-    .row.justify-content-center
-      .col-lg-3
-        a.anexo.mb-4(:href="('https://fenavi.org/wp-content/uploads/2020/10/RESOLUCION-0253-DE-2020.pdf')" target="_blank")
+    .row.align-items-center.mb-4(data-aos="fade-down-left")
+      .col-md-6.mb-0
+        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+          img(src='@/assets/curso/temas/tema13/imagen.svg', alt='')
+      .col-md-6.mb-4.mb-md-0.movil.m-auto
+        a.anexo.mb-5(href=("https://fenavi.org/wp-content/uploads/2020/10/RESOLUCION-0253-DE-2020.pdf") target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

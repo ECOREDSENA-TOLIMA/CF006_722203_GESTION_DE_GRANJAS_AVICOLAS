@@ -20,7 +20,7 @@
       .row(titulo="Residuo sólido").p-4
         .col-md-6
           figure
-            img.mx-auto.mb-5(src='@/assets/curso/temas/tema7/img-33.svg', style="max-width:250px", alt='Texto que describa la imagen')
+            img.mx-auto.mb-5(src='@/assets/curso/temas/tema7/img-33.png', style="max-width:250px", alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0
           p Según (FENAVI, 2019b) el residuo es cualquier objeto, material, sustancia o elemento sólido, líquido o gaseoso generado en actividades de producción que se abandona, bota o rechaza, y que es susceptible o no de aprovechamiento o transformación en un bien con valor económico.
       .row(titulo="Generación").p-4
@@ -40,24 +40,24 @@
           figure
             img.mx-auto.mb-5(src='@/assets/curso/temas/tema7/img-36.svg', style="max-width:250px", alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0
-          p <strong>Tóxicos:</strong> Afectan la vida.
-          p <strong>No tóxicos:</strong> Se pueden usar libremente en la elaboración de alimentos.
-          p <strong>Ordinarios:</strong> Poseen características no peligrosas y son dispuestas por la empresa pública de aseo. 
-          p <strong>Peligrosos:</strong> Son aquellos desechos que, por sus características corrosivas reactivas, explosivas, tóxicas o inflamables, infecciosas o también radiactivas pueden causar riesgo o daño para la salud humana y el ambiente.
+          p <strong>Tóxicos:</strong> afectan la vida.
+          p <strong>No tóxicos:</strong> se pueden usar libremente en la elaboración de alimentos.
+          p <strong>Ordinarios:</strong> poseen características no peligrosas y son dispuestas por la empresa pública de aseo. 
+          p <strong>Peligrosos:</strong> son aquellos desechos que, por sus características corrosivas reactivas, explosivas, tóxicas o inflamables, infecciosas o también radiactivas pueden causar riesgo o daño para la salud humana y el ambiente.
       .row(titulo="Clasificación 2").p-4
         .col-md-6
           figure
             img.mx-auto.mb-5(src='@/assets/curso/temas/tema7/img-37.svg', style="max-width:250px", alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0
-          p <strong>Domésticos:</strong> Son los desechos generados en los hogares y se refieren a los materiales y productos que se descartan después de su uso diario
-          p <strong>Industriales:</strong>  Son los desechos generados por actividades comerciales y productivas en el sector industrial.
+          p <strong>Domésticos:</strong> son los desechos generados en los hogares y se refieren a los materiales y productos que se descartan después de su uso diario
+          p <strong>Industriales:</strong> son los desechos generados por actividades comerciales y productivas en el sector industrial.
       .row(titulo="Clasificación 3").p-4
         .col-md-6
           figure
             img.mx-auto.mb-5(src='@/assets/curso/temas/tema7/img-38.svg', style="max-width:250px", alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0
-          p <strong>Orgánicos:</strong> Son biodegradables y se descomponen naturalmente porque tienen la característica de desintegrarse o de degradarse rápidamente transformándose en otro tipo de materia orgánica.
-          p <strong>Inorgánicos:</strong> Los residuos inorgánicos es todo desecho de origen no biológico, de origen industrial o de algún otro proceso no natural, como, por ejemplo: los plásticos y las telas sintéticas.
+          p <strong>Orgánicos:</strong> son biodegradables y se descomponen naturalmente porque tienen la característica de desintegrarse o de degradarse rápidamente transformándose en otro tipo de materia orgánica.
+          p <strong>Inorgánicos:</strong> los residuos inorgánicos es todo desecho de origen no biológico, de origen industrial o de algún otro proceso no natural, como, por ejemplo: los plásticos y las telas sintéticas.
       .row(titulo="Segregación en la fuente").p-4
         .col-md-6
           figure
@@ -69,7 +69,7 @@
           figure
             img.mx-auto.mb-5(src='@/assets/curso/temas/tema7/img-40.svg', style="max-width:250px", alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0
-          p Según (Anzola et al., 2008) el manejo y disposición de residuos sólidos y líquidos afecta las emisiones atmosféricas
+          p Según (Anzola et al., 2008) el manejo y disposición de residuos sólidos y líquidos afecta las emisiones atmosféricas.
           p Por esa razón, el manejo de emisiones atmosféricas no debe representar riesgo de contaminación para el producto aviar, por lo que las instalaciones deben cumplir con lo establecido en la legislación sanitaria y ambiental vigente.
       .row(titulo="Manejo 2").p-4
         .col-md-6
@@ -84,8 +84,7 @@
           figure
             img.mx-auto.mb-5(src='@/assets/curso/temas/tema7/img-42.svg', style="max-width:250px", alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0
-          p El aprovechamiento sostenible según el (Decreto 2981, 2013) se reconoce como una actividad adicional al “servicio público de aseo que comprende:
-          p La recolección de residuos aprovechables separados en la fuente por el usuario y su transporte selectivo hasta la estación de clasificación y aprovechamiento o hasta la planta de aprovechamiento, clasificación y pesaje final”
+          p El aprovechamiento sostenible según el (Decreto 2981, 2013) se reconoce como una actividad adicional al “servicio público de aseo que comprende: la recolección de residuos aprovechables separados en la fuente por el usuario y su transporte selectivo hasta la estación de clasificación y aprovechamiento o hasta la planta de aprovechamiento, clasificación y pesaje final”.
       .row(titulo="Ruta sanitaria").p-4
         .col-md-6
           figure

@@ -51,7 +51,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 14.3 Mantenimiento
 
-    p Según Anzola (2008), se debe contar con un programa de mantenimiento de los equipos y utensilios para eliminar la posibilidad de convertirse en una fuente de contaminación por la presencia de agentes contaminantes (lubricantes, soldadura, pintura, etc.) y daño para los productos aviares.
+    p Según Anzola (2008), se debe contar con un programa de mantenimiento de los equipos y utensilios, para eliminar la posibilidad de convertirse en una fuente de contaminación y generar un daño a los productos aviares.
     p Adicionalmente se debe contar con manuales de procedimientos que incluyan: 
     ul.lista-ul.mb-5
       li 
@@ -65,7 +65,7 @@
         | El cronograma de actividades.
       li 
         i.lista-ul__vineta
-        | El responsable de su ejecución y
+        | El responsable de su ejecución.
       li 
         i.lista-ul__vineta
         | Los recursos requeridos para tal fin.
@@ -73,9 +73,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 14.4 Fichas técnicas
 
-    p Cada una de los equipos y herramientas deben contar con su respectiva ficha técnica en la cual se identifican los siguientes ítems: Descripción, características, datos técnicos, atributos y recomendaciones de uso el cual se encuentra en la sección de materiales complementarios.
-      
-
+    p Cada uno de los equipos y herramientas deben contar con su respectiva ficha técnica, en la cual se identifican los siguientes ítems: descripción, características, datos técnicos, atributos y recomendaciones de uso, el cual se encuentra en la sección de materiales complementarios.
 
 
 

@@ -15,6 +15,17 @@
 
     p.mb-5 Se encarga también de controlar la sanidad y la producción eficiente de las aves, por lo que, se tienen en cuenta aspectos higiénico sanitarios y ambientales para prevenir de agentes causales que afecten la productividad y disminuyen los beneficios económicos. 
 
+    .row.align-items-center.mb-4(data-aos="fade-down-left")
+      .col-md-6.mb-4
+        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+          img(src="@/assets/curso/temas/tema5/imagen.svg" data-aos="zoom-in-up" alt="")
+      .col-md-6.mb-4.mb-md-0.movil.m-auto
+        a.anexo.mb-5(href=("https://www.ica.gov.co/getattachment/b8cb4efd-a1b4-409e-a11d-c81b91f59025/2014R3651.aspx") target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Decreto 3651.
+
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 5.1 Características de la bioseguridad en una granja avícola
 
@@ -48,12 +59,11 @@
             figure
               img(src='@/assets/curso/temas/tema5/img-18.svg', alt='Texto que describa la imagen')
           .col-md-6
-            h4 Bioseguridad
             .col-xl-10.mx-auto.mb-5
               ul.lista-ul.mb-5
                 li 
                   i.lista-ul__vineta
-                  |  Son las acciones o medidas que se hacen de forma constante, que benefician la salud humana y protege la salud de las aves
+                  |  Son las acciones o medidas que se hacen de forma constante, que benefician la salud humana y protege la salud de las aves.
                 li 
                   i.lista-ul__vineta
                   | Son todas aquellas medidas sanitarias y preventivas que, utilizadas en forma permanente, previenen y evitan la entrada y salida de agentes infectocontagiosos en una granja de reproducción aviar o en una planta de incubación.
@@ -64,7 +74,6 @@
             figure
               img(src='@/assets/curso/temas/tema5/img-19.svg', alt='Texto que describa la imagen')
           .col-md-6
-            h4 Enfermedades
             p Dentro de los problemas relacionados al manejo, el de las enfermedades que afectan a las aves de corral es uno de los más importantes, principalmente por el desconocimiento del productor a la hora de identificar las mismas a través de la observación en el comportamiento y sintomatología clínica y subclínica de las aves. Esta problemática puede ser abordada a través de la capacitación, el asesoramiento y el acompañamiento técnico, generando conocimientos y materiales de consulta apropiados al pequeño productor. 
 
       .py-3.py-md-4(titulo="Claves para la bioseguridad")
@@ -73,7 +82,6 @@
             figure
               img(src='@/assets/curso/temas/tema5/img-19.svg', alt='Texto que describa la imagen')
           .col-md-6
-            h4 Claves para la bioseguridad
             .col-xl-10.mx-auto.mb-5
               ul.lista-ul.mb-5
                 li 
@@ -108,7 +116,6 @@
             figure
               img(src='@/assets/curso/temas/tema5/img-20.svg', alt='Texto que describa la imagen')
           .col-md-6
-            h4 Factores de riesgo
             .col-xl-10.mx-auto.mb-5
               ul.lista-ul.mb-5
                 li 
@@ -163,7 +170,6 @@
             figure
               img(src='@/assets/curso/temas/tema5/img-21.svg', alt='Texto que describa la imagen')
           .col-md-6
-            h4 Normas sanitarias
             .col-xl-10.mx-auto.mb-5
               ul.lista-ul.mb-5
                 li 
@@ -190,187 +196,192 @@
   
     p.mb-5 Para aplicar los programas, procedimientos y protocolos de bioseguridad en una granja avícola es necesario y certificarse ante el Instituto Colombiano Agropecuario ICA, teniendo en cuenta los parámetros de documentación, infraestructura y procedimientos estandarizados POES; y  que han sido establecidos en las resoluciones 3652, 3650 y 3651 de 2014 así: 
 
-    .col-xl-10.mx-auto.mb-5
-      img.d-md-block(src="@/assets/curso/temas/tema5/img-22.svg" data-aos="fade-left")
+    .row.align-items-center.mb-4(data-aos="fade-down-left")
+      .col-md-6.mb-4
+        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+          img(src='@/assets/curso/temas/tema5/img-22.svg', alt='')
+      .col-md-6.mb-4.mb-md-0.movil.m-auto
+        a.anexo.mb-5.mt-5(href=("https://www.ica.gov.co/getattachment/124802ad-c49c-470d-809e-a9ce5ad3db76/2014R3652.aspx") target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Anexo. Resolución 3652
+
+        a.anexo.mb-5(href=("https://www.ica.gov.co/getattachment/3c2f3642-85a5-4622-91b5-5a31597c2cb4/2014R3-(1).aspx") target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Anexo. Resolución 3650
+
+        a.anexo.mb-5(href=("https://www.ica.gov.co/getattachment/b8cb4efd-a1b4-409e-a11d-c81b91f59025/2014R3651.aspx") target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Anexo. Resolución 3651
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-23.svg' alt='AvatarTop')
-        h2.text-center Resoluciones 3652, 3650 y 3651 de 2014
-        .col-xl-10.mx-auto
-          p Conocer el contenido de estas resoluciones, le da al avicultor las herramientas necesarias para aplicarlas y de esa forma recibir la certificación del ICA.
-          p En las resoluciones se menciona la documentación que debe presentarse al momento de realizar el proceso ante el ICA.
+        h4.text-center Resoluciones 3652, 3650 y 3651 de 2014
+        p Conocer el contenido de estas resoluciones, le da al avicultor las herramientas necesarias para aplicarlas y de esa forma recibir la certificación del ICA.
+        p En las resoluciones se menciona la documentación que debe presentarse al momento de realizar el proceso ante el ICA.
             
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-24.svg' alt='AvatarTop')
-        h2.text-center Documentación
-        .col-xl-10.mx-auto
-          ul.lista-ul.mb-5
-            li 
-              i.lista-ul__vineta
-              | Solicitud ante el ICA.
-            li 
-              i.lista-ul__vineta
-              | Certificado de existencia legal.
-            li 
-              i.lista-ul__vineta
-              | Tarjeta profesional MVZ - MV Asistencia técnica.
-            li 
-              i.lista-ul__vineta
-              | Acreditación propiedad. 
-            li 
-              i.lista-ul__vineta
-              | Uso del suelo (granja nueva). 
-            li 
-              i.lista-ul__vineta
-              | Registro como productor de material genético aviar (productor y vendedor material genético).
-            li 
-              i.lista-ul__vineta
-              | Inscripción de plantas de incubación (productor y vendedor material genético).
+        h4.text-center Documentación
+        ul.lista-ul.mb-5
+          li 
+            i.lista-ul__vineta
+            | Solicitud ante el ICA.
+          li 
+            i.lista-ul__vineta
+            | Certificado de existencia legal.
+          li 
+            i.lista-ul__vineta
+            | Tarjeta profesional MVZ - MV Asistencia técnica.
+          li 
+            i.lista-ul__vineta
+            | Acreditación propiedad. 
+          li 
+            i.lista-ul__vineta
+            | Uso del suelo (granja nueva). 
+          li 
+            i.lista-ul__vineta
+            | Registro como productor de material genético aviar (productor y vendedor material genético).
+          li 
+            i.lista-ul__vineta
+            | Inscripción de plantas de incubación (productor y vendedor material genético).
 
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-25.svg' alt='AvatarTop')
-        h2.text-center Infraestructura
-        .col-xl-10.mx-auto
-          p La reglamentación define ciertas pautas que deben ser tenidas en cuenta al momento de manejar galpones.
-          ul.lista-ul.mb-5
-            li 
-              i.lista-ul__vineta
-              | Distancias entre galpones.
-            li 
-              i.lista-ul__vineta
+        h4.text-center Infraestructura en galpones
+        p La reglamentación define ciertas pautas que deben ser tenidas en cuenta al momento de manejar galpones.
+        ul.lista-ul.mb-5
+          li 
+            i.lista-ul__vineta
+            | Distancias entre galpones.
+          li 
+            i.lista-ul__vineta
               | Distancia galón cerco perimetral.
-            li 
-              i.lista-ul__vineta
-              | Distancia otras explotaciones avícolas (500 m).
-            li 
-              i.lista-ul__vineta
-              | Distancia a granjas de material genético (1 Km). 
-            li 
-              i.lista-ul__vineta
-              | Distancia a granjas porcinas (500 m). 
-            li 
-              i.lista-ul__vineta
-              | Control ingreso de personal, vehículos y animales
-            li 
-              i.lista-ul__vineta
-              | Señalización.
-            li 
-              i.lista-ul__vineta
-              | Sistema de desinfección de acuerdo a tamaño de la granja.
+          li 
+            i.lista-ul__vineta
+            | Distancia otras explotaciones avícolas (500 m).
+          li 
+            i.lista-ul__vineta
+            | Distancia a granjas de material genético (1 Km). 
+          li 
+            i.lista-ul__vineta
+            | Distancia a granjas porcinas (500 m). 
+          li 
+            i.lista-ul__vineta
+            | Control ingreso de personal, vehículos y animales
+          li 
+            i.lista-ul__vineta
+            | Señalización.
+          li 
+            i.lista-ul__vineta
+            | Sistema de desinfección de acuerdo a tamaño de la granja.
 
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-26.svg' alt='AvatarTop')
-        h2.text-center Infraestructura
-        .col-xl-10.mx-auto
-          ul.lista-ul.mb-5
-            li 
-              i.lista-ul__vineta
-              | Área manejo y disposición mortalidad.
-            li 
-              i.lista-ul__vineta
-              | Bodegas alimento e insumos.
-            li 
-              i.lista-ul__vineta
-              | Mortalidad.
-            li 
-              i.lista-ul__vineta
-              | Bodegas alimento e insumos. 
-            li 
-              i.lista-ul__vineta
-              | Bodega para almacenamiento, clasificación y embalaje de huevos (levante /postura). 
-            li 
-              i.lista-ul__vineta
-              | Unidad sanitaria (área sucia, intermedia y limpia).
-            li 
-              i.lista-ul__vineta
-              | Tratamiento de agua.
-            li 
-              i.lista-ul__vineta
-              | Disposición desechos.
-            li 
-              i.lista-ul__vineta
-              | Cabina de desinfección.
+        h4.text-center Infraestructura total de la granja avícola
+        ul.lista-ul.mb-5
+          li 
+            i.lista-ul__vineta
+            | Área manejo y disposición mortalidad.
+          li 
+            i.lista-ul__vineta
+            | Bodegas alimento e insumos.
+          li 
+            i.lista-ul__vineta
+            | Mortalidad.
+          li 
+            i.lista-ul__vineta
+            | Bodegas alimento e insumos. 
+          li 
+            i.lista-ul__vineta
+            | Bodega para almacenamiento, clasificación y embalaje de huevos (levante /postura). 
+          li 
+            i.lista-ul__vineta
+            | Unidad sanitaria (área sucia, intermedia y limpia).
+          li 
+            i.lista-ul__vineta
+            | Tratamiento de agua.
+          li 
+            i.lista-ul__vineta
+            | Disposición desechos.
+          li 
+            i.lista-ul__vineta
+            | Cabina de desinfección.
 
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-27.svg' alt='AvatarTop')
-        h2.text-center Procedimientos operativos estandarizados POES
-        .col-xl-10.mx-auto
-          p Medidas de higiene y seguridad laboral.
-          p Adicionalmente se deben tener en cuenta los siguientes elementos:
-          ul.lista-ul.mb-5
-            li 
-              i.lista-ul__vineta
-              | Ingreso de personal, objetos y vehículos a la granja.
-            li 
-              i.lista-ul__vineta
-              | Desinfección vehículos.
-            li 
-              i.lista-ul__vineta
-              | Ingreso de personas y objetivos.
-            li 
-              i.lista-ul__vineta
-              | Sistema de tratamiento de agua. 
-            li 
-              i.lista-ul__vineta
-              | Limpieza y desinfección de instalaciones, equipos y utensilios.
+        h4.text-center Procedimientos operativos estandarizados POES para visitantes
+        p Son las medidas de higiene y seguridad laboral y adicionalmente se deben tener en cuenta los siguientes elementos
+        ul.lista-ul.mb-5
+          li 
+            i.lista-ul__vineta
+            | Ingreso de personal, objetos y vehículos a la granja.
+          li 
+            i.lista-ul__vineta
+            | Desinfección vehículos.
+          li 
+            i.lista-ul__vineta
+            | Ingreso de personas y objetivos.
+          li 
+            i.lista-ul__vineta
+            | Sistema de tratamiento de agua. 
+          li 
+            i.lista-ul__vineta
+            | Limpieza y desinfección de instalaciones, equipos y utensilios.
 
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-28.svg' alt='AvatarTop')
-        h2.text-center Procedimientos operativos estandarizados POES
-        .col-xl-10.mx-auto
-          p Parte de la responsabilidad del empresario avícola para la gestión de empresas avícolas con éxito implica entre otras cosas:
-          ul.lista-ul.mb-5
-            li 
-              i.lista-ul__vineta
-              | Control de plagas.
-            li 
-              i.lista-ul__vineta
-              | Manejo y eliminación de residuos sólidos.
-            li 
-              i.lista-ul__vineta
-              | Manejo, tratamiento y disposición final de la mortalidad.
-            li 
-              i.lista-ul__vineta
-              | Manejo de huevo comercial y huevo incubable (según el caso).
-            li 
-              i.lista-ul__vineta
-              | Tratamiento térmico de la poliniza.
-
-      .tarjeta.color-acento-botones.p-4
-        .row.justify-content-center.mb-3
-          .col-8
-            img(src='@/assets/curso/temas/tema5/img-29.svg' alt='AvatarTop')
-        h2.text-center Procedimientos operativos estandarizados POES
-        .col-xl-10.mx-auto
-          ul.lista-ul.mb-5
-            li 
-              i.lista-ul__vineta
-              | Tratamiento y disposición de las cajas de cartón o plásticas utilizadas en el transporte de pollito/a de un día
-            li 
-              i.lista-ul__vineta
-              | Manejo y eliminación de residuos líquidos.
-            li 
-              i.lista-ul__vineta
-              | Programas sanitarios:  vacunación, buenas prácticas en el uso de insumos veterinarios.
-            li 
-              i.lista-ul__vineta
-              | Capacitación
-            li 
-              i.lista-ul__vineta
-              | Mantenimiento, preventivo y/o correctivo de instalaciones y equipos.
+        h4.text-center Procedimientos operativos estandarizados POES para el empresario
+        p Parte de la responsabilidad del empresario avícola para la gestión de empresas avícolas con éxito implica entre otras cosas:
+        ul.lista-ul.mb-5
+          li 
+            i.lista-ul__vineta
+            | Control de plagas.
+          li 
+            i.lista-ul__vineta
+            | Manejo y eliminación de residuos sólidos.
+          li 
+            i.lista-ul__vineta
+            | Manejo, tratamiento y disposición final de la mortalidad.
+          li 
+            i.lista-ul__vineta
+            | Manejo de huevo comercial y huevo incubable (según el caso).
+          li 
+            i.lista-ul__vineta
+            | Tratamiento térmico de la poliniza.
+          li 
+            i.lista-ul__vineta
+            | Tratamiento y disposición de las cajas de cartón o plásticas utilizadas en el transporte de pollito/a de un día.
+          li 
+            i.lista-ul__vineta
+            | Manejo y eliminación de residuos líquidos.
+          li 
+            i.lista-ul__vineta
+            | Programas sanitarios: vacunación, buenas prácticas en el uso de insumos veterinarios.
+          li 
+            i.lista-ul__vineta
+            | Capacitación.
+          li 
+            i.lista-ul__vineta
+            | Mantenimiento, preventivo y/o correctivo de instalaciones y equipos.
 
     p El tema de la bioseguridad en las empresas avícolas es vital, dado que debe contar con la certificación del ICA, con el fin de demostrar el cumplimiento de las normas existentes en Colombia, ahora puede profundizar en el tema en el siguiente contenido.
 

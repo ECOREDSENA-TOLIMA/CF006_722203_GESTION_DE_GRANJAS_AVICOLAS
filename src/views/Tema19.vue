@@ -49,11 +49,11 @@
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Tabla 2.
-        span <em>Biología de roedores</em>
+        span <em>Biología de mosca</em>
       img.d-md-block(src="@/assets/curso/temas/tema19/img-87.svg" data-aos="fade-left")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Comportamiento
+      h2#t_1_1 Comportamiento de los roedores
 
     p.mb-5 Para un correcto y efectivo control de plagas y vectores se requiere conocer cuál es el comportamiento en su estado natural, (Fenavi, 2018b) describe el comportamiento de los roedores así:
 
@@ -175,10 +175,10 @@
             h4 Tipos
             p En la industria avícola, se utilizan diferentes tipos de plaguicidas, entre los más comunes se encuentran:
             p <strong>Acaricidas:</strong> controla ácaros como garrapatas y corrucos.
-            p Bactericidas: combate bacterias.
+            p <strong>Bactericidas:</strong> combate bacterias.
             p <strong>Fungicidas:</strong> controla de hongos.
             p <strong>Herbicidas:</strong> controla algas, plantas terrestres y acuáticas. 
-            p Insecticidas: controla insectos como escarabajos, polillas y pulgas.
+            p <strong>Insecticidas:</strong> controla insectos como escarabajos, polillas y pulgas.
             p <strong>Larvicidas:</strong> combate larvas de insectos.
             p <strong>Molusquicidas:</strong> utilizados para controlar moluscos como caracoles de jardín y babosas.
             p <strong>Nematicidas:</strong> empleados para eliminar nematodos o gusanos.
@@ -224,25 +224,17 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema19/img-104.png', alt='Texto que describa la imagen')
-
-    .col-xl-5.mx-auto
-      .tarjeta.color-acento-botones2.p-3.mb-5
-        .row.justify-content-around.align-items-center
-          .col
-            .row.justify-content-between.align-items-center
-              .col.mb-3.mb-sm-0
-                h3 Para acceder a toda la información del decreto 1843 de 1991 puede hacer clic sobre el enlace.
-    
-    .row.justify-content-center
-      .col-lg-4
-        a.anexo.mb-4(:href="('https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1359845')" target="_blank")
+  
+    .row.align-items-center.mb-4(data-aos="fade-down-left")
+      .col-md-6.mb-4
+        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+          img(src='@/assets/curso/temas/tema19/imagen.svg', alt='')
+      .col-md-6.mb-4.mb-md-0.movil.m-auto
+        a.anexo.mb-5(href=("https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1359845") target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p <strong>Anexo.</strong> Decreto 1843 de 1991
-
-
-
 
 
 

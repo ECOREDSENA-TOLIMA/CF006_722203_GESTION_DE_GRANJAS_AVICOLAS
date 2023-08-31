@@ -10,14 +10,14 @@
             img(src="@/assets/template/opc-multiple.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
-          h2 Bioseguridad en Granjas Avícols
-        p.mb-4 #[b Objetivo] El objetivo de esta actividad didáctica es comprender los conceptos y normas básicas de bioseguridad aplicadas en las granjas avícolas para prevenir la propagación de enfermedades y garantizar la salud de las aves.
+          h2 Bioseguridad en granjas avícolas
+        p.mb-4 #[b Objetivo:] el objetivo de esta actividad didáctica es comprender los conceptos y normas básicas de bioseguridad aplicadas en las granjas avícolas para prevenir la propagación de enfermedades y garantizar la salud de las aves.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Opción múltiple
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades_ADCF006/actividad.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 

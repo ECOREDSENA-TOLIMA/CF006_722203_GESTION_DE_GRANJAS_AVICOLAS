@@ -55,11 +55,6 @@ export default {
             titulo: 'Aspectos estructurales que define el POT',
             hash: 't_2_1',
           },
-          {
-            numero: '2.2',
-            titulo: 'Normatividad de Plan de Ordenamiento Territorial (POT)',
-            hash: 't_1_2',
-          },
         ],
       },
       {
@@ -102,6 +97,11 @@ export default {
             titulo: 'Características de la bioseguridad en una granja avícola',
             hash: 't_5_1',
           },
+          {
+            numero: '5.2',
+            titulo: 'Aplicabilidad',
+            hash: 't_5_2',
+          },
         ],
       },
       {
@@ -109,31 +109,6 @@ export default {
         numero: '6',
         titulo: 'Normatividad para granjas avícolas bioseguras',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '6.1',
-            titulo:
-              'Registro productor de material genético aviar y licencias de venta de material genético aviar.',
-            hash: 't_6_1',
-          },
-          {
-            numero: '6.2',
-            titulo:
-              'Certificación de granjas avícolas bioseguras de postura y/o levante',
-            hash: 't_6_2',
-          },
-          {
-            numero: '6.3',
-            titulo:
-              'Certificación granjas avícolas bioseguras de pollo de engorde',
-            hash: 't_6_3',
-          },
-          {
-            numero: '6.4',
-            titulo: 'Registro Sanitario de Predio Pecuario - RSPP',
-            hash: 't_6_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema7',
@@ -184,8 +159,7 @@ export default {
         subMenu: [
           {
             numero: '10.1',
-            titulo:
-              'Clases para profundizar en la reglamentación puede leer la Resolución 2674, 2013',
+            titulo: 'Clases',
             hash: 't_10_1',
           },
           {
@@ -460,7 +434,7 @@ export default {
       referencia:
         'Productos Químicos Panamericanos. (2020). Ficha técnica: desinfectante amonio cuaternario. 5ta generación. https://pqpprofesional.com/wp-content/uploads/2023/01/FT-CC-570-Desinfectante-amonios-cuaternarios-5ta.-g-10-PQP-Profesional.pdf',
       tipo: 'PDF',
-      descarga:
+      link:
         'https://pqpprofesional.com/wp-content/uploads/2023/01/FT-CC-570-Desinfectante-amonios-cuaternarios-5ta.-g-10-PQP-Profesional.pdf',
     },
     {
@@ -468,15 +442,15 @@ export default {
       referencia:
         'Productos Químicos Panamericanos. (2020). Hoja de seguridad. Desinfectante amonio cuaternario, 5ta generación. https://www.pqp.com.co/wp-content/uploads/2020/03/HS-CC-307-Desinfectante-Amonio-Cuaternarios-5-Generaci%C3%B3n.pdf',
       tipo: 'PDF',
-      descarga:
-        'https://www.pqp.com.co/wp-content/uploads/2020/03/HS-CC-307-Desinfectante-Amonio-Cuaternarios-5-Generaci%C3%B3n.pdf',
+      link:
+        'https://pqpprofesional.com/wp-content/uploads/2023/04/HS-CC-307-Desinfectante-Amonio-Cuaternarios-5-Generacion.pdf',
     },
     {
       tema: 'Organización Mundial de Sanidad Animal (OEI) 14.2',
       referencia:
         'Organización Mundial de Sanidad Animal. (2021). https://www.oie.int/es/que-hacemos/sanidad-y-bienestar-animal/bienestar-animal/',
       tipo: 'Web',
-      descarga:
+      link:
         'https://www.oie.int/es/que-hacemos/sanidad-y-bienestar-animal/bienestar-animal/',
     },
     {
@@ -484,15 +458,14 @@ export default {
       referencia:
         'Vidapec. Criadora infrarroja de termostato. (s.f) https://vidapec.com/wp-content/uploads/2018/02/CPIJ0204005.pdf',
       tipo: 'PDF',
-      descarga:
-        'https://vidapec.com/wp-content/uploads/2018/02/CPIJ0204005.pdf',
+      link: 'https://vidapec.com/wp-content/uploads/2018/02/CPIJ0204005.pdf',
     },
     {
       tema: 'Especificaciones técnicas del producto Fumigadora 20L 17.2',
       referencia:
         'Lahura. Fumigadora 20L. (2019). https://www.lhaura.com/wp-content/uploads/2019/05/FUMIGADORA-20-LT.-MULITA-Ref.-10517ActualMay10_2019.pdf',
       tipo: 'PDF',
-      descarga:
+      link:
         'https://www.lhaura.com/wp-content/uploads/2019/05/FUMIGADORA-20-LT.-MULITA-Ref.-10517ActualMay10_2019.pdf',
     },
   ],
@@ -803,40 +776,42 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ángela Rocío Sánchez Ruiz',
-          cargo: 'Experto Temático',
-          centro: 'Centro de Electricidad, Electrónica y Telecomunicaciones',
+          nombre: 'Paola Mercedes Orduz Gómez',
+          cargo: 'Experta Temática',
+          centro:
+            'Regional Santander - Centro de Atención al Sector Agropecuario',
         },
         {
-          nombre: 'Miroslava González H.',
-          cargo: 'Diseñador y Evaluador Instruccional',
-          centro: 'Centro de Gestión Industrial',
+          nombre: 'Giovanna Andrea Escobar Ospina',
+          cargo: 'Diseñadora Instruccional',
+          centro:
+            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios (CIES)',
         },
         {
-          nombre: 'Juan Gilberto Giraldo Cortés',
-          cargo: 'Diseñador Instruccional',
-          centro: 'Centro de Gestión Industrial',
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Asesor Metodológico',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
-          nombre: 'Álix Cecilia Chinchilla Rueda',
-          cargo: 'Evaluadora Instruccional',
-          centro: 'Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Viviana Esperanza Herrera Quiñones',
-          cargo: 'Asesora Metodológica',
-          centro: 'Centro de Comercio y Servicios',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano',
-          cargo: 'Asesor Pedagógico',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Darío González',
-          cargo: 'Revisión y Corrección de Estilo',
-          centro: 'Regional Tolima - Centro Agropecuario La Granja',
+          cargo: 'Corrector de Estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Juan Gilberto Giraldo Cortés',
+          cargo: 'Diseñador instruccional',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Viviana Herrera Quiñonez',
+          cargo: 'Metodóloga',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -844,7 +819,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'José Jaime Luis Tang',
+          nombre: 'Aruzidna Sánchez Alonso',
           cargo: 'Diseñador Web',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
@@ -860,11 +835,16 @@ export default {
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Animador y Producción Audiovisual',
+          cargo: 'Producción Audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Sebastián Trujillo Afanador',
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Francisco José Vásquez Suárez',
           cargo: 'Actividad Didáctica',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
