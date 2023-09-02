@@ -34,13 +34,13 @@
     ul.lista-ul.mb-5
       li 
         i.lista-ul__vineta
-        | Alojamiento
+        | Alojamiento.
       li 
         i.lista-ul__vineta
-        | Alimento 
+        | Alimento.
       li  
         i.lista-ul__vineta
-        | Desinfección del agua y
+        | Desinfección del agua.
       li  
         i.lista-ul__vineta
         | Normas sanitarias.
@@ -120,49 +120,49 @@
               ul.lista-ul.mb-5
                 li 
                   i.lista-ul__vineta
-                  | Hacinamiento
+                  | Hacinamiento.
                 li 
                   i.lista-ul__vineta
-                  | Camas polvorientas
+                  | Camas polvorientas.
                 li 
                   i.lista-ul__vineta
-                  | Bebederos en canal
+                  | Bebederos en canal.
                 li 
                   i.lista-ul__vineta
-                  | Moscas
+                  | Moscas.
                 li 
                   i.lista-ul__vineta
-                  | Diarrea
+                  | Diarrea.
                 li 
                   i.lista-ul__vineta
-                  | Coquito
+                  | Coquito.
                 li 
                   i.lista-ul__vineta
-                  | Diagnósticos errados o tardíos
+                  | Diagnósticos errados o tardíos.
                 li 
                   i.lista-ul__vineta
-                  | Tratamientos inadecuados
+                  | Tratamientos inadecuados.
                 li 
                   i.lista-ul__vineta
-                  | Manipulaciones
+                  | Manipulaciones.
                 li 
                   i.lista-ul__vineta
-                  | Mal manejo
+                  | Mal manejo.
                 li 
                   i.lista-ul__vineta
-                  | Amoníaco, camas húmedas
+                  | Amoníaco, camas húmedas.
                 li 
                   i.lista-ul__vineta
-                  | Picoteo
+                  | Picoteo.
                 li 
                   i.lista-ul__vineta
-                  | Animales sin seleccionar
+                  | Animales sin seleccionar.
                 li 
                   i.lista-ul__vineta
-                  | Cadáveres sin retirar
+                  | Cadáveres sin retirar.
                 li 
                   i.lista-ul__vineta
-                  | Insectos hematófagos
+                  | Insectos hematófagos.
 
       .py-3.py-md-4(titulo="Normas sanitarias")
         .row

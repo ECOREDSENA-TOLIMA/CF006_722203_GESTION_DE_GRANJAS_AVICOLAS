@@ -64,27 +64,27 @@
             img.mx-auto.mb-5(src='@/assets/curso/temas/tema7/img-39.svg', style="max-width:250px", alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0
           p La segregación en la fuente  según (Valencia & Rodríguez, 2010) es la ”base fundamental de la adecuada gestión de residuos y consiste en la clasificación y disposición de los residuos en las canecas y contenedores adecuados, de acuerdo con el código de color adoptado por la legislación vigente ”(p.6).
-      .row(titulo="Manejo 1").p-4
+      .row(titulo="Manejo de residuos").p-4
         .col-md-6
           figure
             img.mx-auto.mb-5(src='@/assets/curso/temas/tema7/img-40.svg', style="max-width:250px", alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0
           p Según (Anzola et al., 2008) el manejo y disposición de residuos sólidos y líquidos afecta las emisiones atmosféricas.
           p Por esa razón, el manejo de emisiones atmosféricas no debe representar riesgo de contaminación para el producto aviar, por lo que las instalaciones deben cumplir con lo establecido en la legislación sanitaria y ambiental vigente.
-      .row(titulo="Manejo 2").p-4
+      .row(titulo="Manejo de residuos líquidos").p-4
         .col-md-6
           figure
             img.mx-auto.mb-5(src='@/assets/curso/temas/tema7/img-41.svg', style="max-width:250px", alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0
-          h2 Residuos líquidos
-          p Dispondrán de sistemas sanitarios adecuados para la recolección, el tratamiento y la disposición de aguas residuales. La disposición final de estos debe ser en lugares aprobados por la autoridad sanitaria ambiental.
-          p También se debe dar un manejo interno, que no represente ningún tipo de riesgo ni tampoco afecte la comunidad y el ambiente.
-      .row(titulo="Aprovechamiento sostenible").p-4
+          p Para el adecuado manejo de residuos líquidos, se dispondrán de sistemas sanitarios adecuados para la recolección, el tratamiento y la disposición de aguas residuales.
+          p La disposición final de estos debe ser en lugares aprobados por la autoridad sanitaria ambiental.
+          p También se debe dar un manejo interno, para que no represente ningún tipo de riesgo a la comunidad y al medio ambiente.
+      .row(titulo="Aprovechamiento").p-4
         .col-md-6
           figure
             img.mx-auto.mb-5(src='@/assets/curso/temas/tema7/img-42.svg', style="max-width:250px", alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0
-          p El aprovechamiento sostenible según el (Decreto 2981, 2013) se reconoce como una actividad adicional al “servicio público de aseo que comprende: la recolección de residuos aprovechables separados en la fuente por el usuario y su transporte selectivo hasta la estación de clasificación y aprovechamiento o hasta la planta de aprovechamiento, clasificación y pesaje final”.
+          p El aprovechamiento según el (Decreto 2981, 2013) “es la actividad complementaria del servicio público de aseo que comprende la recolección de residuos aprovechables separados en la fuente por los usuarios, el transporte selectivo hasta la estación de clasificación y aprovechamiento o hasta la planta de aprovechamiento, así como su clasificación y pesaje”.
       .row(titulo="Ruta sanitaria").p-4
         .col-md-6
           figure

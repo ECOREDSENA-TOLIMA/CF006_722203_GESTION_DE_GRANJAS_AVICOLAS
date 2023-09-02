@@ -7,18 +7,18 @@
         span 9
       h1 Seguridad y salud en trabajo en granjas avícolas
 
-    p.mb-5 El Sistema de Gestión en Seguridad y Salud en el Trabajo (SG-SST), en granjas avícolas bioseguras se reglamentan con el Decreto 1072 de 2015 el cual debe ser:
+    p.mb-5(data-aos="fade-right") El Sistema de Gestión en Seguridad y Salud en el Trabajo (SG-SST), en granjas avícolas bioseguras se reglamentan con el Decreto 1072 de 2015 el cual debe ser:
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema9/img-47.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Implementado por todos los empleadores y consiste en el desarrollo de un proceso lógico y por etapas, basado en la mejora continua, lo cual incluye la política, la organización, la planificación, la aplicación, la evaluación, la auditoría y las acciones de mejora con el objetivo de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y la salud en los espacios laborales. (p.89)
+        p.mb-0 "Implementado por todos los empleadores y consiste en el desarrollo de un proceso lógico y por etapas, basado en la mejora continua, lo cual incluye la política, la organización, la planificación, la aplicación, la evaluación, la auditoría y las acciones de mejora con el objetivo de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y la salud en los espacios laborales." (p.89)
 
-    p.mb-5 Las empresas avícolas están en la obligación de establecer el sistema de seguridad y salud en el trabajo de acuerdo a lo establecido en la normatividad de Colombia para la protección de su talento humano en cada área y contempla los riesgos laborales, accidentes de trabajo y enfermedades profesionales. 
+    p.mb-5(data-aos="fade-right") Las empresas avícolas están en la obligación de establecer el sistema de seguridad y salud en el trabajo de acuerdo a lo establecido en la normatividad de Colombia para la protección de su talento humano en cada área y contempla los riesgos laborales, accidentes de trabajo y enfermedades profesionales. 
 
-    .tarjeta.tarjeta--azul2.p-4.mb-5
+    .tarjeta.tarjeta--azul2.p-4.mb-5(data-aos="fade-right")
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0
@@ -80,8 +80,7 @@
               li  
                 i.lista-ul__vineta
                 | Zapatos de seguridad, entre otros
-            p ¨La empresa debe disponer de un botiquín dotado con los elementos mínimos requeridos para el control de afecciones, como heridas y traumatismos menores. Debe conformarse y entrenarse un equipo de personas en labores de primeros auxilios¨.
-
+            
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema9/img-51.png', alt='Texto que describa la imagen')
@@ -137,77 +136,55 @@
             ul.lista-ul.mb-5
               li 
                 i.lista-ul__vineta
-                | Mantener manos limpias
+                | Mantener manos limpias.
               li 
                 i.lista-ul__vineta
-                | No tener joyas puestas  
+                | No tener joyas puestas.
               li  
                 i.lista-ul__vineta
-                | Tener uñas cortas y sin esmalte
+                | Tener uñas cortas y sin esmalte.
               li 
                 i.lista-ul__vineta
-                | Hacer un control periódico de condición de salud del personal
+                | Hacer un control periódico de condición de salud del personal.
               li  
                 i.lista-ul__vineta
-                | Evitar fumar
+                | Evitar fumar.
               li 
                 i.lista-ul__vineta
-                | Evitar el consumo de alimentos y bebidas
+                | Evitar el consumo de alimentos y bebidas.
               li 
                 i.lista-ul__vineta
-                |  Evitar toser
+                |  Evitar toser.
               li 
                 i.lista-ul__vineta
-                |  Evitar estornudar
+                |  Evitar estornudar.
               li 
                 i.lista-ul__vineta
-                |  Evitar escupir
+                |  Evitar escupir.
               li 
                 i.lista-ul__vineta
-                |  Cumplir con los protocolos de lavado de manos cada vez que sea necesario
+                |  Cumplir con los protocolos de lavado de manos cada vez que sea necesario.
 
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema9/img-55.png', alt='Texto que describa la imagen')
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 9.4 Medidas de protección 
+    .col-xl-10.mx-auto.mb-5(data-aos="fade-right")
+      .tarjeta.color-primario.p-3.mb-5
+        .row.justify-content-around.align-items-center
+          .col-3.col-sm-2.col-lg-1
+            img(src="@/assets/curso/temas/tema9/decorador-1.svg")
+          .col
+            .row.justify-content-between.align-items-center
+              .col.mb-3.mb-sm-0
+                p.text-small Para profundizar sobre el tema medidas de protección y su implicación en la gestión biosegura en las empresas avícolas en Colombia, puede acceder al siguiente video de Fenavi. ¨Reglas de oro en la bioseguridad avícola¨.
+                
+              .col-sm-auto
+                a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=skID4N7tIqo')" target="_blank")
+                  span Ver video
+                  i.fas.fa-file-video
 
-    p Las medidas de protección en las granjas avícolas según (Anzola et al., 2008) se relacionan con el uso de:
-
-    ul.lista-ul.mb-5
-      li 
-        i.lista-ul__vineta
-        | Uniformes color claro, limpio y calzado cerrado de material resistente e impermeable.
-      li 
-        i.lista-ul__vineta
-        | El uso de guantes en buen estado, limpios y desinfectados.
-      li  
-        i.lista-ul__vineta
-        | El reporte y seguimiento de las novedades clínicas del personal.
-      li 
-        i.lista-ul__vineta
-        | La capacitación en manipulación de alimentos como, por ejemplo: el manejo de los huevos.
-      li  
-        i.lista-ul__vineta
-        | Uso de gorro para cubrir el cabello, tapabocas y protectores de barba.
-      li 
-        i.lista-ul__vineta
-        | Los uniformes a la salida no deben ser expuestos a superficies contaminadas como andenes, pastos o el mismo suelo.
-      li  
-        i.lista-ul__vineta
-        | Los visitantes deben también usar elementos de protección y hacer registro.
-      li 
-        i.lista-ul__vineta
-        | Los uniformes deben ser lavados y desinfectados dentro de la granja para evitar contaminación cruzada.
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 9.5 Medidas de protección 
-
-    p.mb-5 Según (Anzola et al., 2008) las prácticas higiénicas en las granjas avícolas son:
-
-    figure.mb-5(data-aos="fade-down")
-      img(src='@/assets/curso/temas/tema9/imagen-1.svg', alt='Texto que describa la imagen')
+    p.mb-5(data-aos="fade-right") A continuación, encontramos la normatividad de interés para SST:
 
     .row.align-items-center.mb-5(data-aos="fade-down-left")
       .col-md-5.mb-2
@@ -227,20 +204,7 @@
             p Decreto 1072, 2015 
     
 
-    .col-xl-10.mx-auto.mb-5
-      .tarjeta.color-primario.p-3.mb-5
-        .row.justify-content-around.align-items-center
-          .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/temas/tema9/decorador-1.svg")
-          .col
-            .row.justify-content-between.align-items-center
-              .col.mb-3.mb-sm-0
-                p.text-small Para profundizar sobre el tema medidas de protección y su implicación en la gestión biosegura en las empresas avícolas en Colombia, puede acceder al siguiente video de Fenavi. ¨Reglas de oro en la bioseguridad avícola¨.
-                
-              .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=skID4N7tIqo')" target="_blank")
-                  span Ver video
-                  i.fas.fa-file-download
+    
 
 
 

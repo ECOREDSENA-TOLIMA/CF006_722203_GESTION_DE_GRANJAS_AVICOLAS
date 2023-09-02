@@ -40,29 +40,29 @@
     figure.mb-5(data-aos="fade-right")
       img(src='@/assets/curso/temas/tema8/imagen.svg', alt='Texto que describa la imagen')
         
-    p Las granjas avícolas bioseguras en sus procedimientos operativos estandarizados de sanitización (POES) según la Resolución 3652 de 2014 requieren cumplir con:
+    p Las granjas avícolas bioseguras en sus procedimientos operativos estandarizados de sanitización (POES) según la Resolución 3652 de 2014, requieren cumplir con los siguientes requisitos:
 
     ul.lista-ul.mb-5
       li 
         i.lista-ul__vineta
-        | Requisitos documentales
+        | Documentales.
       li 
         i.lista-ul__vineta
-        | Requisitos de bioseguridad   
+        | De bioseguridad.
       li  
         i.lista-ul__vineta
-        | De infraestructura
+        | De infraestructura.
       li 
         i.lista-ul__vineta
-        | De pautas procedimentales
+        | De pautas procedimentales.
       li 
         i.lista-ul__vineta 
-        | De registro utilizando parámetros técnicos y formatos
+        | De registro utilizando parámetros técnicos y formatos.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 8.2 Ventajas
 
-    p.mb-5 Las ventajas de los POES es que la granja avícola cuenta con documentación disponibles para procesos de reinducción e inducción y desarrollo de las actividades de la granja, por otra parte estos son dinámicos y pueden ser actualizados de acuerdo a los cambios en la normatividad,  por lo que es necesario asegurar el registro y documentación de la información, con el fin de garantizar que los procesos se desarrollen de acuerdo a los protocolos, ya que se pueden ver  las listadas las acciones y tareas a desarrollar en la granja avícola.  
+    p.mb-5 Las ventajas de los POES, es que en la granja avícola se cuente con la documentación disponible para procesos de inducción, reinducción y desarrollo de las actividades. Los documentos son dinámicos y pueden ser actualizados de acuerdo a los cambios en la normatividad, por lo que es necesario asegurar el registro y documentación de la información, con el fin de garantizar que los procesos se desarrollen de acuerdo a los protocolos, ya que se pueden ver afectadas las acciones y tareas a desarrollar en la granja avícola.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 8.3 Parámetros de verificación de los POES

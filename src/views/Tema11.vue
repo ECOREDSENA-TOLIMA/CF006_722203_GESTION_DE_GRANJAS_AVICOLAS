@@ -34,7 +34,7 @@
         | Ingresar a la ducha para realizar el proceso de aseo e higiene personal, donde tendrá a su disposición de jabón antibacterial y toallas.
       li  
         i.lista-ul__vineta
-        | Vestir la dotación suministrada por la granja (vestido y calzado)
+        | Vestir la dotación suministrada por la granja (vestido y calzado).
       li 
         i.lista-ul__vineta
         | Los objetos personales que requieran ingresar deben ser desinfectados en la cámara de desinfección. 

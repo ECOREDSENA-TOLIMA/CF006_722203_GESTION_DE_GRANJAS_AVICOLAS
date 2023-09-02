@@ -22,16 +22,16 @@
     ul.lista-ul.mb-5
       li 
         i.lista-ul__vineta
-        | Fabricados con materiales inertes
+        | Fabricados con materiales inertes.
       li 
         i.lista-ul__vineta
-        | No tóxicos
+        | No tóxicos.
       li 
         i.lista-ul__vineta
-        | Resistentes a la corrosión
+        | Resistentes a la corrosión.
       li 
         i.lista-ul__vineta
-        | No recubiertos con pinturas o materiales desprendibles
+        | No recubiertos con pinturas o materiales desprendibles.
       li 
         i.lista-ul__vineta
         | Que sean fáciles de limpiar y desinfectar. 

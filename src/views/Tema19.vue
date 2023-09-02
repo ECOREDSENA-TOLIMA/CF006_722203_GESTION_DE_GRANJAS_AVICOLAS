@@ -17,7 +17,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema19/img-84.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 las plagas se refieren a organismos no deseados que pueden causar daño o perjuicio a las aves de corral y a la producción avícola en general. Estos organismos pueden incluir insectos como moscas, mosquitos, garrapatas, ácaros, pulgas, piojos y cucarachas, así como roedores como ratas y ratones.
+        p.mb-0 Las plagas se refieren a organismos no deseados que pueden causar daño o perjuicio a las aves de corral y a la producción avícola en general. Estos organismos pueden incluir insectos como moscas, mosquitos, garrapatas, ácaros, pulgas, piojos y cucarachas, así como roedores como ratas y ratones.
         br
         br
         | Los vectores, por otro lado, son organismos que pueden transmitir enfermedades de un animal a otro. En el caso de las granjas avícolas, los vectores más comunes son los insectos, como moscas y mosquitos.
@@ -54,8 +54,6 @@
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 Comportamiento de los roedores
-
-    p.mb-5 Para un correcto y efectivo control de plagas y vectores se requiere conocer cuál es el comportamiento en su estado natural, (Fenavi, 2018b) describe el comportamiento de los roedores así:
 
     .col-xl-10.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema19/img-88.svg" data-aos="fade-right")
@@ -182,7 +180,7 @@
             p <strong>Larvicidas:</strong> combate larvas de insectos.
             p <strong>Molusquicidas:</strong> utilizados para controlar moluscos como caracoles de jardín y babosas.
             p <strong>Nematicidas:</strong> empleados para eliminar nematodos o gusanos.
-            p <strong>Ovicidas:</strong> utilizados para controlar huevecillos de insectos
+            p <strong>Ovicidas:</strong> utilizados para controlar huevecillos de insectos.
             p <strong>Roedores:</strong> empleados para controlar roedores.
 
           .col-md-6

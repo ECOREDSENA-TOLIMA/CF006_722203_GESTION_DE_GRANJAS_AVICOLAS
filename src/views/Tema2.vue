@@ -52,7 +52,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 3.
+        h5 Figura 4.
         span <em>Componentes del POT</em>
       img.d-md-block(src="@/assets/curso/temas/tema2/img-5.svg" data-aos="fade-left")
 

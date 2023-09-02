@@ -28,6 +28,9 @@
     p.mb-5 Para el caso de la cría de aves en el sector productivo colombiano se encuentra los siguientes sistemas productivos según el lugar donde se alojan las aves pueden ser de tres tipos, estos son:
 
     .col-xl-10.mx-auto.mb-5
+      .titulo-sexto.color-primario(data-aos="fade-right")
+        h5 Figura 1.
+        span <em>Sistemas productivos en el sector avícola colombiano</em>
       img.d-md-block(src="@/assets/curso/temas/tema1/img-1.svg" data-aos="fade-left")
 
     p Sistema intensivo (jaula), Semi-intensivo (piso) y Extensivo (pastoreo); los cuales son descritos por Cuellar así: 
@@ -40,7 +43,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 1.
+        h5 Figura 2.
         span <em>Sistemas de producción de aves</em>
       img.d-md-block(src="@/assets/curso/temas/tema1/img-2.svg" data-aos="fade-left")
 
@@ -112,9 +115,10 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 2.
+        h5 Figura 3.
         span <em>Componentes del sistema de gestión agrícola</em>
-      img.d-md-block(src="@/assets/curso/temas/tema1/img-3.svg" data-aos="fade-left")
+      img.d-md-block.mb-5(src="@/assets/curso/temas/tema1/img-3.svg" data-aos="fade-left")
+      figcaption Nota: adaptada de la guía ambiental para el subsector agrícola de FENAVI (2014).
 
 
 

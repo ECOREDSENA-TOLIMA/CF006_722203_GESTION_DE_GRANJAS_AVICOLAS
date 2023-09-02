@@ -13,15 +13,6 @@
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Insumos pecuarios
-            p Las empresas avícolas deben hacer compras de algunos insumos pecuarios que se utilizan en la gestión de una empresa avícola. 
-
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema12/img-56.png', alt='Texto que describa la imagen')
-
-        .row
-          .col-md-6.mb-4.mb-md-0
             h4 Tipos 
             p Los tipos de insumos pecuarios son reconocidos por  (Anzola et al., 2008) como: 
             p “Producto químico, biológico o de origen biotecnológico utilizado para promover la producción avícola. 
@@ -33,21 +24,20 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            p En una granja avícola se encuentran los siguientes insumos:
-            p Los químicos como: 
+            p <strong>Insumos quícimos:</strong>
             ul.lista-ul.mb-5
               li 
                 i.lista-ul__vineta
-                | Desinfectantes
+                | Desinfectantes.
               li 
                 i.lista-ul__vineta
-                | Sanitizantes
+                | Sanitizantes.
               li 
                 i.lista-ul__vineta
-                | Detergentes
+                | Detergentes.
               li 
                 i.lista-ul__vineta
-                | Medicamentos veterinarios
+                | Medicamentos veterinarios.
               li 
                 i.lista-ul__vineta
                 | Plaguicidas y otras sustancias peligrosas.
@@ -58,12 +48,12 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            p Biológicos como: 
-            ul.lista-ul.mb-5
+            p <strong>Insumos biológicos:</strong> 
+            ul.lista-ul
               li 
                 i.lista-ul__vineta
                 | Vacunas utilizadas en planes sanitarios.
-            p Biotecnológico como:
+            p <strong>Insumos biotecnológicos:</strong>
             ul.lista-ul.mb-5
               li 
                 i.lista-ul__vineta
@@ -78,22 +68,56 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            p Los nutricionales como:
+            p <strong>Buenas prácticas en insumos veterinarios</strong> 
+            ul.lista-ul
+              li 
+                i.lista-ul__vineta
+                |  La prescripción de medicamentos, biológicos y plaguicidas debe ser por parte del médico veterinario o médico veterinario zootecnista.
+
             ul.lista-ul.mb-5
               li 
                 i.lista-ul__vineta
+                | El médico es quien determina su uso luego de una evaluación diagnóstica, considerando además la información contenida en el rótulo acerca de la cantidad, administración, duración del tratamiento y tiempo de retiro.
+          
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema12/img-62.png', alt='Texto que describa la imagen')  
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p <strong>Buenas prácticas en insumos veterinarios</strong> 
+            ul.lista-ul
+              li 
+                i.lista-ul__vineta
+                | En el almacenamiento de insumos veterinarios que requieran condiciones especiales de refrigeración y/o congelación, se debe monitorear y registrar la temperatura y deben ser estos equipos de uso exclusivo para este producto.
+
+            ul.lista-ul.mb-5
+              li 
+                i.lista-ul__vineta
+                | Los insumos deben estar clasificados de acuerdo con su uso (medicamentos, plaguicidas sustancias de limpieza y desinfección) y encontrarse durante su periodo de vida útil, en caso de haber expirado deben ser retirados de las instalaciones.
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema12/img-63.png', alt='Texto que describa la imagen')
+        
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p <strong>Insumos nutricionales:</strong>
+            ul.lista-ul
+              li 
+                i.lista-ul__vineta
                 | Los alimentos concentrados y suplementos.
-            p Otros como:
+            p <strong>Otros insumos:</strong>
             ul.lista-ul.mb-5 
               li 
                 i.lista-ul__vineta
-                | Materias primas
+                | Materias primas.
               li 
                 i.lista-ul__vineta
-                | Envases
+                | Envases.
               li 
                 i.lista-ul__vineta
-                | Empaques
+                | Empaques.
 
           .col-md-6
             figure
@@ -109,7 +133,7 @@
                 | (Resolución 3651, 2014) para granjas avícolas bioseguras de postura y/o levante.
               li 
                 i.lista-ul__vineta
-                | (Resolución 3652, 2014)  para granjas avícolas bioseguras de Engorde.
+                | (Resolución 3652, 2014)  para granjas avícolas bioseguras de engorde.
               li 
                 i.lista-ul__vineta
                 | (Resolución 3650, 2014) para productores de material genético aviar y licencias de venta de material genético aviar.
@@ -117,44 +141,6 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema12/img-60.png', alt='Texto que describa la imagen')
-
-        .row
-          .col-md-6.mb-4.mb-md-0
-            p Por otro lado, para desarrollar buenas prácticas en el uso de insumos veterinarios se deben incluir los siguientes procedimientos:
-            ul.lista-ul.mb-5
-              li 
-                i.lista-ul__vineta
-                | La prescripción de medicamentos, biológicos y plaguicidas por parte del médico veterinario o médico veterinario zootecnista. 
-              li 
-                i.lista-ul__vineta
-                | Él es quien determina su uso luego de una evaluación diagnóstica, considerando además la información contenida en el rotulado para la medicación, administración, duración del tratamiento y tiempo de retiro.
-
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema12/img-62.png', alt='Texto que describa la imagen')
-
-        .row
-          .col-md-6.mb-4.mb-md-0
-            p Procedimientos
-            ul.lista-ul.mb-5
-              li 
-                i.lista-ul__vineta
-                | El almacenamiento de insumos veterinarios en la GAB de aves de postura y/o levante, que requieran condiciones especiales de refrigeración y/o congelación, en el cual se debe monitorear y registrar la temperatura, siendo estos equipos de uso exclusivo para este producto.
-              li 
-                i.lista-ul__vineta
-                | "Los insumos deben estar clasificados de acuerdo con su uso (medicamentos, plaguicidas sustancias de limpieza y desinfección) y encontrarse durante su periodo de vida útil, en caso de haber expirado deben ser retirados de las instalaciones” 
-
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema12/img-63.png', alt='Texto que describa la imagen')
-
-        .row
-          .col-md-6.mb-4.mb-md-0
-            p La calibración, limpieza y desinfección de instrumental reutilizable, usado para la administración de medicamentos y biológicos veterinarios. 
-
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema12/img-64.png', alt='Texto que describa la imagen')
 
     .row.align-items-center.mb-4(data-aos="fade-down-left")
       .col-md-6.mb-4
@@ -218,7 +204,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 12.4 Normativa sanitaria de insumos pecuarios
 
-    p En las granjas avícolas bioseguras los insumos pecuarios son requeridos para los procesos de producción avícola y están regulados por diferentes normas así:  
+    p En las granjas avícolas bioseguras los insumos pecuarios son requeridos para los procesos de producción avícola y están regulados por diferentes normas de la siguiente manera:
 
     ul.lista-ul
       li 

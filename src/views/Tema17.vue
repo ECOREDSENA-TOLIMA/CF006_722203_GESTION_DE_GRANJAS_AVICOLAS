@@ -7,14 +7,14 @@
         span 17
       h1 Sanitización y estabilización de la poliniza y gallinaza
     
-    p.mb-5 Según Fenavi (2014) la sanitización es un “proceso u operaciones físicas (tratamiento térmico), químicas o biológicas (compostaje) o mezcla de éstas, a los que se somete la gallinaza o pollinaza para garantizar la eliminación de agentes infectocontagiosos para las aves, otros animales y para los seres humanos, antes de ser retirada del galpón de origen. (p. 101).
+    p.mb-5 Según Fenavi (2014), la sanitización es un “proceso u operaciones físicas (tratamiento térmico), químicas o biológicas (compostaje) o mezcla de éstas, a los que se somete la gallinaza o pollinaza para garantizar la eliminación de agentes infectocontagiosos para las aves, otros animales y para los seres humanos, antes de ser retirada del galpón de origen. (p. 101).
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 17.1 Sanitización y estabilización de la poliniza y gallinaza
+      h2#t_1_1 Sanitización y estabilización de la poliniza y gallinaza
 
     p Según la guía rápida de (FENAVI, 2018c) la sanitización es el:
     p “proceso térmico al que se debe someter la gallinaza y la pollinaza con el fin de reducir o eliminar la presencia de microrganismo patógenos generadores de enfermedades antes de que el material sea retirado de la granja o se reutilice” (p.1). 
-    p.mb-5 La estabilización es la “transformación de la materia orgánica mediante procesos aeróbicos o anaeróbicos, en formas oxidadas más sencillas y estables (p.99)
+    p.mb-5 La estabilización es la “transformación de la materia orgánica mediante procesos aeróbicos o anaeróbicos, en formas oxidadas más sencillas y estables" (p.99)
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
@@ -23,7 +23,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 En general, lo que busca el proceso es romper materiales orgánicos complejos de difícil asimilación o descomposición, en otros, más simples que pueden ser aprovechados, por ejemplo: el realizado por las plantas y el suelo agrícola.
 
-    p Por otro lado, los procesos de acondicionamiento y estabilización de suelos a partir de la poliniza y la gallinaza se usan para programas de fertilización agrícola como se describe en la figura.
+    p.mb-5 Por otro lado, los procesos de acondicionamiento y estabilización de suelos a partir de la poliniza y la gallinaza se usan para programas de fertilización agrícola como se describe en la figura.
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
@@ -32,33 +32,25 @@
       img.d-md-block(src="@/assets/curso/temas/tema17/img-77.svg" data-aos="fade-left")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 17.2 Parámetros 
+      h2#t_1_1 Parámetros 
 
-    .bloque-texto-g.color-acento-contenido2.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema17/img-78.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 La sanitización del material está directamente relacionada con la temperatura para garantizar el proceso de eliminación de patógenos, se debe dar cumplimiento a dos aspectos fundamentales: 
-        ul.lista-ul.mb-5
-          li 
-            i.lista-ul__vineta
-            | Todo el material debe estar expuesto a las mismas condiciones de temperatura y 
-          li 
-            i.lista-ul__vineta
-            | La exposición a alta temperatura debe ser por un periodo de tiempo mínimo.
+    figure.mb-5(data-aos="fade-right")
+      img(src='@/assets/curso/temas/tema17/imagen.svg', alt='Texto que describa la imagen')
 
     p.mb-5 Según (FENAVI, 2018a) los dos parámetros principales en el proceso de estabilización a través del método de compostaje que deben ser tenidos en cuenta son:
 
     img.mb-5(src="@/assets/curso/temas/tema17/img-79.svg" data-aos="fade-right")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 17.3 Técnicas
+      h2#t_1_1 Técnicas de estabilización
     
     p La técnica recomendada para la estabilización de la gallinaza/pollinaza es el compostaje. 
     p.mb-5 El compostaje es el proceso de descomposición y transformación de los residuos orgánicos generados en la granja, como estiércol de aves, plumas, restos de alimentos y paja, en un producto final llamado compost. 
 
     img.mb-5(src="@/assets/curso/temas/tema17/img-80.svg" data-aos="fade-right")
+
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2#t_1_1 Técnicas de sanitización
 
     p Según la guía rápida (FENAVI, 2018c) el procedimiento a seguir para desarrollar una adecuada sanitización es: 
     ul.lista-ul.mb-5
@@ -91,7 +83,7 @@
       img.d-md-block(src="@/assets/curso/temas/tema17/img-81.svg" data-aos="fade-left")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 17.3 Técnicas
+      h2#t_1_1 Almacenamiento
 
     p La gallinaza/pollinaza sanitizada o estabilizada debe evitar el contacto con humedad y la contaminación con otros productos agrícolas.
     p Es muy importante que el agricultor utilice el 100% de la gallinaza/pollinaza estabilizada que adquiera lo más pronto posible o procurar el almacenada en un lugar protegidos de la humedad y la luz solar. 

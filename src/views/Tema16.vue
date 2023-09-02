@@ -17,10 +17,10 @@
     ul.lista-ul.mb-5
       li 
         i.lista-ul__vineta
-        | Que posea una buena capacidad de retención de humedad 
+        | Que posea una buena capacidad de retención de humedad.
       li 
         i.lista-ul__vineta
-        | Que garantice la salud de las patas y
+        | Que garantice la salud de las patas.
       li 
         i.lista-ul__vineta
         | Que evite lesiones en canales o suciedad en el huevo, según sea el sistema productivo” (p.38). 
@@ -29,7 +29,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-        h5 Figura 6.
+        h5 Figura 7.
         span <em>Tipos de camas</em>
       img.d-md-block(src="@/assets/curso/temas/tema16/img-74.svg" data-aos="fade-left")
 

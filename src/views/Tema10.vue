@@ -18,7 +18,7 @@
 
     p En las granjas avícolas bioseguras es importante el uso las diferentes clases de filtros mencionados en el numeral anterior, además se encuentran los pediluvios, rodiluvios, arcos de desinfección, unidades sanitarias y cajas de desinfección, que ayudan prevenir el ingreso de patógenos y agentes infecciosos. La Resolución 2674 de2013 establece que:
 
-    p Cuando sea requerido, se deben implementar filtros sanitarios (lavas botas, pediluvios o instalaciones para limpieza y desinfección de calzado, lavamanos de accionamiento no manual y toallas desechables o secador de manos, aspiradoras de polvo y contaminación, etc.), debidamente dotados y provistos de sustancias desinfectantes en cantidad suficiente para impedir el paso de contaminación de unas zonas a otras.
+    p "Cuando sea requerido, se deben implementar filtros sanitarios (lavas botas, pediluvios o instalaciones para limpieza y desinfección de calzado, lavamanos de accionamiento no manual y toallas desechables o secador de manos, aspiradoras de polvo y contaminación, etc.), debidamente dotados y provistos de sustancias desinfectantes en cantidad suficiente para impedir el paso de contaminación de unas zonas a otras".
 
     p.mb-5 En cualquier caso, se debe garantizar la limpieza y desinfección de manos de los operarios al ingreso de la sala de proceso o de manipulación de los productos.”
 

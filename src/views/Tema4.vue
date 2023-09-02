@@ -37,19 +37,19 @@
     ul.lista-ul.mb-5
       li 
         i.lista-ul__vineta
-        | Fumigaciones
+        | Fumigaciones.
       li 
         i.lista-ul__vineta
-        | Desinfección
+        | Desinfección.
       li  
         i.lista-ul__vineta
-        | Limpieza
+        | Limpieza.
       li  
         i.lista-ul__vineta
-        | Aplicación de vitaminas y suplementos 
+        | Aplicación de vitaminas y suplementos.
       li  
         i.lista-ul__vineta
-        | Registro de producción
+        | Registro de producción.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 4.3 Protocolos 

@@ -17,31 +17,31 @@
     ul.lista-ul.mb-5
       li 
         i.lista-ul__vineta
-        | Instalaciones
+        | Instalaciones.
       li 
         i.lista-ul__vineta
-        | Del agua de bebida 
+        | Del agua de bebida.
       li 
         i.lista-ul__vineta
-        | Del alimento
+        | Del alimento.
       li 
         i.lista-ul__vineta
-        | De la salud animal
+        | De la salud animal.
       li 
         i.lista-ul__vineta
-        | Del bienestar térmico e iluminación
+        | Del bienestar térmico e iluminación.
       li 
         i.lista-ul__vineta
-        | Del manejo
+        | Del manejo.
       li 
         i.lista-ul__vineta
-        | De las buenas prácticas de uso de medicamentos veterinarios
+        | De las buenas prácticas de uso de medicamentos veterinarios.
       li 
         i.lista-ul__vineta
-        | Del manejo de olor 
+        | Del manejo de olor.
       li 
         i.lista-ul__vineta
-        | Del sacrificio humanitario
+        | Del sacrificio humanitario.
       li 
         i.lista-ul__vineta
         | De los planes de emergencia y contingencia relacionados con el bienestar animal.
@@ -50,7 +50,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 4.
+        h5 Figura 5.
         span <em>Provisiones de confort animal</em>
       img.d-md-block(src="@/assets/curso/temas/tema13/img-65.svg" data-aos="fade-left")
 
@@ -59,10 +59,10 @@
     ul.lista-ul.mb-5
       li 
         i.lista-ul__vineta
-        | El suministro de luz natural o artificial
+        | El suministro de luz natural o artificial.
       li 
         i.lista-ul__vineta
-        | La temperatura 
+        | La temperatura.
       li 
         i.lista-ul__vineta
         | El espacio influye en el confort o bienestar de las aves, permitiendo que realicen sus procesos fisiológicos de manera adecuada y que se refleje en los índices productivos.
@@ -104,7 +104,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 5.
+        h5 Figura 6.
         span <em>Libertades del bienestar animal</em>
       img.d-md-block(src="@/assets/curso/temas/tema13/img-66.svg" data-aos="fade-left")
 

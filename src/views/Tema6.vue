@@ -7,7 +7,7 @@
         span 6
       h1 Normatividad para granjas avícolas bioseguras
 
-    p.mb-5 En Colombia se han expedido leyes, decretos y resoluciones como se muestra en el punto anterior, con el objeto de reglamentar la producción avícola con procesos de bioseguridad, por otro lado, desde el Instituto Colombiano Agropecuario, ICA, se han establecido parámetros y procedimientos técnicos, que son de cumplimiento obligatorio para todas las granjas avícolas del país para ser certificadas como bioseguras.
+    p.mb-5 En Colombia se han expedido leyes, decretos y resoluciones como se muestra en el punto anterior, con el objeto de reglamentar la producción avícola con procesos de bioseguridad, por otro lado, desde el Instituto Colombiano Agropecuario, ICA, se han establecido parámetros y procedimientos técnicos, que son de cumplimiento obligatorio para todas las granjas avícolas del país para ser certificadas como bioseguras, como se muestra a continuación:
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 Registro productor de material genético aviar y licencias de venta de material genético aviar
@@ -15,7 +15,7 @@
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 Certificación de granjas avícolas bioseguras de postura y/o levante
-    p.mb-5 La Resolución 3651, (2014) establece los “requisitos para la certificación de granjas avícolas bioseguras de postura y/o levante y se dictan otras disposiciones” (p.1).  da importancia a la certificación con fines comerciales teniendo en cuenta la organización de la granja a nivel de infraestructura, planes sanitarios y requerimientos que los productores deben cumplir para obtener el certificado y mejorar la producción y calidad con procedimientos que fortalezcan el sistema de bioseguridad de la granja.
+    p.mb-5 La Resolución 3651, (2014) establece los “requisitos para la certificación de granjas avícolas bioseguras de postura y/o levante y se dictan otras disposiciones” (p.1)., en dónde se da importancia a la certificación con fines comerciales teniendo en cuenta la organización de la granja a nivel de infraestructura, planes sanitarios y requerimientos que los productores deben cumplir para obtener el certificado y mejorar la producción y calidad con procedimientos que fortalezcan el sistema de bioseguridad de la granja.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 Certificación granjas avícolas bioseguras de pollo de engorde 

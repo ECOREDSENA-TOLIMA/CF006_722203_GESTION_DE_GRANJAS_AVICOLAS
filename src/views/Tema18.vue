@@ -110,7 +110,10 @@
         i.lista-ul__vineta
         | El procedimiento de llenado debe seguir los pasos del protocolo de recolección y para el manejo que se le da al material se debe tener en cuenta los pasos del proceso de sanitización. 
 
-    .col-xl-10.mx-auto.mb-5
+    .col-xl-8.mx-auto.mb-5
+      .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+        h5 Figura 12.
+        span <em>Disposición final de aves muertas</em>
       img.d-md-block(src="@/assets/curso/temas/tema18/img-83.svg" data-aos="fade-right")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")

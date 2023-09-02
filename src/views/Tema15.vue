@@ -16,7 +16,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 “el tratamiento físico-químico aplicado a las superficies limpias, con el fin de destruir los microorganismos que pueden ocasionar contaminación y reducir sustancialmente el número de otros microorganismos indeseables, sin que dicho tratamiento afecte adversamente las características y calidad del producto u objeto del proceso” (p.10).
 
-    p.mb-5 Como puede ver la limpieza, desinfección e higienización en la producción del sector avícola, es de vital importancia, porque si no se controlan los microorganismos, estos pueden causar la muerte de grandes cantidades de aves, llevando a la pérdida económica para el avicultor. 
+    p.mb-5 La limpieza, desinfección e higienización en la producción del sector avícola, es de vital importancia, porque si no se controlan los microorganismos, estos pueden causar la muerte de grandes cantidades de aves y generarían una pérdida económica al avicultor.
 
     AcordionA.mb-5.bgr_7(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="Limpieza, desinfección e higienización").p-0
@@ -28,52 +28,52 @@
         ul.lista-ul.mb-5
           li 
             i.lista-ul__vineta
-            | El hombre
+            | El hombre.
           li 
             i.lista-ul__vineta
-            | Moscas e insectos hematófagos
+            | Moscas e insectos hematófagos.
           li 
             i.lista-ul__vineta
-            | Viento y polvo
+            | Viento y polvo.
           li 
             i.lista-ul__vineta
-            | Aves de reemplazo gallinas criollas
+            | Aves de reemplazo gallinas criollas.
           li 
             i.lista-ul__vineta
-            | Cerdos y perros 
+            | Cerdos y perros.
           li 
             i.lista-ul__vineta
-            | Ausencia total o parcial del plan de vacunación
+            | Ausencia total o parcial del plan de vacunación.
           li 
             i.lista-ul__vineta
-            | Alimentos
+            | Alimentos.
           li 
             i.lista-ul__vineta
-            | Aguas 
+            | Aguas.
           li 
             i.lista-ul__vineta
-            | Aves domésticas, silvestres y exóticas
+            | Aves domésticas, silvestres y exóticas.
           li 
             i.lista-ul__vineta
-            | Ratas y ratones 
+            | Ratas y ratones. 
           li 
             i.lista-ul__vineta
-            | Vacunas y virus vitos
+            | Vacunas y virus vitos.
           li 
             i.lista-ul__vineta
-            | Vehículos
+            | Vehículos.
           li 
             i.lista-ul__vineta
-            | Botas 
+            | Botas.
           li 
             i.lista-ul__vineta
-            | Equipos
+            | Equipos.
         p Es fundamental implementar medidas de bioseguridad rigurosas para prevenir la introducción y propagación de estos patógenos en las granjas avícolas. 
       .row(titulo="Productos 1").p-0
         p Según Anzola et al. (2008), los insumos utilizados en una granja avícola deben ser los productos autorizados para la limpieza y desinfección. Estos productos deben estar claramente definidos y contar con fichas técnicas que especifiquen sus concentraciones, modo de preparación, empleo y los equipos necesarios para su utilización. Además, es importante establecer la forma de rotación de los equipos. Estos productos se utilizan en equipos, utensilios, instalaciones y personal de la granja para garantizar una implementación eficiente y correcta de los programas de bioseguridad.
         p En cuanto a la desinfección, los desinfectantes son los productos más utilizados. Según Anzola et al. (2008), los desinfectantes son sustancias empleadas para destruir los microorganismos. Es fundamental que estos desinfectantes tengan una acción bactericida residual que perdure durante un tiempo adecuado y sean estables en presencia de residuos orgánicos (p.9).
       .row(titulo="Productos 2").p-0
-        p De acuerdo con Anzola et al. (2008), los productos más utilizados para la limpieza en una granja avícola son los limpiadores, los cuales ayudan a eliminar la suciedad. Los limpiadores comunes incluyen jabones y detergentes (p.10).
+        p Según Anzola et al. (2008), los insumos utilizados en una granja avícola deben ser los productos autorizados para la limpieza y desinfección. Estos productos deben estar claramente definidos y contar con fichas técnicas que especifiquen sus concentraciones, modo de preparación, empleo y los equipos necesarios para su utilización. Además, es importante establecer la forma de rotación de los equipos. Estos productos se utilizan en equipos, utensilios, instalaciones y personal de la granja para garantizar una implementación eficiente y correcta de los programas de bioseguridad. De acuerdo con Anzola et al. (2008), los productos más utilizados para la limpieza en una granja avícola son los limpiadores, los cuales ayudan a eliminar la suciedad. Los limpiadores comunes incluyen jabones y detergentes (p.10).
         p En cuanto a los desinfectantes, los principios activos permitidos y disponibles comercialmente, según Semolinos (2021), son formulados en base a compuestos de amonio cuaternario, aldehídos (como el formaldehído y el glutaraldehído), sustancias cloradas (como el hipoclorito sódico y el dióxido de cloro), yodóforos, fenoles o sustancias peroxiacéticas (como el peróxido de hidrógeno y el ácido peracético).
         p Según el mismo autor, un desinfectante ideal debería cumplir con las siguientes características:
         ul.lista-ul.mb-5
@@ -96,18 +96,33 @@
             i.lista-ul__vineta
             | No corrosivo y 100% biodegradable.
       .row(titulo="Métodos").p-0
-        p.mb-5 Las operaciones de limpieza y desinfección en una granja avícola utilizan métodos de limpieza por:
-        p <strong>Arrastre mecánico</strong>
-        p La eliminación de los microorganismos junto con grasas naturales, suciedad y células descamativas, se hace por medio del uso de agua, jabón y fricción.
-        p <strong>Sustancias químicas</strong>
-        p Se usan antisépticos y desinfectantes.
-        p <strong>Esterilización</strong>
-        p.mb-5 Se usan medios físicos o químicos.
-        p.mb-5 Los tipos de limpieza pueden ser: 
-        p <strong>Limpieza en seco:</strong> se realiza la remoción de los residuos por medio del uso de cepillos o un método físico, en equipos y superficies. 
-        p <strong>Limpieza húmeda:</strong> se emplea una solución limpiadora compuesta por agua y un detergente normalmente.
-        p <strong>Limpieza manual:</strong> se hace con acción mecánica fuerte, con el frotado o fregado con cepillo u otro elemento.
-        p <strong>Limpieza en el sitio:</strong> utiliza una solución de limpieza aplicada a las superficies internas de los equipos, tanques y circuitos, por recirculación.
+        p Las operaciones de limpieza y desinfección en una granja avícola utilizan métodos de limpieza por:
+        ul.lista-ul
+          li 
+            i.lista-ul__vineta
+            | <strong>Arrastre mecánico:</strong> es la eliminación de los microorganismos junto con grasas naturales, suciedad y células descamativas, se hace por medio del uso de agua, jabón y fricción.
+          li 
+            i.lista-ul__vineta
+            | <strong>Sustancias químicas:</strong> se usan antisépticos y desinfectantes.
+          li 
+            i.lista-ul__vineta
+            | <strong>Esterilización:</strong> se usan medios físicos o químicos.
+
+        p Los tipos de limpieza pueden ser: 
+        ul.lista-ul
+          li 
+            i.lista-ul__vineta
+            | <strong>Limpieza en seco:</strong> se realiza la remoción de los residuos por medio del uso de cepillos o un método físico, en equipos y superficies.
+          li 
+            i.lista-ul__vineta
+            | <strong>Limpieza húmeda:</strong> se emplea una solución limpiadora compuesta por agua y un detergente normalmente.
+          li 
+            i.lista-ul__vineta
+            | <strong>Limpieza manual:</strong> se hace con acción mecánica fuerte, con el frotado o fregado con cepillo u otro elemento.
+          li 
+            i.lista-ul__vineta
+            | <strong>Limpieza en el sitio:</strong> utiliza una solución de limpieza aplicada a las superficies internas de los equipos, tanques y circuitos, por recirculación.
+
       .row(titulo="Frecuencia").p-0
         p La frecuencia de los procesos de limpieza y desinfección en una granja avícola puede variar dependiendo del tipo de utensilio, equipo o instalación y se clasifican generalmente en los siguientes intervalos:
         p <strong>Diarias:</strong> algunos utensilios y equipos requieren ser limpiados y desinfectados a diario debido a su constante uso y exposición.
@@ -116,8 +131,7 @@
         p Es importante tener en cuenta estas frecuencias para mantener la higiene y la bioseguridad en la granja avícola.
       .row(titulo="Fichas técnicas").p-0
         p En relación a las fichas técnicas, los productos de limpieza y desinfección deben contar con información detallada que se encuentra en estos documentos. Según FENAVI (2011), las fichas técnicas proporcionan información como el nombre comercial del producto, número de registro (ICA u otros), laboratorio productor y distribuidor, composición, presentación, indicaciones de uso, dosis, clasificación toxicológica y condiciones de almacenamiento. En el caso de medicamentos o biológicos, también se incluyen contraindicaciones y períodos de resguardo (p.10). Es importante que los empleados conozcan estas fichas técnicas para garantizar su seguridad.
-        p En las granjas avícolas bioseguras, es fundamental conocer y seguir las recomendaciones e indicaciones presentes en las fichas técnicas de los productos de limpieza y desinfección. Esto permite un uso adecuado de los productos, mejorando la eficacia de los procesos de limpieza y desinfección.
-    
+        
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 15.1 Equipos para lavado y desinfección
 
@@ -130,57 +144,69 @@
 
     h2 Tipos 
 
-    p Los equipos se clasifican según el proceso, en la siguiente forma:
-    p - De limpieza, se utilizan los siguientes equipos:
+    p Los equipos y utensilios se clasifican según el proceso, de la siguiente forma
+
+    p Equipos de limpieza:
     ul.lista-ul.mb-5
-      li 
-        i.lista-ul__vineta
-        | Hidrolavadora
-      li 
-        i.lista-ul__vineta
-        | Bomba de espalda o fumigadora
-      li 
-        i.lista-ul__vineta
-        | La fumigadora estacionaria
-      li 
-        i.lista-ul__vineta
-        |  Nebulizador
-      li 
-        i.lista-ul__vineta
-        | Flameador y Utensilios como: 
-      ul.lista-ul.mb-5
-        li 
-          i.lista-ul__vineta
-          | Escobas
-        li 
-          i.lista-ul__vineta
-          | Cepillos 
-        li 
-          i.lista-ul__vineta
-          | Baldes
-        li 
-          i.lista-ul__vineta
-          | Esponjas
-    p - De desinfección, en este caso se pueden utilizan equipos como:
+      li
+        ul
+          li 
+            i.lista-ul__vineta
+            | Hidrolavadora.
+          li 
+            i.lista-ul__vineta
+            | Bomba de espalda o fumigadora.
+          li 
+            i.lista-ul__vineta
+            | La fumigadora estacionaria.
+          li 
+            i.lista-ul__vineta
+            | Nebulizador.
+          li 
+            i.lista-ul__vineta
+            | Flameador.
+
+    p Utensilios de limpieza:
     ul.lista-ul.mb-5
-      li 
-        i.lista-ul__vineta
-        | Aspersor 
-      li 
-        i.lista-ul__vineta
-        | Bromo nebulizador y 
-      li 
-        i.lista-ul__vineta
-        | Utensilios como: 
-      li 
-        i.lista-ul__vineta
-        | Baldes
-      li 
-        i.lista-ul__vineta
-        | Paños 
-      li 
-        i.lista-ul__vineta
-        | Guantes
+      li
+        ul
+          li 
+            i.lista-ul__vineta
+            | Escobas.
+          li 
+            i.lista-ul__vineta
+            | Cepillos.
+          li 
+            i.lista-ul__vineta
+            | Baldes.
+          li 
+            i.lista-ul__vineta
+            | Esponjas.
+
+    p Equipos para desinfección:
+    ul.lista-ul.mb-5
+      li
+        ul
+          li 
+            i.lista-ul__vineta
+            | Aspersor.
+          li 
+            i.lista-ul__vineta
+            | Bromo nebulizador.
+
+    p Utensilios para desinfección:
+    ul.lista-ul.mb-5
+      li
+        ul
+          li 
+            i.lista-ul__vineta
+            | Baldes.
+          li 
+            i.lista-ul__vineta
+            | Paños.
+          li 
+            i.lista-ul__vineta
+            | Guantes.
 
     h2 Funcionamiento 
 
@@ -227,7 +253,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 15.2 Desinfectantes y detergentes
 
-    p Según la Resolución 223 de 2021 define desinfectante un” agente que elimina la mayoría de los microorganismos patógenos, pero no necesariamente todas las formas microbianas esporuladas en objetos y superficies inanimados” (p.3) y detergente según Resolución 689 de 2016 define detergente a toda “sustancia o preparado que contenga jabón u otros tensoactivos que se utilicen en procesos de lavado con agua. Los detergentes podrán adoptar cualquier forma (líquido, polvos, pasta, barra, pastilla, formas moldeadas, entre otros)” (p. 4). 
+    p Según la Resolución 223 de 2021 define desinfectante como “un agente que elimina la mayoría de los microorganismos patógenos, pero no necesariamente todas las formas microbianas esporuladas en objetos y superficies inanimados” (p.3) y detergente según Resolución 689 de 2016 define detergente a toda “sustancia o preparado que contenga jabón u otros tensoactivos que se utilicen en procesos de lavado con agua. Los detergentes podrán adoptar cualquier forma (líquido, polvos, pasta, barra, pastilla, formas moldeadas, entre otros)” (p. 4).
     p.mb-5 Tanto desinfectantes como detergentes son insumos o sustancias químicas para la desinfección de una granja avícola; para el manejo de tales sustancias químicas según FENAVI (2020a) es importante tener en cuenta las condiciones generales como son: inventario de productos químicos, hojas de seguridad y rotulado de envase, compra del producto, transporte del producto, almacenamiento, utilización, kit de derrames y manejo de residuos.
 
     .tarjeta.tarjeta.color-acento-contenido.p-4.mb-5
