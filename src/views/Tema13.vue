@@ -10,7 +10,7 @@
     p.mb-5 El ingreso de las aves a las granjas es un proceso relevante, en este se contemplan aspectos relacionados con las condiciones especiales de preparación de instalaciones, condiciones ambientales y bienestar animal, entre otros; lo cual permite brindar a las aves las condiciones óptimas para su desarrollo.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 13.1 Protocolos 
+      h2#t_13_1 13.1 Protocolos 
 
     p En los protocolos de ingreso de animales a una granja avícola, se deben cumplir según la Resolución 0253 de 2020 con las condiciones generales de:
 
@@ -71,7 +71,7 @@
         | El suministro del agua debe cumplir con las condiciones de sanidad e inocuidad, para contribuir a su nutrición y evitar la presencia de patógenos que afecten la salud de las aves.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 13.2 Principios de bienestar animal 
+      h2#t_13_2 13.2 Principios de bienestar animal 
 
     p El bienestar animal es definido por la Resolución 0253 de 2020 como: “el estado físico y mental de un animal en relación a las condiciones en que vive y muere”, a su vez la Federación Nacional de Avicultores (FENAVI, 2019c) considera que  el “confort o bienestar animal puede entenderse como el modo en que un animal afronta las condiciones de su entorno, considerándose estar en buenas condiciones de bienestar si está sano, cómodo, bien alimentado, en seguridad y si no padece sensaciones desagradable de dolor, miedo o desasosiego”(p.10).
     p El bienestar animal en la avicultura es de gran importancia, ya que la finalidad de este es ofrecer unas condiciones dignas y adecuadas en el desarrollo de la producción de aves respetando las condiciones y libertades que exigen para obtener así productos de calidad.
@@ -109,7 +109,7 @@
       img.d-md-block(src="@/assets/curso/temas/tema13/img-66.svg" data-aos="fade-left")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 13.3 Normatividad de bienestar animal
+      h2#t_13_3 13.3 Normatividad de bienestar animal
 
     ul.lista-ul.mb-5
       li 

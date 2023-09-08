@@ -73,7 +73,7 @@
       img.d-md-block(src="@/assets/curso/temas/tema19/img-90.svg" data-aos="fade-right")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 19.1 Control de plagas 
+      h2#t_19_1 19.1 Control de plagas 
 
     p El control de plagas se hace con una serie de actividades que regulan y manejan las especies nocivas de plagas, evitando la afección a la salud y el daño medio ambiental. 
     p.mb-5 El control de plagas se realiza para manejar y evitar el ingreso y/o radicación de las plagas a las producciones avícolas.
@@ -153,7 +153,7 @@
               img(src='@/assets/curso/temas/tema19/img-98.png', alt='Texto que describa la imagen')
     
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 19.2 Plaguicidas 
+      h2#t_19_2 19.2 Plaguicidas 
 
     p.mb-5 Un plaguicida según Decreto 1843 de 1991 es todo agente de naturaleza “química, física o biológica que sólo en mezcla o en combinación se utilice para: la prevención, represión, atracción, o control de insectos, ácaros y agentes patógenos” entre otros, que afecten a los animales, personas o plantas en una granja avícola. 
 

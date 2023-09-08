@@ -56,7 +56,7 @@
             p Anexo. Para profundizar en el tema sobre sistemas de producción puede visualizar la Resolución 0253 de 2020.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.2 Requisitos 
+      h2#t_1_2 1.2 Requisitos 
 
     p Según el manual de bienestar animal adjunto a la Resolución 0253 de 2020 se reconocen requisitos y condiciones a tener en cuenta en los sistemas de producción de aves los cuales deben cumplir con las siguientes pautas:
 
@@ -96,7 +96,7 @@
         | De los planes de contingencia y emergencia.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.3 Componentes 
+      h2#t_1_3 1.3 Componentes 
 
     p De acuerdo a las características productivas y el tipo de impacto ambiental los procesos avícolas según Fenavi se pueden dividir en tres grandes grupos: 
 

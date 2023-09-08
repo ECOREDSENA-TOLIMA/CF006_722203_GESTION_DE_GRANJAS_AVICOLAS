@@ -27,7 +27,7 @@
             p Decreto 3651.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.1 Características de la bioseguridad en una granja avícola
+      h2#t_5_1 5.1 Características de la bioseguridad en una granja avícola
 
     p Los programas de bioseguridad son claves para el funcionamiento de las granjas avícolas bioseguras y se caracterizan por tener en cuenta aspectos, como: 
 
@@ -46,7 +46,7 @@
         | Normas sanitarias.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.2 Aplicabilidad
+      h2#t_5_2 5.2 Aplicabilidad
 
     p La aplicabilidad de los programas de bioseguridad en las granjas avícolas se enfoca en evitar la propagación de agentes patógenos e infectocontagiosos que afecten a las aves y disminuyen a producción porque al proteger la salud de las aves se favorece el rendimiento, se evita la mortalidad, se mejora la calidad, se disminuyen los costos y se aumenta la rentabilidad. 
 

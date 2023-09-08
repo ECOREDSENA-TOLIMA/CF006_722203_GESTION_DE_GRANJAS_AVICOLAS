@@ -16,7 +16,7 @@
         p.mb-0 Para la reducción de emisiones causada por la descomposición de subproductos orgánicos avícolas, se recomienda su estabilización, preferiblemente, por medio de técnicas de valorización como el compostaje. De este modo, aparte de reducir la emisión de olores se está generando valor al producir materia orgánica compostada que se puede usar para aplicar en suelos.
     
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 18.1 Protocolo de recolección 
+      h2#t_18_1 18.1 Protocolo de recolección 
 
     p El protocolo de recolección de aves muertas, inicia cuando el operario hace un recorrido diario por los galpones de la granja para verificar la mortalidad, si existen aves muertas, se deben desarrollar los siguientes pasos para compostar adecuadamente:
 
@@ -52,7 +52,7 @@
             | 30 días después del volteo realizar la evacuación final usando una zaranda para apartar carcaza y plumas.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 18.2 Prácticas de posición 
+      h2#t_18_2 18.2 Prácticas de posición 
 
     p.mb-5 Las prácticas de disposición de la mortalidad deben hacerse en una caseta para compostaje, la cual debe estar ubicada en una zona alejada del área de producción para evitar la contaminación del galpón por corrientes de aire o paso de personal.     
 
@@ -117,12 +117,12 @@
       img.d-md-block(src="@/assets/curso/temas/tema18/img-83.svg" data-aos="fade-right")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 18.3 Compostaje 
+      h2#t_18_3 18.3 Compostaje 
 
     p.mb-5 Según FENAVI (2019b) la compostación es un “proceso obtenido de manera natural por descomposición aeróbica (con oxígeno) de residuos orgánicos como restos vegetales, animales y excremento, por medio de la reproducción masiva de bacterias aerobias termófilas que están presentes en forma natural en cualquier lugar”. (p. 34). 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 18.4 Técnicas de manejo 
+      h2#t_18_4 18.4 Técnicas de manejo 
 
     p Las técnicas de manejo de las aves muertas son: 
 

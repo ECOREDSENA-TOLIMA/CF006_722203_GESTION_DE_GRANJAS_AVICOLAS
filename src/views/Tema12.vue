@@ -154,12 +154,12 @@
             p resolución 789, 2007
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 12.1 Ingreso de insumos pecuarios
+      h2#t_12_1 12.1 Ingreso de insumos pecuarios
 
     p.mb-5 Para el ingreso de cualquier tipo de insumo pecuario en granjas o plantas de incubación avícolas debe existir un manual de procedimientos escritos para control de calidad de materias primas e insumos, donde se señalen las especificaciones de calidad y los criterios de aceptación y rechazo.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 12.2 Protocolos 
+      h2#t_12_2 12.2 Protocolos 
 
     p El protocolo de bioseguridad de ingreso de insumos pecuarios debe estar diseñado con el fin de evitar la contaminación de tipo biológico o químico para proteger la salud de las personas y los animales que van a estar en contacto con los insumos. 
     p Teniendo la emergencia sanitaria se expide la Resolución 773, 2020 donde señala aspectos a tener en cuenta para garantizar el cuidado de los proveedores y clientes al entregar y recibir insumos. 
@@ -197,12 +197,12 @@
             p resolución 773, 2020
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 12.3 Procedimiento técnico
+      h2#t_12_3 12.3 Procedimiento técnico
 
     p.mb-5 Los insumos pecuarios ya sean químicos y/o biológicos, deben tener procedimientos técnicos descritos en la ficha técnica y hoja de seguridad. Es importante que la empresa avícola acate todos los requerimientos que da el proveedor de estos insumos, con el fin de evitar su mal uso, despilfarro o algún accidente por contacto.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 12.4 Normativa sanitaria de insumos pecuarios
+      h2#t_12_4 12.4 Normativa sanitaria de insumos pecuarios
 
     p En las granjas avícolas bioseguras los insumos pecuarios son requeridos para los procesos de producción avícola y están regulados por diferentes normas de la siguiente manera:
 

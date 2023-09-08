@@ -10,7 +10,7 @@
     p.mb-5 La cama es un aspecto importante a tener en cuenta en el alojamiento de las aves, según FENAVI (2019a) tiene como funciones principales: “ayudar a conservar una temperatura adecuada, aislando a las aves del frío y la humedad; de igual manera, actúa como un amortiguador, protegiéndolas de golpes y raspaduras, siendo además un absorbente de la humedad del suelo, de heces y de pérdidas producidas por los bebederos. Su espesor no debe ser inferior a cinco cm” (p.14).
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 16.1 Tipos de camas
+      h2#t_16_1 16.1 Tipos de camas
 
     p Existen diversas opciones de materiales para ser utilizados como cama, pero según FENAVI (2018b) los más requeridos son “viruta de madera, cascarilla de arroz y pasto picado. Sea cual sea el material seleccionado, se debe tener en cuenta cada uno de los siguientes elementos:
 
@@ -34,7 +34,7 @@
       img.d-md-block(src="@/assets/curso/temas/tema16/img-74.svg" data-aos="fade-left")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 16.2 Características
+      h2#t_16_2 16.2 Características
 
     p.mb-5 La cama, como elemento importante del ambiente de las aves, posee propiedades físicas y químicas que pueden incidir directamente sobre los microorganismos presentes en ella. En la figura se muestran las propiedades físicas de la cama:
     
@@ -45,7 +45,7 @@
       img.d-md-block(src="@/assets/curso/temas/tema16/img-75.svg" data-aos="fade-left")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 16.3 Manejo de la cama 
+      h2#t_16_3 16.3 Manejo de la cama 
 
     p Es importante un buen manejo de la cama avícola desde el inicio de la producción hasta el final de esta; ya que, una cama adecuada y bien manejada es clave dentro del sistema de bioseguridad de la granja evitando así, problemas higiénicos sanitarios que retrasen la producción avícola.
     p  Un manejo inadecuado de la cama en cuanto a calidad y cantidad, puede dar lugar a:

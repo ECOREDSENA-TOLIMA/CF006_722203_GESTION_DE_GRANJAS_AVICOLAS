@@ -23,14 +23,14 @@
             p Anexo. Decreto 2117 de 2017
     
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.1 Programa 
+      h2#t_4_1 4.1 Programa 
 
     p Un programa es un documento que contiene un conjunto medidas, acciones, procedimientos y medidas sanitarias para proteger la vida de los seres vivos de una producción primaria para obtener beneficios y control adicionales en la organización o empresa.
 
     p  Ayuda a instrumentar acciones necesarias para la prevención, la higiene y la seguridad en el desarrollo de las tareas y funciones, e implementar medidas correctivas y preventivas del trabajo para disminuir los riesgos y el daño a las personas, animales o bienes de una empresa. 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.2 Procedimientos 
+      h2#t_4_2 4.2 Procedimientos 
 
     p Un procedimiento es un conjunto de acciones que se implementan o realizan dentro del programa de bioseguridad para controlar o evitar la entrada o ingreso de agentes patógenos que pueda alterar la salud de los animales; tales procedimientos son organizados en protocolos y cronogramas. Algunos procedimientos de bioseguridad que se pueden programar son: 
 
@@ -52,7 +52,7 @@
         | Registro de producción.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.3 Protocolos 
+      h2#t_4_3 4.3 Protocolos 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(

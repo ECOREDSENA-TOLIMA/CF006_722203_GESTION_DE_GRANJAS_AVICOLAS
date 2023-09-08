@@ -10,12 +10,12 @@
     p.mb-5 El ingreso de personas a granjas avícolas es uno de los mecanismos de bioseguridad que controlan el estricto ingreso del personal a las unidades productivas el cual debe ser autorizado por el propietario o el encargado de la unidad productiva. 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 11.1 Importancia
+      h2#t_11_1 11.1 Importancia
 
     p.mb-5 El ingreso de personal a las instalaciones de la granja es de vital importancia en una granja avícola, porque se ejerce control del personal o personas visitantes, las cuales deben cumplir con los protocolos de bioseguridad y de esta forma reducir la posibilidad del ingreso de agentes patógenos a la explotación avícola.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 11.2 Protocolo 
+      h2#t_11_2 11.2 Protocolo 
 
     p.mb-5 El protocolo de ingreso de las personas a la granja avícola es un documento diseñado por el personal especializado en la empresa avícola y debe ser conocido por sus trabajadores e informado a los visitantes, los cuales deben cumplir con las siguientes pautas: 
 

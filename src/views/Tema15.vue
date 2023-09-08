@@ -133,7 +133,7 @@
         p En relación a las fichas técnicas, los productos de limpieza y desinfección deben contar con información detallada que se encuentra en estos documentos. Según FENAVI (2011), las fichas técnicas proporcionan información como el nombre comercial del producto, número de registro (ICA u otros), laboratorio productor y distribuidor, composición, presentación, indicaciones de uso, dosis, clasificación toxicológica y condiciones de almacenamiento. En el caso de medicamentos o biológicos, también se incluyen contraindicaciones y períodos de resguardo (p.10). Es importante que los empleados conozcan estas fichas técnicas para garantizar su seguridad.
         
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 15.1 Equipos para lavado y desinfección
+      h2#t_15_1 15.1 Equipos para lavado y desinfección
 
     .bloque-texto-g.color-acento-contenido2.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
@@ -251,7 +251,7 @@
         | También es importante capacitar al operario y tener en cuenta la ficha técnica y los manuales de uso para y mejorar la vida útil el equipo.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 15.2 Desinfectantes y detergentes
+      h2#t_15_2 15.2 Desinfectantes y detergentes
 
     p Según la Resolución 223 de 2021 define desinfectante como “un agente que elimina la mayoría de los microorganismos patógenos, pero no necesariamente todas las formas microbianas esporuladas en objetos y superficies inanimados” (p.3) y detergente según Resolución 689 de 2016 define detergente a toda “sustancia o preparado que contenga jabón u otros tensoactivos que se utilicen en procesos de lavado con agua. Los detergentes podrán adoptar cualquier forma (líquido, polvos, pasta, barra, pastilla, formas moldeadas, entre otros)” (p. 4).
     p.mb-5 Tanto desinfectantes como detergentes son insumos o sustancias químicas para la desinfección de una granja avícola; para el manejo de tales sustancias químicas según FENAVI (2020a) es importante tener en cuenta las condiciones generales como son: inventario de productos químicos, hojas de seguridad y rotulado de envase, compra del producto, transporte del producto, almacenamiento, utilización, kit de derrames y manejo de residuos.
