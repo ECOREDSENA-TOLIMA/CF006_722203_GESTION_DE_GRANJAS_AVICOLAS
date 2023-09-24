@@ -8,7 +8,7 @@
       h1 Procedimientos Operativos Estandarizados de Saneamiento (POES)
 
     p(data-aos="fade-right") El Procedimiento operativo estandarizado de saneamiento (POES), es definido por la Resolución 3652 de 2014 como:
-    p(data-aos="fade-down") “la descripción operativa y detallada de una actividad o proceso, en la cual se precisa la forma como se llevará a cabo el procedimiento, el responsable de su ejecución y la periodicidad con que debe realizarse, adicionalmente menciona los elementos, herramientas o productos que se van a utilizar. Por lo anterior, debe contar con un registro físico y sistemático que recopila, consigna y conserva de forma segura los datos en formatos que faciliten su consulta y verificación” (p.7).  
+    p(data-aos="fade-down") “La descripción operativa y detallada de una actividad o proceso, en la cual se precisa la forma como se llevará a cabo el procedimiento, el responsable de su ejecución y la periodicidad con que debe realizarse, adicionalmente menciona los elementos, herramientas o productos que se van a utilizar. Por lo anterior, debe contar con un registro físico y sistemático que recopila, consigna y conserva de forma segura los datos en formatos que faciliten su consulta y verificación” (p.7).  
     p(data-aos="fade-right") Cada granja avícola para certificarse como biosegura debe diseñar e implementar los POES de acuerdo a sus requerimientos:
 
     ul.lista-ul.mb-5(data-aos="fade-down")
@@ -34,8 +34,9 @@
         i.lista-ul__vineta 
         | Formatos necesarios
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_8_1 8.1 Objetivo 
+    Separador
+    #t_8_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 8.1 Objetivo 
 
     figure.mb-5(data-aos="fade-right")
       img(src='@/assets/curso/temas/tema8/imagen.svg', alt='Texto que describa la imagen')
@@ -59,13 +60,15 @@
         i.lista-ul__vineta 
         | De registro utilizando parámetros técnicos y formatos.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_8_2 8.2 Ventajas
+    Separador
+    #t_8_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 8.2 Ventajas
 
     p.mb-5 Las ventajas de los POES, es que en la granja avícola se cuente con la documentación disponible para procesos de inducción, reinducción y desarrollo de las actividades. Los documentos son dinámicos y pueden ser actualizados de acuerdo a los cambios en la normatividad, por lo que es necesario asegurar el registro y documentación de la información, con el fin de garantizar que los procesos se desarrollen de acuerdo a los protocolos, ya que se pueden ver afectadas las acciones y tareas a desarrollar en la granja avícola.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_8_3 8.3 Parámetros de verificación de los POES
+    Separador
+    #t_8_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 8.3 Parámetros de verificación de los POES
 
     p Las granjas avícolas deberán cumplir a cabalidad con lo establecido en los Procedimientos Operativos Estandarizados (POE), los cuales son definidos por la Resolución 3651 de 2014 para granjas avícolas bioseguras de postura y/o levante.
     p.mb-5 Por otro lado, debe cumplir con las siguientes resoluciones: 
@@ -137,8 +140,9 @@
                   span Ver video
                   i.fas.fa-file-download
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_8_4 8.4 Documentación de aplicación del POES
+    Separador
+    #t_8_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 8.4 Documentación de aplicación del POES
 
     p Los formatos de control del POE son definidos por la Resolución 3651 de 2014 para granjas avícolas bioseguras de postura y/o levante, por la Resolución 3652 de 2014 para granjas avícolas bioseguras de Engorde y por la Resolución 3650 de 2014 para productores de material genético aviar y licencias de venta de material genético aviar. Los formatos evidencian la ejecución de las actividades establecidas y deben ser conservadas por un periodo no menor a un año y deben contener:
     p - Información General

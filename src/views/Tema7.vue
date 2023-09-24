@@ -7,8 +7,8 @@
         span 7
       h1 Legislación ambiental 
 
-    p La industria avícola para el desarrollo de sus actividades emplea recursos naturales que dispone en su área de influencia como son: recurso agua, suelo, aire; y luego de su aprovechamiento generan residuos sólidos que son regulados por la legislación ambiental del país. 
-    p.mb-5 Esta comprende el conjunto de leyes, decretos, resoluciones al igual que convenios, tratados, y reglamentos emanados de los entes encargados de la protección de medio ambiente del país con el propósito de regular y reducir los impactos generados en el desarrollo de las actividades productivas, tanto en lo urbano como lo rural. Tomando como base la legislación ambiental vigente, en la guía rápida de residuos sólidos de Fenavi (2019) se pueden encontrar conceptos relacionados con el tema. 
+    p La industria avícola para el desarrollo de sus actividades emplea recursos naturales que dispone en su área de influencia, como son: recurso agua, suelo, aire; y luego de su aprovechamiento generan residuos sólidos que son regulados por la legislación ambiental del país. 
+    p.mb-5 Esta comprende el conjunto de leyes, decretos, resoluciones, al igual que convenios, tratados, y reglamentos emanados de los entes encargados de la protección de medio ambiente del país, con el propósito de regular y reducir los impactos generados en el desarrollo de las actividades productivas, tanto en lo urbano como lo rural. Tomando como base la legislación ambiental vigente, en la guía rápida de residuos sólidos de Fenavi (2019) se pueden encontrar conceptos relacionados con el tema. 
 
     AcordionA.mb-5.bgr_7(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="Legislación ambiental").p-4
@@ -63,7 +63,7 @@
           figure
             img.mx-auto.mb-5(src='@/assets/curso/temas/tema7/img-39.svg', style="max-width:250px", alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0
-          p La segregación en la fuente  según (Valencia & Rodríguez, 2010) es la ”base fundamental de la adecuada gestión de residuos y consiste en la clasificación y disposición de los residuos en las canecas y contenedores adecuados, de acuerdo con el código de color adoptado por la legislación vigente ”(p.6).
+          p La segregación en la fuente  según (Valencia & Rodríguez, 2010) es la ”base fundamental de la adecuada gestión de residuos y consiste en la clasificación y disposición de los residuos en las canecas y contenedores adecuados, de acuerdo con el código de color adoptado por la legislación vigente” (p.6).
       .row(titulo="Manejo de residuos").p-4
         .col-md-6
           figure

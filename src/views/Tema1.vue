@@ -9,8 +9,9 @@
 
     p.mb-5 La importancia de los sistemas de producción avícola radica en que son alternativas de producción para pequeños, medianos y grandes productores velando por ofrecer productos de calidad, para lo cual, tienen en cuenta la seguridad alimentaria de una región y apuntan a mejorar y obtener rentabilidad de su granja avícola; por esto, se reconocen tipos de sistemas, requisitos a tener en cuenta y componentes de la producción en una granja avícola biosegura.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.1 Tipos de sistemas de producción
+    Separador
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.1 Tipos de sistemas de producción
 
     p Los tipos de sistemas de producción avícola según (Pedrozo, 2005) se clasifican según la calidad de terreno y disposición de las aves, estos son: 
     
@@ -31,13 +32,13 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 1.
         span <em>Sistemas productivos en el sector avícola colombiano</em>
-      img.d-md-block(src="@/assets/curso/temas/tema1/img-1.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema1/img-1.svg" data-aos="fade-left" alt="En la figura 1 se muestran los sistemas productivos en el sector avícola colombiano.")
 
-    p Sistema intensivo (jaula), Semi-intensivo (piso) y Extensivo (pastoreo); los cuales son descritos por Cuellar así: 
+    p Sistema intensivo (jaula), Semi-intensivo (piso) y Extensivo (pastoreo); los cuales son descritos por (Cuellar, 2021) así: 
 
     p El primer tipo se denomina producción intensiva, donde las aves permanecen alojadas en jaulas y están cubiertas todo el tiempo. El segundo tipo se denomina producción semi-intensiva, donde los animales cuentan con un área al aire libre y otra con cubierta. El tercer tipo se denomina producción extensiva y se refiere al ambiente al aire libre donde las aves pasan parte de su tiempo (2021).
 
-    p Estos sistemas de producción son también conocidos como industriales o de galpón con amplios niveles de producción tecnificadas y de programas de bioseguridad implementados; adicionalmente se encuentran los de corral o de manejo menor a 200 aves de producción doméstica, con pocos equipos y con instalaciones básicas construidas con materiales del predio y por último las de traspatio o pastoreo donde no hay programas de bioseguridad o control sobre las aves. 
+    p Estos sistemas de producción son también conocidos como industriales o de galpón, con amplios niveles de producción tecnificadas y de programas de bioseguridad implementados; adicionalmente se encuentran los de corral o de manejo menor a 200 aves de producción doméstica, con pocos equipos y con instalaciones básicas construidas con materiales del predio y por último las de traspatio o pastoreo donde no hay programas de bioseguridad o control sobre las aves. 
 
     p.mb-5 Según la Resolución 0253 de 2020, los sistemas de producción se diferencian de la siguiente forma: para pollo de engorde, aves de postura en piso y aves de postura en jaula y se mencionan en la siguiente figura.
 
@@ -45,7 +46,7 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 2.
         span <em>Sistemas de producción de aves</em>
-      img.d-md-block(src="@/assets/curso/temas/tema1/img-2.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema1/img-2.svg" data-aos="fade-left" alt="En la figura 2 se muestran los sistemas de producción de aves: pollos de engorde, aves de postura en piso y aves de postura en jaula.")
 
     .row.justify-content-center
       .col-lg-6
@@ -55,12 +56,13 @@
           .anexo__texto
             p Anexo. Para profundizar en el tema sobre sistemas de producción puede visualizar la Resolución 0253 de 2020.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_2 1.2 Requisitos 
+    Separador
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.2 Requisitos 
 
-    p Según el manual de bienestar animal adjunto a la Resolución 0253 de 2020 se reconocen requisitos y condiciones a tener en cuenta en los sistemas de producción de aves los cuales deben cumplir con las siguientes pautas:
+    p Según el manual de bienestar animal adjunto a la Resolución 0253 de 2020, se reconocen requisitos y condiciones a tener en cuenta en los sistemas de producción de aves, los cuales deben cumplir con las siguientes pautas:
 
-    ul.lista-ul.mb-5
+    ul.lista-ul.mb-5.ms-md-3
       li 
         i.lista-ul__vineta
         | De las que centran su atención en las condiciones generales de bienestar animal en aves de corral.
@@ -90,13 +92,14 @@
         | De las intervenciones dolorosas del manejo.
       li  
         i.lista-ul__vineta
-        | Del sacrificio humanitario e eutanasia.
+        | Del sacrificio humanitario y eutanasia.
       li  
         i.lista-ul__vineta
         | De los planes de contingencia y emergencia.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_3 1.3 Componentes 
+    Separador
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.3 Componentes 
 
     p De acuerdo a las características productivas y el tipo de impacto ambiental los procesos avícolas según Fenavi se pueden dividir en tres grandes grupos: 
 
@@ -117,7 +120,7 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 3.
         span <em>Componentes del sistema de gestión agrícola</em>
-      img.d-md-block.mb-5(src="@/assets/curso/temas/tema1/img-3.svg" data-aos="fade-left")
+      img.d-md-block.mb-5(src="@/assets/curso/temas/tema1/img-3.svg" data-aos="fade-left" alt="En la figura 3 se muestran los componentes del sistema de gestión agrícola, donde se describe la línea genética.")
       figcaption Nota: adaptada de la guía ambiental para el subsector agrícola de FENAVI (2014).
 
 

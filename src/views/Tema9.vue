@@ -42,7 +42,7 @@
           .col-md-6.mb-4.mb-md-0
             h4 Aplicación
             p Las granjas avícolas deben identificar peligros y estimar los riesgos de sus trabajadores y se deben clasificar según los parámetros técnicos y normativos, adicionalmente deben analizarlos de forma sistemática para poder implementar los procedimientos necesarios de prevención. El accidente laboral en las granjas avícolas debe tener un procedimiento de atención y es necesario investigarlos para tipificarlos y asegurar la aplicación de los protocolos. 
-            p Por tanto, las granjas avícolas deben incluir procedimientos para preservar la salud definida por la OMS, tales, como: ¨El estado de bienestar físico, mental y social completo, y no meramente la ausencia de daño o enfermedad”.
+            p Por tanto, las granjas avícolas deben incluir procedimientos para preservar la salud definida por la OMS, tales, como: “El estado de bienestar físico, mental y social completo, y no meramente la ausencia de daño o enfermedad”.
 
           .col-md-6
             figure
@@ -52,7 +52,7 @@
           .col-md-6.mb-4.mb-md-0
             h4 Elementos de protección
             p Los elementos de protección personal, las medidas de protección y las prácticas higiénicas son muy importante, porque: Ayudan a disminuir los factores de riesgo físico, biológico y químico que pueden generar accidentes de trabajo y por ende incapacidades laborales.
-            p Con el propósito de preservar la salud y seguridad de los operarios según (Anzola et al., 2008) deben existir: “equipos e implementos de seguridad en correcto funcionamiento y ubicados en lugar visible y de fácil acceso (extintores, campanas extractoras de aire, barandas, etc.). Los operarios dispondrán de adecuada dotación y usar los elementos de protección personal requeridos, tales como: 
+            p Con el propósito de preservar la salud y seguridad de los operarios según (Anzola et al., 2008) deben existir: “equipos e implementos de seguridad en correcto funcionamiento y ubicados en lugar visible y de fácil acceso (extintores, campanas extractoras de aire, barandas, etc.)”. Los operarios dispondrán de adecuada dotación y usar los elementos de protección personal requeridos, tales como: 
           
           .col-md-6
             figure
@@ -64,22 +64,22 @@
             ul.lista-ul.mb-3
               li 
                 i.lista-ul__vineta
-                | Casco
+                | Casco.
               li 
                 i.lista-ul__vineta
-                | Caretas de acetato
+                | Caretas de acetato.
               li  
                 i.lista-ul__vineta
-                | Gafas de seguridad
+                | Gafas de seguridad.
               li  
                 i.lista-ul__vineta
-                | Protectores auditivos
+                | Protectores auditivos.
               li  
                 i.lista-ul__vineta
-                | Respiradores mecánicos o de filtro químico
+                | Respiradores mecánicos o de filtro químico.
               li  
                 i.lista-ul__vineta
-                | Zapatos de seguridad, entre otros
+                | Zapatos de seguridad, entre otros.
             
           .col-md-6
             figure
@@ -87,9 +87,10 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Elementos de protección
-            p ¨Deben existir equipos e implementos de seguridad en perfecto estado de funcionamiento y bien ubicados (extintores, camillas, etc.). 
-            p Los extintores deben estar ubicados en los sitios de mayor riesgo y que sean de fácil acceso a ellos¨ (p.45).
+            h4 Primeros auxilios
+            p “La empresa debe disponer de un botiquín dotado con los elementos mínimos requeridos para el control de afecciones, como heridas y traumatismos menores. Debe conformarse y entrenarse un equipo de personas en labores de primeros auxilios”.
+            p “Deben existir equipos e implementos de seguridad en perfecto estado de funcionamiento y bien ubicados (extintores, camillas, etc.). 
+            p Los extintores deben estar ubicados en los sitios de mayor riesgo y que sean de fácil acceso a ellos” (p.45).
 
           .col-md-6
             figure
@@ -102,7 +103,7 @@
             ul.lista-ul.mb-5
               li 
                 i.lista-ul__vineta
-                | Uniformes color claro, limpio y calzado cerrado de material resistente e impermeable
+                | Uniformes color claro, limpio y calzado cerrado de material resistente e impermeable.
               li 
                 i.lista-ul__vineta
                 | El uso de guantes en buen estado, limpios y desinfectados.

@@ -7,24 +7,24 @@
         span 6
       h1 Normatividad para granjas avícolas bioseguras
 
-    p.mb-5 En Colombia se han expedido leyes, decretos y resoluciones como se muestra en el punto anterior, con el objeto de reglamentar la producción avícola con procesos de bioseguridad, por otro lado, desde el Instituto Colombiano Agropecuario, ICA, se han establecido parámetros y procedimientos técnicos, que son de cumplimiento obligatorio para todas las granjas avícolas del país para ser certificadas como bioseguras, como se muestra a continuación:
+    p.mb-5 En Colombia se han expedido leyes, decretos y resoluciones como se muestra en el punto anterior, con el objeto de reglamentar la producción avícola con procesos de bioseguridad, por otro lado, desde el Instituto Colombiano Agropecuario ICA, se han establecido parámetros y procedimientos técnicos, que son de cumplimiento obligatorio para todas las granjas avícolas del país con el fin de ser certificadas como bioseguras, como se muestra a continuación:
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Registro productor de material genético aviar y licencias de venta de material genético aviar
+      h3 Registro productor de material genético aviar y licencias de venta de material genético aviar
     p.mb-5 La Resolución 3650, (2014) establece los “requisitos para el registro como productor de material genético aviar y expedición de licencias de venta de material genético aviar” (p.1), dando importancia a la necesidad de controlar, coordinar, prevenir, y erradicar la aparición de enfermedades que afecten el material genético aviar que puedan evitar la expedición de licencias de venta del mismo. 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Certificación de granjas avícolas bioseguras de postura y/o levante
+      h3 Certificación de granjas avícolas bioseguras de postura y/o levante
     p.mb-5 La Resolución 3651, (2014) establece los “requisitos para la certificación de granjas avícolas bioseguras de postura y/o levante y se dictan otras disposiciones” (p.1)., en dónde se da importancia a la certificación con fines comerciales teniendo en cuenta la organización de la granja a nivel de infraestructura, planes sanitarios y requerimientos que los productores deben cumplir para obtener el certificado y mejorar la producción y calidad con procedimientos que fortalezcan el sistema de bioseguridad de la granja.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Certificación granjas avícolas bioseguras de pollo de engorde 
-    p.mb-5 En la Resolución 3652, (2014) se establecen “requisitos para la certificación de granjas avícolas bioseguras de pollo y se dictan otras disposiciones” (p.1). dando importancia a los procesos de bioseguridad en la producción de pollo de engorde, para que cumplan con parámetros técnicos que orientan a los productores en cuanto a documentación y registros a utilizar, estos también dan cuenta sobre la implementación de infraestructura adecuada y en los requerimientos para certificarse ante la entidad competente.
+      h3 Certificación granjas avícolas bioseguras de pollo de engorde 
+    p.mb-5 En la Resolución 3652, (2014) se establecen “requisitos para la certificación de granjas avícolas bioseguras de pollo y se dictan otras disposiciones” (p.1). Dando importancia a los procesos de bioseguridad en la producción de pollo de engorde, para que cumplan con parámetros técnicos que orientan a los productores en cuanto a documentación y registros a utilizar, estos también dan cuenta sobre la implementación de infraestructura adecuada y en los requerimientos para certificarse ante la entidad competente.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Registro Sanitario de Predio Pecuario - RSPP
+      h3 Registro Sanitario de Predio Pecuario - RSPP
     p La Resolución 090464, (2021) establece el Registro Sanitario de Predio Pecuario RSPP y destaca la diferencia que se hace de predio pecuario y predio avícola en la “producción y/o comercialización de aves incluidas las de traspatio”, y establece los requisitos de expedición, cancelación, modificación del RSPP y las obligaciones que contrae el titular del predio. 
-    p.mb-5 Para ampliar la información acceder a la línea de tiempo que se muestra a continuación y donde se analizan las normas existentes.
+    p.mb-5 Para ampliar la información, acceder a la línea de tiempo que se muestra a continuación donde se analizan las normas existentes.
 
     h2 Normatividad granjas avícolas bioseguras
     p.mb-5 A continuación, se mencionan los grandes hitos en temas de normatividad del sector avícola en Colombia. 

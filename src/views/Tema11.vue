@@ -9,13 +9,15 @@
 
     p.mb-5 El ingreso de personas a granjas avícolas es uno de los mecanismos de bioseguridad que controlan el estricto ingreso del personal a las unidades productivas el cual debe ser autorizado por el propietario o el encargado de la unidad productiva. 
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_11_1 11.1 Importancia
+    Separador
+    #t_11_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 11.1 Importancia
 
     p.mb-5 El ingreso de personal a las instalaciones de la granja es de vital importancia en una granja avícola, porque se ejerce control del personal o personas visitantes, las cuales deben cumplir con los protocolos de bioseguridad y de esta forma reducir la posibilidad del ingreso de agentes patógenos a la explotación avícola.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_11_2 11.2 Protocolo 
+    Separador
+    #t_11_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 11.2 Protocolo 
 
     p.mb-5 El protocolo de ingreso de las personas a la granja avícola es un documento diseñado por el personal especializado en la empresa avícola y debe ser conocido por sus trabajadores e informado a los visitantes, los cuales deben cumplir con las siguientes pautas: 
 
@@ -62,10 +64,10 @@
         | Se hará desinfección de las máquinas y equipos antes de ingresar.
       li  
         i.lista-ul__vineta
-        | Se deberá usar al ingreso de vehículos arcos y sistemas de desinfección.
+        | Se deberá usar al ingreso de vehículos, arcos y sistemas de desinfección.
       li 
         i.lista-ul__vineta
-        | Se usarán sistemas de drenaje para evitar contaminación por lo que se hará tratamiento y mantenimiento de las superficies de vías de acceso, el patio de maniobras, la zona de cargue y descargue.  
+        | Se usarán sistemas de drenaje para evitar contaminación, por lo que se hará tratamiento y mantenimiento de las superficies de vías de acceso, el patio de maniobras, la zona de cargue y descargue.  
 
 
 

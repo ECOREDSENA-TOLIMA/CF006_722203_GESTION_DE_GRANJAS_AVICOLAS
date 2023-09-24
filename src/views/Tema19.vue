@@ -10,7 +10,7 @@
     p.mb-5 Para que la gestión de una empresa avícola tenga éxito, es necesario que se haga un control adecuado de las plagas y los vectores que pueden en un momento dado transmitir enfermedades y lograr hasta la muerte de los animales, lo cual lleva a pérdidas en la producción.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Plagas y vectores 
+      h3 Plagas y vectores 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
@@ -25,7 +25,7 @@
     p.mb-5 Es fundamental mantener altos estándares de limpieza y desinfección en una empresa avícola para evitar la aparición de plagas y vectores. Esto no solo contribuye a prevenir enfermedades, sino también a proteger las utilidades y el bienestar de los animales y las personas involucradas en la industria avícola.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Tipos 
+      h3 Tipos 
 
     .row.mb-5
       .col-12.col-md-8.mb-3.mb-md-0(data-aos="fade-right")
@@ -35,7 +35,7 @@
           img(src="@/assets/curso/temas/tema19/img-85.png", alt="Texto que describa la imagen")
     
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Biología 
+      h3 Biología 
 
     p La biología de una plaga y vector permite identificar sus características físicas y ciclo evolutivo, esto permite tomar medidas de control y evitar el ingreso a la producción avícola. 
     p.mb-5 La biología de roedores se describe en las siguientes tabla:  
@@ -53,13 +53,13 @@
       img.d-md-block(src="@/assets/curso/temas/tema19/img-87.svg" data-aos="fade-left")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Comportamiento de los roedores
+      h3 Comportamiento de los roedores
 
     .col-xl-10.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema19/img-88.svg" data-aos="fade-right")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Comportamiento de las moscas 
+      h3 Comportamiento de las moscas 
     
     p.mb-5 Para un correcto y efectivo control de plagas y vectores se requiere conocer cuál es el comportamiento en su estado natural, (Fenavi, 2018b) describe el comportamiento de los roedores así:
 
@@ -67,13 +67,14 @@
       img.d-md-block(src="@/assets/curso/temas/tema19/img-89.svg" data-aos="fade-right")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Comportamiento de los escarabajos 
+      h3 Comportamiento de los escarabajos 
 
     .col-xl-10.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema19/img-90.svg" data-aos="fade-right")
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_19_1 19.1 Control de plagas 
+    Separador
+    #t_19_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 19.1 Control de plagas 
 
     p El control de plagas se hace con una serie de actividades que regulan y manejan las especies nocivas de plagas, evitando la afección a la salud y el daño medio ambiental. 
     p.mb-5 El control de plagas se realiza para manejar y evitar el ingreso y/o radicación de las plagas a las producciones avícolas.
@@ -152,8 +153,9 @@
             figure
               img(src='@/assets/curso/temas/tema19/img-98.png', alt='Texto que describa la imagen')
     
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_19_2 19.2 Plaguicidas 
+    Separador
+    #t_19_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 19.2 Plaguicidas 
 
     p.mb-5 Un plaguicida según Decreto 1843 de 1991 es todo agente de naturaleza “química, física o biológica que sólo en mezcla o en combinación se utilice para: la prevención, represión, atracción, o control de insectos, ácaros y agentes patógenos” entre otros, que afecten a los animales, personas o plantas en una granja avícola. 
 

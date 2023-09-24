@@ -32,8 +32,9 @@
           .anexo__texto
             p Anexo. Ley 388 de 1997.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_2_1 2.1 Aspectos estructurales que define el POT
+    Separador
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.1 Aspectos estructurales que define el POT
 
     p Los planes de ordenamiento territorial según Mora Huertas (2019) deberán contemplar tres componentes:
 
@@ -54,7 +55,7 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 4.
         span <em>Componentes del POT</em>
-      img.d-md-block(src="@/assets/curso/temas/tema2/img-5.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema2/img-5.svg" data-aos="fade-left" alt="En la figura 4 encontramos los componentes del POT con tres columnas, la primera componente general, la segunda el urbano y la tercera el rural.")
 
 
 

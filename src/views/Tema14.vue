@@ -7,17 +7,19 @@
         span 14
       h1 Equipos y herramientas en establecimientos avícolas
 
-    p.mb-5 El propósito principal uso y manejo de los equipos es volver eficiente la producción avícola teniendo en cuenta los procesos de sanitización de estos con el fin de fortalecer los sistemas de bioseguridad implementados en la granja, a continuación, podrá conocer algunos conceptos importantes para tener éxito en la gestión de una empresa avícola.
+    p.mb-5 El propósito principal uso y manejo de los equipos, es volver eficiente la producción avícola teniendo en cuenta los procesos de sanitización de estos, con el fin de fortalecer los sistemas de bioseguridad implementados en la granja, a continuación, podrá conocer algunos conceptos importantes para tener éxito en la gestión de una empresa avícola.
     
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_14_1 14.1 Concepto 
+    Separador
+    #t_14_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 14.1 Concepto 
     
     p.mb-5 Los Equipos son recursos físicos con los cuales se puede resolver o ejecutar una tarea en la granja avícola; y las herramientas son utensilios elaborados con la finalidad de hacer más sencillo y facilitar la elaboración de una tarea o actividad mecánica que debe ser realizada con la aplicación de energía y fuerza.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_14_2 14.2 Tipos 
+    Separador
+    #t_14_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 14.2 Tipos 
 
-    p Los equipos y herramientas a utilizar en una granja avícola dependen de la edad de las aves, tipo de producción, sistema de producción y alojamientos.  
+    p Los equipos y herramientas a utilizar en una granja avícola, dependen de la edad de las aves, tipo de producción, sistema de producción y alojamientos.  
     p Los equipos, los utensilios y las instalaciones de las granjas avícolas según Anzola (2008), deben cumplir con las siguientes condiciones: 
     ul.lista-ul.mb-5
       li 
@@ -48,8 +50,9 @@
         i.lista-ul__vineta
         | No deben representar riesgo de contaminación y/ o daño para los productos aviares.
     
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_14_3 14.3 Mantenimiento
+    Separador
+    #t_14_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 14.3 Mantenimiento
 
     p Según Anzola (2008), se debe contar con un programa de mantenimiento de los equipos y utensilios, para eliminar la posibilidad de convertirse en una fuente de contaminación y generar un daño a los productos aviares.
     p Adicionalmente se debe contar con manuales de procedimientos que incluyan: 
@@ -70,8 +73,9 @@
         i.lista-ul__vineta
         | Los recursos requeridos para tal fin.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_14_4 14.4 Fichas técnicas
+    Separador
+    #t_14_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 14.4 Fichas técnicas
 
     p Cada uno de los equipos y herramientas deben contar con su respectiva ficha técnica, en la cual se identifican los siguientes ítems: descripción, características, datos técnicos, atributos y recomendaciones de uso, el cual se encuentra en la sección de materiales complementarios.
 

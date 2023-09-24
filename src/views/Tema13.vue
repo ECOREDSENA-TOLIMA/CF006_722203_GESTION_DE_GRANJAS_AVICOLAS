@@ -9,8 +9,9 @@
 
     p.mb-5 El ingreso de las aves a las granjas es un proceso relevante, en este se contemplan aspectos relacionados con las condiciones especiales de preparación de instalaciones, condiciones ambientales y bienestar animal, entre otros; lo cual permite brindar a las aves las condiciones óptimas para su desarrollo.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_13_1 13.1 Protocolos 
+    Separador
+    #t_13_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 13.1 Protocolos 
 
     p En los protocolos de ingreso de animales a una granja avícola, se deben cumplir según la Resolución 0253 de 2020 con las condiciones generales de:
 
@@ -52,7 +53,7 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 5.
         span <em>Provisiones de confort animal</em>
-      img.d-md-block(src="@/assets/curso/temas/tema13/img-65.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema13/img-65.svg" data-aos="fade-left" alt="En la figura 4 se muestran las provisiones de confort animal.")
 
     p De igual forma se deben incluir en los protocolos, los aspectos mínimos para suministrar a las aves un estado de confort desde el ingreso, hasta el momento del sacrificio o descarte de los animales, como se muestra a continuación:
 
@@ -70,8 +71,9 @@
         i.lista-ul__vineta
         | El suministro del agua debe cumplir con las condiciones de sanidad e inocuidad, para contribuir a su nutrición y evitar la presencia de patógenos que afecten la salud de las aves.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_13_2 13.2 Principios de bienestar animal 
+    Separador
+    #t_13_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 13.2 Principios de bienestar animal 
 
     p El bienestar animal es definido por la Resolución 0253 de 2020 como: “el estado físico y mental de un animal en relación a las condiciones en que vive y muere”, a su vez la Federación Nacional de Avicultores (FENAVI, 2019c) considera que  el “confort o bienestar animal puede entenderse como el modo en que un animal afronta las condiciones de su entorno, considerándose estar en buenas condiciones de bienestar si está sano, cómodo, bien alimentado, en seguridad y si no padece sensaciones desagradable de dolor, miedo o desasosiego”(p.10).
     p El bienestar animal en la avicultura es de gran importancia, ya que la finalidad de este es ofrecer unas condiciones dignas y adecuadas en el desarrollo de la producción de aves respetando las condiciones y libertades que exigen para obtener así productos de calidad.
@@ -100,16 +102,17 @@
           .anexo__texto
             p Decreto 2113 de 2017
 
-    p.mb-5 Las cinco libertades que deben tener los animales de acuerdo a lo establecido por las anteriores reglamentaciones Decreto 2113 de 2017 y que son sintetizadas en la siguiente figura descritas (ICA, 2020). En las granjas avícolas bioseguras se deben considerar los principios o libertades de los animales para lograr que las aves manifiesten su potencial genético y permita su desarrollo productivo.
+    p.mb-5 Las cinco libertades que deben tener los animales de acuerdo a lo establecido por las anteriores reglamentaciones, Decreto 2113 de 2017 y que son sintetizadas en la siguiente figura descritas ICA, (2020). En las granjas avícolas bioseguras se deben considerar los principios o libertades de los animales para lograr que las aves manifiesten su potencial genético y permita su desarrollo productivo.
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 6.
         span <em>Libertades del bienestar animal</em>
-      img.d-md-block(src="@/assets/curso/temas/tema13/img-66.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema13/img-66.svg" data-aos="fade-left" alt="En la figura 6 se muestran las cinco libertades del bienestar animal segun el ICA.")
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_13_3 13.3 Normatividad de bienestar animal
+    Separador
+    #t_13_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 13.3 Normatividad de bienestar animal
 
     ul.lista-ul.mb-5
       li 

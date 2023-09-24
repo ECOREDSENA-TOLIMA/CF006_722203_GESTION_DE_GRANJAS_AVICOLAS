@@ -47,7 +47,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Formato
-            p En el formato se deben registrar los datos del solicitante diferenciando si es persona natural, jurídica, pública o privada, debe contener la información general del predio, información de la fuente de abastecimiento, el uso para el cual se solicita, la documentación que se debe anexar y las firmas y fechas correspondientes.
+            p En el formato se deben registrar los datos del solicitante, diferenciando si es persona natural, jurídica, pública o privada, debe contener la información general del predio, información de la fuente de abastecimiento, el uso para el cual se solicita, la documentación que se debe anexar y las firmas y fechas correspondientes.
 
           .col-md-6
             figure
@@ -74,7 +74,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Entidades competentes
-            p Según (Fenavi, 2014) las Corporaciones Autónomas Regionales son las entidades competentes para otorgar la concesión de aguas, hacer evaluación y seguimiento en los municipios que conforman su jurisdicción y el acto administrativo por medio del cual se otorga la concesión de aguas por medio de una resolución.
+            p Según (FENAVI, 2014) las Corporaciones Autónomas Regionales son las entidades competentes para otorgar la concesión de aguas, hacer evaluación y seguimiento en los municipios que conforman su jurisdicción y el acto administrativo por medio del cual se otorga la concesión de aguas por medio de una resolución.
 
           .col-md-6
             figure
@@ -112,7 +112,7 @@
                 p.text-small Este video le permite conocer cómo se puede hacer el proceso de solicitud de permisos para el uso de recurso hídrico.
 
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=6haI_G35ED0&t=419s')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=6haI_G35ED0')" target="_blank")
                   span Ver video
                   i.fas.fa-file-download
 

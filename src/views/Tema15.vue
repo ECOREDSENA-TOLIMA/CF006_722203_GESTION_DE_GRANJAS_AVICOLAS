@@ -14,7 +14,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema15/img-66.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 “el tratamiento físico-químico aplicado a las superficies limpias, con el fin de destruir los microorganismos que pueden ocasionar contaminación y reducir sustancialmente el número de otros microorganismos indeseables, sin que dicho tratamiento afecte adversamente las características y calidad del producto u objeto del proceso” (p.10).
+        p.mb-0 “El tratamiento físico-químico aplicado a las superficies limpias, con el fin de destruir los microorganismos que pueden ocasionar contaminación y reducir sustancialmente el número de otros microorganismos indeseables, sin que dicho tratamiento afecte adversamente las características y calidad del producto u objeto del proceso” (p.10).
 
     p.mb-5 La limpieza, desinfección e higienización en la producción del sector avícola, es de vital importancia, porque si no se controlan los microorganismos, estos pueden causar la muerte de grandes cantidades de aves y generarían una pérdida económica al avicultor.
 
@@ -132,8 +132,9 @@
       .row(titulo="Fichas técnicas").p-0
         p En relación a las fichas técnicas, los productos de limpieza y desinfección deben contar con información detallada que se encuentra en estos documentos. Según FENAVI (2011), las fichas técnicas proporcionan información como el nombre comercial del producto, número de registro (ICA u otros), laboratorio productor y distribuidor, composición, presentación, indicaciones de uso, dosis, clasificación toxicológica y condiciones de almacenamiento. En el caso de medicamentos o biológicos, también se incluyen contraindicaciones y períodos de resguardo (p.10). Es importante que los empleados conozcan estas fichas técnicas para garantizar su seguridad.
         
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_15_1 15.1 Equipos para lavado y desinfección
+    Separador
+    #t_15_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 15.1 Equipos para lavado y desinfección
 
     .bloque-texto-g.color-acento-contenido2.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
@@ -214,25 +215,25 @@
     ul.lista-ul.mb-5
       li 
         i.lista-ul__vineta
-        | Los requerimientos 
+        | Los requerimientos. 
       li 
         i.lista-ul__vineta
-        | Partes 
+        | Partes.
       li 
         i.lista-ul__vineta
-        | Función
+        | Función.
       li 
         i.lista-ul__vineta
-        | Especificaciones técnicas
+        | Especificaciones técnicas.
       li 
         i.lista-ul__vineta
-        | Atributos
+        | Atributos.
       li 
         i.lista-ul__vineta
-        | Sistemas y subsistemas técnicos del equipo
+        | Sistemas y subsistemas técnicos del equipo.
       li 
         i.lista-ul__vineta
-        | Descripción general del producto
+        | Descripción general del producto.
     p Toda esta información es vital para el avicultor, por lo que es obligatorio que los elementos de limpieza y desinfección la ofrezcan de manera directa sobre la etiqueta o folletos que entrega junto con el producto. 
 
     h2 Operación 
@@ -250,8 +251,9 @@
         i.lista-ul__vineta
         | También es importante capacitar al operario y tener en cuenta la ficha técnica y los manuales de uso para y mejorar la vida útil el equipo.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_15_2 15.2 Desinfectantes y detergentes
+    Separador
+    #t_15_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 15.2 Desinfectantes y detergentes
 
     p Según la Resolución 223 de 2021 define desinfectante como “un agente que elimina la mayoría de los microorganismos patógenos, pero no necesariamente todas las formas microbianas esporuladas en objetos y superficies inanimados” (p.3) y detergente según Resolución 689 de 2016 define detergente a toda “sustancia o preparado que contenga jabón u otros tensoactivos que se utilicen en procesos de lavado con agua. Los detergentes podrán adoptar cualquier forma (líquido, polvos, pasta, barra, pastilla, formas moldeadas, entre otros)” (p. 4).
     p.mb-5 Tanto desinfectantes como detergentes son insumos o sustancias químicas para la desinfección de una granja avícola; para el manejo de tales sustancias químicas según FENAVI (2020a) es importante tener en cuenta las condiciones generales como son: inventario de productos químicos, hojas de seguridad y rotulado de envase, compra del producto, transporte del producto, almacenamiento, utilización, kit de derrames y manejo de residuos.

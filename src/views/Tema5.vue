@@ -26,8 +26,9 @@
           .anexo__texto
             p Decreto 3651.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_5_1 5.1 Características de la bioseguridad en una granja avícola
+    Separador
+    #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 5.1 Características de la bioseguridad en una granja avícola
 
     p Los programas de bioseguridad son claves para el funcionamiento de las granjas avícolas bioseguras y se caracterizan por tener en cuenta aspectos, como: 
 
@@ -45,8 +46,9 @@
         i.lista-ul__vineta
         | Normas sanitarias.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_5_2 5.2 Aplicabilidad
+    Separador
+    #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 5.2 Aplicabilidad
 
     p La aplicabilidad de los programas de bioseguridad en las granjas avícolas se enfoca en evitar la propagación de agentes patógenos e infectocontagiosos que afecten a las aves y disminuyen a producción porque al proteger la salud de las aves se favorece el rendimiento, se evita la mortalidad, se mejora la calidad, se disminuyen los costos y se aumenta la rentabilidad. 
 
@@ -74,7 +76,7 @@
             figure
               img(src='@/assets/curso/temas/tema5/img-19.svg', alt='Texto que describa la imagen')
           .col-md-6
-            p Dentro de los problemas relacionados al manejo, el de las enfermedades que afectan a las aves de corral es uno de los más importantes, principalmente por el desconocimiento del productor a la hora de identificar las mismas a través de la observación en el comportamiento y sintomatología clínica y subclínica de las aves. Esta problemática puede ser abordada a través de la capacitación, el asesoramiento y el acompañamiento técnico, generando conocimientos y materiales de consulta apropiados al pequeño productor. 
+            p Dentro de los problemas relacionados el manejo, de las enfermedades que afectan a las aves de corral es uno de los más importantes, principalmente por el desconocimiento del productor a la hora de identificar las mismas a través de la observación en el comportamiento y sintomatología clínica y subclínica de las aves. Esta problemática puede ser abordada a través de la capacitación, el asesoramiento y el acompañamiento técnico, generando conocimientos y materiales de consulta apropiados al pequeño productor. 
 
       .py-3.py-md-4(titulo="Claves para la bioseguridad")
         .row
@@ -107,7 +109,7 @@
                   | Evitar la tenencia de cerdos cerca de su explotación.
                 li 
                   i.lista-ul__vineta
-                  | Al finalizar el lote realizar la sanitización de la polinaza/gallinaza.
+                  | Al finalizar el lote realizar la sanitización de la pollinaza/gallinaza.
 
 
       .py-3.py-md-4(titulo="Factores de riesgo")
@@ -268,7 +270,7 @@
             | Distancias entre galpones.
           li 
             i.lista-ul__vineta
-              | Distancia galón cerco perimetral.
+            | Distancia galpón cerco perimetral.
           li 
             i.lista-ul__vineta
             | Distancia otras explotaciones avícolas (500 m).
@@ -296,16 +298,16 @@
         ul.lista-ul.mb-5
           li 
             i.lista-ul__vineta
-            | Área manejo y disposición mortalidad.
+            | Área de manejo y disposición de mortalidad.
           li 
             i.lista-ul__vineta
-            | Bodegas alimento e insumos.
+            | Bodegas de alimento e insumos.
           li 
             i.lista-ul__vineta
             | Mortalidad.
-          li 
-            i.lista-ul__vineta
-            | Bodegas alimento e insumos. 
+          //- li 
+          //-   i.lista-ul__vineta
+          //-   | Bodegas alimento e insumos. 
           li 
             i.lista-ul__vineta
             | Bodega para almacenamiento, clasificación y embalaje de huevos (levante /postura). 
@@ -327,7 +329,7 @@
           .col-8
             img(src='@/assets/curso/temas/tema5/img-27.svg' alt='AvatarTop')
         h4.text-center Procedimientos operativos estandarizados POES para visitantes
-        p Son las medidas de higiene y seguridad laboral y adicionalmente se deben tener en cuenta los siguientes elementos
+        p Son las medidas de higiene y seguridad laboral, adicionalmente se deben tener en cuenta los siguientes elementos:
         ul.lista-ul.mb-5
           li 
             i.lista-ul__vineta
@@ -366,7 +368,7 @@
             | Manejo de huevo comercial y huevo incubable (según el caso).
           li 
             i.lista-ul__vineta
-            | Tratamiento térmico de la poliniza.
+            | Tratamiento térmico de la pollinaza.
           li 
             i.lista-ul__vineta
             | Tratamiento y disposición de las cajas de cartón o plásticas utilizadas en el transporte de pollito/a de un día.

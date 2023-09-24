@@ -15,16 +15,15 @@
           .col-md-6.mb-4.mb-md-0
             h4 Tipos 
             p Los tipos de insumos pecuarios son reconocidos por  (Anzola et al., 2008) como: 
-            p “Producto químico, biológico o de origen biotecnológico utilizado para promover la producción avícola. 
-            p Se incluyen en esta definición las aves con destino a la reproducción, comerciales de primera generación y los huevos fértiles para incubación” (p.10). 
+            p “Producto químico, biológico o de origen biotecnológico utilizado para promover la producción avícola. Se incluyen en esta definición las aves con destino a la reproducción, comerciales de primera generación y los huevos fértiles para incubación” (p.10). 
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema12/img-57.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema12/img-57.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
-            p <strong>Insumos quícimos:</strong>
+            p <strong>Insumos químicos:</strong>
             ul.lista-ul.mb-5
               li 
                 i.lista-ul__vineta
@@ -44,7 +43,7 @@
             
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema12/img-58.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema12/img-58.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -54,17 +53,17 @@
                 i.lista-ul__vineta
                 | Vacunas utilizadas en planes sanitarios.
             p <strong>Insumos biotecnológicos:</strong>
-            ul.lista-ul.mb-5
+            ul.lista-ul.mb-2
               li 
                 i.lista-ul__vineta
                 | La genética de las líneas aviares.
               li 
                 i.lista-ul__vineta
                 | Las aves comerciales como como gallinas ponedoras y pollo de engorde en sus diferentes líneas genéticas y los huevos. 
-
+            p Es importante realizar una adecuada calibración, limpieza y desinfección de instrumental reutilizable, usado para la administración de medicamentos veterinarios.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema12/img-59.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema12/img-59.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -81,7 +80,7 @@
           
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema12/img-62.png', alt='Texto que describa la imagen')  
+              img(src='@/assets/curso/temas/tema12/img-62.png', alt='')  
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -98,7 +97,7 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema12/img-63.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema12/img-63.png', alt='')
         
         .row
           .col-md-6.mb-4.mb-md-0
@@ -121,7 +120,7 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema12/img-61.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema12/img-61.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -140,7 +139,7 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema12/img-60.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema12/img-60.png', alt='')
 
     .row.align-items-center.mb-4(data-aos="fade-down-left")
       .col-md-6.mb-4
@@ -151,18 +150,20 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p resolución 789, 2007
+            p Resolución 789, 2007
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_12_1 12.1 Ingreso de insumos pecuarios
+    Separador
+    #t_12_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 12.1 Ingreso de insumos pecuarios
 
     p.mb-5 Para el ingreso de cualquier tipo de insumo pecuario en granjas o plantas de incubación avícolas debe existir un manual de procedimientos escritos para control de calidad de materias primas e insumos, donde se señalen las especificaciones de calidad y los criterios de aceptación y rechazo.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_12_2 12.2 Protocolos 
+    Separador
+    #t_12_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 12.2 Protocolos 
 
     p El protocolo de bioseguridad de ingreso de insumos pecuarios debe estar diseñado con el fin de evitar la contaminación de tipo biológico o químico para proteger la salud de las personas y los animales que van a estar en contacto con los insumos. 
-    p Teniendo la emergencia sanitaria se expide la Resolución 773, 2020 donde señala aspectos a tener en cuenta para garantizar el cuidado de los proveedores y clientes al entregar y recibir insumos. 
+    p Teniendo la emergencia sanitaria se expide la Resolución 773 de 2020, donde señala aspectos a tener en cuenta para garantizar el cuidado de los proveedores y clientes al entregar y recibir insumos. 
     p Algunos aspectos del protocolo a tener en cuenta son: 
 
     ul.lista-ul.mb-5
@@ -194,15 +195,17 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p resolución 773, 2020
+            p Resolución 773, 2020
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_12_3 12.3 Procedimiento técnico
+    Separador
+    #t_12_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 12.3 Procedimiento técnico
 
     p.mb-5 Los insumos pecuarios ya sean químicos y/o biológicos, deben tener procedimientos técnicos descritos en la ficha técnica y hoja de seguridad. Es importante que la empresa avícola acate todos los requerimientos que da el proveedor de estos insumos, con el fin de evitar su mal uso, despilfarro o algún accidente por contacto.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_12_4 12.4 Normativa sanitaria de insumos pecuarios
+    Separador
+    #t_12_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 12.4 Normativa sanitaria de insumos pecuarios
 
     p En las granjas avícolas bioseguras los insumos pecuarios son requeridos para los procesos de producción avícola y están regulados por diferentes normas de la siguiente manera:
 

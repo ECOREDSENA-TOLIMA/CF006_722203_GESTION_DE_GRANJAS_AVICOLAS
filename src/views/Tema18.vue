@@ -6,17 +6,18 @@
       .titulo-principal__numero
         span 18
       h1 Mortalidad 
-    p.mb-5 Las aves muertas (FENAVI, 2018c)  se deben manejar muy bien para  “evitar impactos ambientales y riesgo sanitario, ya que un ave mal manipulada se convierte en foco de vectores para la propagación de enfermedades. Para esto el compostaje se constituye en una alternativa con mucha viabilidad para estabilizar residuos”, contribuyendo a la bioseguridad de la granja. 
+    p.mb-5 Las aves muertas (FENAVI, 2018c)  se deben manejar muy bien para  “evitar impactos ambientales y riesgo sanitario, ya que un ave mal manipulada se convierte en foco de vectores para la propagación de enfermedades. Para esto, el compostaje se constituye en una alternativa con mucha viabilidad para estabilizar residuos”, contribuyendo a la bioseguridad de la granja. 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema18/img-82.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Para la reducción de emisiones causada por la descomposición de subproductos orgánicos avícolas, se recomienda su estabilización, preferiblemente, por medio de técnicas de valorización como el compostaje. De este modo, aparte de reducir la emisión de olores se está generando valor al producir materia orgánica compostada que se puede usar para aplicar en suelos.
+        p.mb-0 Para la reducción de emisiones causada por la descomposición de subproductos orgánicos avícolas, se recomienda su estabilización, preferiblemente, por medio de técnicas de valorización como el compostaje. De este modo, aparte de reducir la emisión de olores, se está generando valor al producir materia orgánica compostada que se puede usar para aplicar en suelos.
     
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_18_1 18.1 Protocolo de recolección 
+    Separador
+    #t_18_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 18.1 Protocolo de recolección 
 
     p El protocolo de recolección de aves muertas, inicia cuando el operario hace un recorrido diario por los galpones de la granja para verificar la mortalidad, si existen aves muertas, se deben desarrollar los siguientes pasos para compostar adecuadamente:
 
@@ -51,16 +52,17 @@
             span.text-bold 9. 
             | 30 días después del volteo realizar la evacuación final usando una zaranda para apartar carcaza y plumas.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_18_2 18.2 Prácticas de posición 
+    Separador
+    #t_18_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 18.2 Prácticas de posición 
 
     p.mb-5 Las prácticas de disposición de la mortalidad deben hacerse en una caseta para compostaje, la cual debe estar ubicada en una zona alejada del área de producción para evitar la contaminación del galpón por corrientes de aire o paso de personal.     
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-        h5 Figura 11.
+        h5 Figura 10.
         span <em>Manejo de la mortalidad</em>
-      img.d-md-block(src="@/assets/curso/temas/tema17/img-81.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema17/img-81.svg" data-aos="fade-left" alt="En la figura 10 se muestra el manejo de la mortalidad con los pasos correctos para el manejo.")
           
     p La zona destinada para la estructura debe contar con:
     ul.lista-ul.mb-5
@@ -112,17 +114,19 @@
 
     .col-xl-8.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-        h5 Figura 12.
+        h5 Figura 11.
         span <em>Disposición final de aves muertas</em>
-      img.d-md-block(src="@/assets/curso/temas/tema18/img-83.svg" data-aos="fade-right")
+      img.d-md-block(src="@/assets/curso/temas/tema18/img-83.svg" data-aos="fade-right" alt="En la figura 11 se muestra la disposición final de aves muertas.")
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_18_3 18.3 Compostaje 
+    Separador
+    #t_18_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 18.3 Compostaje 
 
     p.mb-5 Según FENAVI (2019b) la compostación es un “proceso obtenido de manera natural por descomposición aeróbica (con oxígeno) de residuos orgánicos como restos vegetales, animales y excremento, por medio de la reproducción masiva de bacterias aerobias termófilas que están presentes en forma natural en cualquier lugar”. (p. 34). 
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_18_4 18.4 Técnicas de manejo 
+    Separador
+    #t_18_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 18.4 Técnicas de manejo 
 
     p Las técnicas de manejo de las aves muertas son: 
 
