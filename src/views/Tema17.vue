@@ -7,7 +7,7 @@
         span 17
       h1 Sanitización y estabilización de la pollinaza y gallinaza
     
-    p.mb-5 Según Fenavi (2014), la sanitización es un “proceso u operaciones físicas (tratamiento térmico), químicas o biológicas (compostaje) o mezcla de éstas, a los que se somete la gallinaza o pollinaza para garantizar la eliminación de agentes infectocontagiosos para las aves, otros animales y para los seres humanos, antes de ser retirada del galpón de origen. (p. 101).
+    p.mb-5 Según Fenavi (2014), la sanitización es un “proceso u operaciones físicas (tratamiento térmico), químicas o biológicas (compostaje) o mezcla de éstas, a los que se somete la gallinaza o pollinaza para garantizar la eliminación de agentes infectocontagiosos para las aves, otros animales y para los seres humanos, antes de ser retirada del galpón de origen”. (p. 101).
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h3 Sanitización y estabilización de la pollinaza y gallinaza
@@ -50,12 +50,12 @@
 
     //- img.mb-5(src="@/assets/curso/temas/tema17/img-79.svg" data-aos="fade-right")
 
-    //- .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-    //-   h3 Técnicas de estabilización
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h3 Técnicas de estabilización
     
-    //- p La técnica recomendada para la estabilización de la gallinaza/pollinaza es el compostaje. 
-    //- p.mb-5 El compostaje es el proceso de descomposición y transformación de los residuos orgánicos generados en la granja, como estiércol de aves, plumas, restos de alimentos y paja, en un producto final llamado compost. 
-
+    p.mb-3 La técnica recomendada para la estabilización de la gallinaza/pollinaza es el compostaje. 
+    p.mb-3 El compostaje es el proceso de descomposición y transformación de los residuos orgánicos generados en la granja, como estiércol de aves, plumas, restos de alimentos y paja, en un producto final llamado #[em compost]. 
+    p.mb-5 #[b Compostaje:] reutilización de los residuos orgánicos.
     //- img.mb-5(src="@/assets/curso/temas/tema17/img-80.svg" data-aos="fade-right")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -80,10 +80,7 @@
         | Enfriar pilas.
       li 
         i.lista-ul__vineta
-        | Empacar.
-      li 
-        i.lista-ul__vineta
-        | Retirar el material. 
+        | Empacar y retirar el material. 
     
     //- .col-xl-10.mx-auto.mb-5
     //-   .titulo-sexto.color-acento-contenido(data-aos="fade-right")

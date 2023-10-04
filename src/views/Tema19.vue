@@ -44,13 +44,15 @@
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Tabla 1.
         span <em>Biología de roedores</em>
-      img.d-md-block(src="@/assets/curso/temas/tema19/img-86.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema19/t1.png" data-aos="fade-left")
+      figcaption Nota. Características y diferencias de roedores. Elaboración propia
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Tabla 2.
         span <em>Biología de mosca</em>
-      img.d-md-block(src="@/assets/curso/temas/tema19/img-87.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema19/t2.png" data-aos="fade-left")
+      figcaption Nota. Ciclo evolutivo y características de la mosca. Elaboración propia
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h3 Comportamiento de los roedores
@@ -93,7 +95,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Clases y métodos de control de plagas
-            p Los métodos de control de plagas varían según el tipo de plaga presente, como roedores, moscas o escarabajos. En el caso de los roedores, se pueden utilizar métodos naturales, culturales, mecánicos y químicos. Para el control de moscas, existen métodos mecánicos, biológicos y químicos. Y para el control de escarabajos, se utilizar principalmente métodos químicos.
+            p Los métodos de control de plagas varían según el tipo de plaga presente, como roedores, moscas o escarabajos. En el caso de los roedores, se pueden utilizar métodos naturales, culturales, mecánicos y químicos. Para el control de moscas, existen métodos mecánicos, biológicos y químicos. Y para el control de escarabajos, se utilizan principalmente métodos químicos.
 
           .col-md-6
             figure
@@ -161,14 +163,14 @@
 
     .tarjeta.tarjeta.color-acento-botones.p-4.mb-5
       SlyderA(tipo="b")
-        .row
-          .col-md-6.mb-4.mb-md-0
-            h4 Plaguicidas
-            p Según el Decreto 1843 de 1991, un plaguicida es cualquier agente de naturaleza química, física o biológica que se utiliza en mezcla o combinación para prevenir, controlar o repeler insectos, ácaros, agentes patógenos y otros organismos que favorecen a animales, personas o plantas en una granja avícola.
+        //- .row
+        //-   .col-md-6.mb-4.mb-md-0
+        //-     h4 Plaguicidas
+        //-     p Según el Decreto 1843 de 1991, un plaguicida es cualquier agente de naturaleza química, física o biológica que se utiliza en mezcla o combinación para prevenir, controlar o repeler insectos, ácaros, agentes patógenos y otros organismos que favorecen a animales, personas o plantas en una granja avícola.
 
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema19/img-99.png', alt='Texto que describa la imagen')
+        //-   .col-md-6
+        //-     figure
+        //-       img(src='@/assets/curso/temas/tema19/img-99.png', alt='Texto que describa la imagen')
 
         .row
           .col-md-6.mb-4.mb-md-0

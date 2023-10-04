@@ -102,7 +102,7 @@
           .anexo__texto
             p Decreto 2113 de 2017
 
-    p.mb-5 Las cinco libertades que deben tener los animales de acuerdo a lo establecido por las anteriores reglamentaciones, Decreto 2113 de 2017 y que son sintetizadas en la siguiente figura descritas ICA, (2020). En las granjas avícolas bioseguras se deben considerar los principios o libertades de los animales para lograr que las aves manifiesten su potencial genético y permita su desarrollo productivo.
+    p.mb-5 Las cinco libertades que deben tener los animales de acuerdo a lo establecido por las anteriores reglamentaciones, Decreto 2113 de 2017 y que son sintetizadas en la siguiente figura acerca de las libertades del bienestar animal (ICA, 2020). En las granjas avícolas bioseguras se deben considerar los principios o libertades de los animales para lograr que las aves manifiesten su potencial genético y permita su desarrollo productivo.
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")

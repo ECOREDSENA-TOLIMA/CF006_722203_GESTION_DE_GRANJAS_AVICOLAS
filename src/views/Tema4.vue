@@ -62,7 +62,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img-16.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Un protocolo de bioseguridad, es un documento escrito donde se describen los procedimientos técnicos, higiénicos sanitarios de prevención de las enfermedades causadas por diferentes vectores; en estos documentos se hace una descripción detallada y ordenada de las acciones y procedimientos que se deben llevar a cabo en un tiempo estipulado para el correcto desempeño en granja avícola.  
+        p.mb-0 Un protocolo de bioseguridad, es un documento escrito donde se describen los procedimientos técnicos, higiénico sanitarios de prevención de las enfermedades causadas por diferentes vectores; en estos documentos se hace una descripción detallada y ordenada de las acciones y procedimientos que se deben llevar a cabo en un tiempo estipulado para el correcto desempeño en granja avícola.  
 
       
 

@@ -52,7 +52,7 @@
     #t_16_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 16.3 Manejo de la cama 
 
-    p Es importante un buen manejo de la cama avícola desde el inicio de la producción hasta el final de esta; ya que, una cama adecuada y bien manejada es clave dentro del sistema de bioseguridad de la granja evitando así, problemas higiénicos sanitarios que retrasen la producción avícola.
+    p Es importante un buen manejo de la cama avícola desde el inicio de la producción hasta el final de esta; ya que, una cama adecuada y bien manejada es clave dentro del sistema de bioseguridad de la granja evitando así, problemas higiénico sanitarios que retrasen la producción avícola.
     p  Un manejo inadecuado de la cama en cuanto a calidad y cantidad, puede dar lugar a:
     ul.lista-ul
       li 

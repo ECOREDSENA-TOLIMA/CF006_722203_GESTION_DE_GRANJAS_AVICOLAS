@@ -76,7 +76,7 @@
             figure
               img(src='@/assets/curso/temas/tema5/img-19.svg', alt='Texto que describa la imagen')
           .col-md-6
-            p Dentro de los problemas relacionados el manejo, de las enfermedades que afectan a las aves de corral es uno de los más importantes, principalmente por el desconocimiento del productor a la hora de identificar las mismas a través de la observación en el comportamiento y sintomatología clínica y subclínica de las aves. Esta problemática puede ser abordada a través de la capacitación, el asesoramiento y el acompañamiento técnico, generando conocimientos y materiales de consulta apropiados al pequeño productor. 
+            p Dentro de los problemas relacionados con el manejo de las enfermedades que afectan a las aves de corral es uno de los más importantes, principalmente por el desconocimiento del productor a la hora de identificar las mismas a través de la observación en el comportamiento y sintomatología clínica y subclínica de las aves. Esta problemática puede ser abordada a través de la capacitación, el asesoramiento y el acompañamiento técnico, generando conocimientos y materiales de consulta apropiados al pequeño productor. 
 
       .py-3.py-md-4(titulo="Claves para la bioseguridad")
         .row

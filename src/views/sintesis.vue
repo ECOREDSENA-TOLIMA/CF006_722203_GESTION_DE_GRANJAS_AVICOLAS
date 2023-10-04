@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Conceptos y normatividad de bioseguridad en granjas avícolas basados en las buenas prácticas y regulaciones e identificadas en sistema de producción. POT, concesión de agua, programas de bioseguridad, normatividad y procedimientos operativos.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

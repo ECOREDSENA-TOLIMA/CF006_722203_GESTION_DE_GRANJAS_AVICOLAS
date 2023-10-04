@@ -435,7 +435,7 @@ export default {
     },
     {
       tema:
-        '12 FICHA TÉCNICA uso de fichas técnicas del insumo amoniaco cuaternario para la desinfección.',
+        '12 Ficha técnica uso de fichas técnicas del insumo amoniaco cuaternario para la desinfección.',
       referencia:
         'Productos Químicos Panamericanos. (2020). Ficha técnica: desinfectante amonio cuaternario. 5ta generación.',
       tipo: 'PDF',
@@ -443,7 +443,7 @@ export default {
         'https://pqpprofesional.com/wp-content/uploads/2023/01/FT-CC-570-Desinfectante-amonios-cuaternarios-5ta.-g-10-PQP-Profesional.pdf',
     },
     {
-      tema: '13.2 HOJA DE SEGURIDAD',
+      tema: '13.2 Hoja de seguridad',
       referencia:
         'Productos Químicos Panamericanos. (2020). Hoja de seguridad. Desinfectante amonio cuaternario, 5ta generación.',
       tipo: 'PDF',
@@ -453,7 +453,8 @@ export default {
     {
       tema:
         '14.2 Organización Mundial de Sanidad Animal (OEI). Bienestar Animal.',
-      referencia: 'Organización Mundial de Sanidad Animal. (2021).',
+      referencia:
+        'Organización Mundial de Sanidad Animal. (2021). Bienestar Animal.  ',
       tipo: 'Web',
       link:
         'https://www.oie.int/es/que-hacemos/sanidad-y-bienestar-animal/bienestar-animal/',
@@ -513,9 +514,8 @@ export default {
     },
     {
       referencia:
-        'AviNews. (2015). Tipos y manejo de la cama - yacija para aves. En [Sitio Web]. ',
-      link:
-        'https://avicultura.info/tipos-y-manejo-de-la-cama-yacija-para-aves/',
+        'AviNews. (2015). Camas para aves, tipos y manejo de la cama - yacija para aves. En [Sitio Web] ',
+      link: 'https://avinews.com/cama-para-aves-tipos-y-manejo/',
     },
     {
       referencia: 'Corantioquia. (2019). Glosario. [Sitio Web]. ',
@@ -537,7 +537,7 @@ export default {
       referencia:
         'Decreto 1076, 2015. [Ministerio de Ambiente y desarrollo económico]. Por medio del cual se expide el decreto único reglamentario del sector Ambiente y Desarrollo Sostenible. ',
       link:
-        'http://www.ideam.gov.co/documents/11769/46844622/Dec+1076_2015.pdf/8c28b13e-0937-42bd-b4a2-4b99114f9362',
+        'https://www.minambiente.gov.co/wp-content/uploads/2021/06/Decreto-1076-de-2015.pdf',
     },
     {
       referencia:

@@ -51,7 +51,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Elementos de protección
-            p Los elementos de protección personal, las medidas de protección y las prácticas higiénicas son muy importante, porque: Ayudan a disminuir los factores de riesgo físico, biológico y químico que pueden generar accidentes de trabajo y por ende incapacidades laborales.
+            p Los elementos de protección personal, las medidas de protección y las prácticas higiénicas son muy importantes, porque: Ayudan a disminuir los factores de riesgo físico, biológico y químico que pueden generar accidentes de trabajo y por ende incapacidades laborales.
             p Con el propósito de preservar la salud y seguridad de los operarios según (Anzola et al., 2008) deben existir: “equipos e implementos de seguridad en correcto funcionamiento y ubicados en lugar visible y de fácil acceso (extintores, campanas extractoras de aire, barandas, etc.)”. Los operarios dispondrán de adecuada dotación y usar los elementos de protección personal requeridos, tales como: 
           
           .col-md-6
@@ -178,7 +178,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                p.text-small Para profundizar sobre el tema medidas de protección y su implicación en la gestión biosegura en las empresas avícolas en Colombia, puede acceder al siguiente video de Fenavi. ¨Reglas de oro en la bioseguridad avícola¨.
+                p.text-small Para profundizar sobre el tema medidas de protección y su implicación en la gestión biosegura en las empresas avícolas en Colombia, puede acceder al siguiente video de Fenavi. “Reglas de oro en la bioseguridad avícola”.
                 
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=skID4N7tIqo')" target="_blank")

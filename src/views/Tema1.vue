@@ -119,8 +119,8 @@
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 3.
-        span <em>Componentes del sistema de gestión agrícola</em>
-      img.d-md-block.mb-5(src="@/assets/curso/temas/tema1/img-3.svg" data-aos="fade-left" alt="En la figura 3 se muestran los componentes del sistema de gestión agrícola, donde se describe la línea genética.")
+        span <em>Componentes del sistema de gestión avícola</em>
+      img.d-md-block.mb-5(src="@/assets/curso/temas/tema1/img-3.svg" data-aos="fade-left" alt="En la figura 3 se muestran los componentes del sistema de gestión avícola, donde se describe la línea genética.")
       figcaption Nota: adaptada de la guía ambiental para el subsector agrícola de FENAVI (2014).
 
 
