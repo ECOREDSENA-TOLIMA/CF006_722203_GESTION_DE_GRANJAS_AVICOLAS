@@ -54,7 +54,7 @@
 
     Separador
     #t_18_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 18.2 Prácticas de posición 
+      h2 18.2 Prácticas de disposición 
 
     p.mb-5 Las prácticas de disposición de la mortalidad deben hacerse en una caseta para compostaje, la cual debe estar ubicada en una zona alejada del área de producción para evitar la contaminación del galpón por corrientes de aire o paso de personal.     
 

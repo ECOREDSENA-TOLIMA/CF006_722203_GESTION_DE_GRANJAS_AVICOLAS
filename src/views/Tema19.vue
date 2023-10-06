@@ -38,7 +38,7 @@
       h3 Biología 
 
     p La biología de una plaga y vector permite identificar sus características físicas y ciclo evolutivo, esto permite tomar medidas de control y evitar el ingreso a la producción avícola. 
-    p.mb-5 La biología de roedores se describe en las siguientes tabla:  
+    p.mb-5 La biología de roedores se describe en las siguientes tablas:  
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
@@ -194,7 +194,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Manejo
-            p El manejo de los plaguicidas se realiza teniendo en cuenta las categorías toxicológicas de los productos y el rombo de seguridad, el cual identifica los diferentes riesgos mediante colores: azul para riesgo a la salud, rojo para riesgo de inflamabilidad, amarillo para riesgos por reactividad y blanco para riesgo especifico. El manejo de los plaguicidas varía según su toxicidad. Por ejemplo, los rodenticidas, clasificados como categoría I (extremadamente peligrosos), deben manipularse con guantes de protección.
+            p El manejo de los plaguicidas se realiza teniendo en cuenta las categorías toxicológicas de los productos y el rombo de seguridad, el cual identifica los diferentes riesgos mediante colores: azul para riesgo a la salud, rojo para riesgo de inflamabilidad, amarillo para riesgos por reactividad y blanco para riesgo específico. El manejo de los plaguicidas varía según su toxicidad. Por ejemplo, los rodenticidas, clasificados como categoría I (extremadamente peligrosos), deben manipularse con guantes de protección.
 
           .col-md-6
             figure
